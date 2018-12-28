@@ -1,0 +1,67 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+- title: Who We Are
+  url: /who-we-are/
+- title: Deceased CPF / Estate Monies
+  url: /deceased-cpf-estate-monies/next-of-kin-cpf/
+  sub-links:
+  - title: Information for Next-of-Kin (CPF Monies)
+    url: /deceased-cpf-estate-monies/next-of-kin-cpf/
+  - title: Information for Next-of-Kin (Estate Monies)
+    url: /deceased-cpf-estate-monies/next-of-kin-estate/
+  - title: Information for Minor Beneficiaries
+    url: /deceased-cpf-estate-monies/minor-beneficiaries/
+  - title: Administration of Claims against Bona Vacantia Estates
+    url: /deceased-cpf-estate-monies/claims-against-bona-vacantia-estates/
+  - title: Forms
+    url: /deceased-cpf-estate-monies/forms/
+  - title: Guide for Payment to PT
+    url: /deceased-cpf-estate-monies/guide-for-payment-pt/
+  - title: Unclaimed Monies
+    url: /deceased-cpf-estate-monies/unclaimed-monies/
+  - title: Statistics
+    url: /deceased-cpf-estate-monies/statistics/
+  - title: Announcements
+    url: /deceased-cpf-estate-monies/accouncements/
+
+- title: Motor Accident Cases
+  url: /motor-accident-cases/info-motor-accident-victims/
+  sub-links:
+  - title: Information for Motor Accident Victims
+    url: /motor-accident-cases/info-motor-accident-victims/
+  - title: Forms / Guides
+    url: /motor-accident-cases/forms-guides/
+  - title: Practice Circulars
+    url: /motor-accident-cases/practise-circulars/
+  - title: Statistics
+    url: /motor-accident-cases/statistics/
+
+- title: Wills Registry
+  url: /wills-registry/sub-page-C/
+  sub-links:
+  - title: Information for Testators
+    url: /wills-registry/info-for-testators/
+  - title: Guides and Forms
+    url: /wills-registry/guides-forms/
+  - title: Practice Circulars
+    url: /wills-registry/practise-circulars/
+
+- title: eServices
+  url: https://www.mlaw.gov.sg/content/pto/en/wills-registry/forms.html
+- title: News
+  url: /resource-room/
+  sub-links:
+  - title: All
+    url: /resource-room/
+  - title: Subcategory A
+    url: /resource-room/subcategory-A/
+  - title: Subcategory B
+    url: /resource-room/subcategory-B/
+  - title: Subcategory C
+    url: /resource-room/subcategory-C/
+- title: Join Us
+  url: https://www.mlaw.gov.sg/content/minlaw/en/join-us/why-join-minlaw.html
