@@ -14,8 +14,8 @@ locations:
   # Operating Hours [OPTIONAL]
     operating-hours:
       - days: Mon - Thu
-        time: 8.30am - 6.00pm
-      - days: Fri
+        time: 10.00am - 6.00pm
+      - days: Sat
         time: 8.30am - 5.30pm
         description: "Closed during lunch: 12.30pm - 1.30pm <br>Closed on Weekends and Public Holidays"
 
@@ -24,7 +24,7 @@ locations:
 column:
   - title: General Enquiries & Feedback
     content:
-    - line: +65 6222 5295
+    - line: +65 6222 5295/66235 3535
     - line: boarch@singnet.com.sg (email)
     # If you have an email, put (email) after the actual email
 
