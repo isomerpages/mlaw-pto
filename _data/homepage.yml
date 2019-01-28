@@ -29,7 +29,7 @@ key-highlights:
     description: Important highlight B is equally important
     url: https://yahoo.com
     external: true
-  - title: Page C
-    description: Page C is important to everyone
+  - title: Page A
+    description: Page A is  NOT important too TO ME.
     url: /page-A/
 
