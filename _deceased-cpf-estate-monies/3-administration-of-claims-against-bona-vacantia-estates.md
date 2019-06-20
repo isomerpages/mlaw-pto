@@ -7,6 +7,8 @@ collection_name: deceased-cpf-estate-monies
 
 ---
 
+Administration of Claims against Bona Vacantia Estates
+---
 **1.	What is bona vacantia?**<br>
 Bona vacantia literally translates as "ownerless goods". It refers to the assets in the estates of people who have died without leaving a will and without any surviving entitled next-of-kin[1]. Anyone can make an equitable or moral claim on the bona vacantia estate of the deceased as long as he is able to produce the necessary documents and evidence required to support his claim.
 
