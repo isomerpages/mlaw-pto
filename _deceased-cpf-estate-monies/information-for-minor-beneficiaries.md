@@ -57,13 +57,19 @@ If you are the parent or legal guardian of a child and you face financial diffic
 
 In deciding the amount of the maintenance allowance, we will consider the following.
 
-  1.1 Your income, property and other financial resources.
-  2.1 Your financial needs and responsibilities.
-  3.1 The financial needs and the age of the child.
-  4.1 The way in which the child is being or is expected to be educated or trained.
-
+  * Your income, property and other financial resources.
+  * Your financial needs and responsibilities.
+  * The financial needs and the age of the child.
+  * The way in which the child is being or is expected to be educated or trained.
 
 3.		How do I apply for a child’s maintenance allowance?
+
+You will need to make an online application for maintenance allowance at www.mlaw.gov.sg/pto. Select "Application for Maintenance Allowance".
+
+You will also need to have your Singpass ready to access our online application form. You may apply for your Singpass at https://www.singpass.gov.sg if you do not have one.
+
+
+If you are not eligible for a Singpass, you may apply for a log-in ID and password through our website at http://www.mlaw.gov.sg/pto.
 
 4.  What are the documents that I need to send to you?
 5.		How will the maintenance allowance be paid?
