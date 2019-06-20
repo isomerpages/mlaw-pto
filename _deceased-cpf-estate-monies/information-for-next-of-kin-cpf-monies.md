@@ -262,13 +262,84 @@ Nominated CPF Monies
 ---
 
 1. The deceased had nominated his CPF money to a person (i.e. nominee) who has passed on. What should I do?
+
+If CPF money was nominated in favour of a person ( “the nominee”) who has passed on, the money will form part of the estate of the nominee, if the nominee had passed on after the CPF member. If you are a next-of-kin of the nominee, you may apply to the Public Trustee to administer the estate of the deceased nominee if it is a small-value estate.
+
+If the deceased nominee’s estate does not qualify for administration by the Public Trustee, you will need to apply to court for Letters of Administration or Grant of Probate to deal with the nominee’s estate, including the CPF money payable to the nominee. If you qualify for legal aid, you may apply to the Legal Aid Bureau for help in getting Letters of Administration. If you do not qualify for legal aid, you will need to hire a lawyer. Where the Public Trustee does not act for the deceased nominee’s estate, the CPF money payable to the nominee will be paid to the administrator of their estate or the executor of their will.
+
+Please refer to our online FAQ under “Information for Next-of-Kin (Estate Monies)” on the situations where the Public Trustee would be able to assist to administer an estate, and on how to make an online application to the Public Trustee for the administration of a deceased estate.<br><br>
+
 2. What fees do you charge for holding nominated CPF money in trust for a minor?
+
+The fees we charge for holding nominated CPF money in trust for a minor are shown below.
+
+<table>
+  <tr>
+    <td>Amount of CPF Money</td>
+    <td>Charge</td>
+  </tr>
+  <tr>
+    <td>For the first $1,000</td>
+    <td>2.400%</td>
+  </tr>
+  <tr>
+    <td>For the next $9,000</td>
+    <td>1.500%</td>
+  </tr>
+  <tr>
+    <td>For the next $240,000</td>
+    <td>0.750%</td>
+  </tr>
+  <tr>
+    <td>For the next $250,000</td>
+    <td>0.450%</td>
+  </tr>
+  <tr>
+    <td>For amounts over $500,000</td>
+    <td>0.300%</td>
+  </tr>
+</table>
+
+These are one-time fees, which we will take from the nominated CPF money. They include GST and cannot be waived.
+
+The money held in trust for the minor is invested by the Public Trustee according to law. The investment earns interest for the minor from year to year. Whenever interest is to be paid to the minor, a fee is charged on the amount of the interest. The net interest amount (less the fee) is paid into the minor’s trust fund. The fee charged on the interest amount is as shown below.
+
+<table>
+  <tr>
+    <td>Amount of Interest Earned</td>
+    <td>Charge</td>
+  </tr>
+  <tr>
+    <td>For the first $1,000</td>
+    <td>5.50%</td>
+  </tr>
+  <tr>
+    <td>For the next $1,000</td>
+    <td>4.50%</td>
+  </tr>
+  <tr>
+    <td>For the next $1,000</td>
+    <td>3.50%</td>
+  </tr>
+  <tr>
+    <td>For amounts in excess of $3,000</td>
+    <td>2.25%</td>
+  </tr>
+</table>
 
 Online Submission of Application
 ---
 
 1. I need someone to assist me to submit the online application but I do not want to engage the e-Helper’s service
+
+You may wish to get a family member or a trusted friend to assist you in completing our online application form.
+
 2. We have notified CPF Board of the Deceased’s death last week and were told that the Deceased’s un-nominated CPF money will be forwarded to the Public Trustee for administration. We tried to submit an online application for the Public Trustee to administer the Deceased’s un-nominated CPF money. However, your system showed that there was no un-nominated CPF money for administration. What is going on?
 
+Upon receiving notification of the death of the CPF member, the CPF Board typically requires **4 to 6 weeks** to remit the un-nominated CPF money to us for administration.  
+
+You will only be able to submit an online application for the administration of the Deceased’s un-nominated CPF money after we have received the money from the CPF Board.
+
+Once we have received the money from the CPF Board, we will write to the person who had notified the CPF Board of the death of the CPF member, to make an online application to us for the administration of the Deceased’s un-nominated CPF money.
 
 **With effect from 5 Mar 2018, all payments will be made electronically.**
