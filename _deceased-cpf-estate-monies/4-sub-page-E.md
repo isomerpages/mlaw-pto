@@ -116,27 +116,27 @@ In addition, please let us have the following document/information:
 **16.	When can the Public Trustee administer the estate?**<br>
 For an estate that is ≤ $50,000, the Public Trustee will be able to administer the estate as long as it meets the set of criteria stated below.
 
-1.      No pending applications for Letter of Administration or Grant of Probate
+1. No pending applications for Letter of Administration or Grant of Probate
 
-2.     Estate does not exceed $50,000 in value
+2. Estate does not exceed $50,000 in value
 
-3.     Estate does not have any outstanding debts or liabilities
+3. Estate does not have any outstanding debts or liabilities
 
-4.     Deceased does not own a commercial vehicle or a vehicle with an outstanding loan
+4. Deceased does not own a commercial vehicle or a vehicle with an outstanding loan
 
-5.     Deceased does not hold a Trust bank account with a minor
+5. Deceased does not hold a Trust bank account with a minor
 
-6.     Deceased does not own an insurance policy that falls under S73 of the Conveyancing and Law of Property Act (Cap 61)
+6. Deceased does not own an insurance policy that falls under S73 of the Conveyancing and Law of Property Act (Cap 61)
 
-7.     Deceased does not have shares or other interests in unlisted companies (Foreign or Local)
+7. Deceased does not have shares or other interests in unlisted companies (Foreign or Local)
 
-8.     There are no conflicting claims to the estate or disputes among beneficiaries
+8. There are no conflicting claims to the estate or disputes among beneficiaries
 
-9.     Deceased is not a partner, sole proprietor or had interests in firms or other business
+9. Deceased is not a partner, sole proprietor or had interests in firms or other business
 
-10.  Deceased is not the sole lessee (owner) of a HDB flat and there are no minor interests
+10. Deceased is not the sole lessee (owner) of a HDB flat and there are no minor interests
 
-11.   There are no pending law suits which involve the deceased
+11. There are no pending law suits which involve the deceased
 
 **17.	What is the process like after Minister of Law has approved my equitable or moral claim?**<br>
 For cases where the Public Trustee acts as the administrator of the estate, we will put up a warrant for Minister of Law to sign once the estate administration is completed. The ministerial warrant will transfer the estate or that part of the estate which is allowed to the claimant.
