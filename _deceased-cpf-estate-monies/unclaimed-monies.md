@@ -39,7 +39,7 @@ Unclaimed Monies
   <tr>
     <td>Step 4</td>
     <td>
-      Produce the necessary documents according to each of the categories set out below. Please provide information on the “Payee Name”, “Year Paid” and “Remarks” or "Reference No." when making the claim. The list of required documents can be found here. 
+      Produce the necessary documents according to each of the categories set out below. Please provide information on the “Payee Name”, “Year Paid” and “Remarks” or "Reference No." when making the claim. The list of required documents can be found [here](). 
     </td>
   </tr>
   <tr>
