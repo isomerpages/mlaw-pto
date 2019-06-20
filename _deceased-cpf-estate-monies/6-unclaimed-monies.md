@@ -32,14 +32,14 @@ Unclaimed Monies
       45 Maxwell Road<br>
       #07-11<br>
       Singapore 069118<br><br>
-      [Contact Us @ OneMinLaw](https://www.mlaw.gov.sg/eservices/enquiry/)<br><br>
+      <a href="https://www.mlaw.gov.sg/eservices/enquiry/">Contact Us @ OneMinLaw</a><br><br>
       Tel: 1800-2255-529 (General Enquiries)
     </td>
   </tr>
   <tr>
     <td>Step 4</td>
     <td>
-      Produce the necessary documents according to each of the categories set out below. Please provide information on the “Payee Name”, “Year Paid” and “Remarks” or "Reference No." when making the claim. The list of required documents can be found [here](). 
+      Produce the necessary documents according to each of the categories set out below. Please provide information on the “Payee Name”, “Year Paid” and “Remarks” or "Reference No." when making the claim. The list of required documents can be found <a href="/_deceased-cpf-estate-monies/4-forms.md">here</a>. 
     </td>
   </tr>
   <tr>
