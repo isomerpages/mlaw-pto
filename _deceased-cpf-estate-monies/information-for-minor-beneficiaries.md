@@ -47,7 +47,7 @@ Information for Minor Beneficiaries
     18 years old (male & female)
     </td>
   </tr>
-</table>
+</table><br><br>
 
 2.		Can you release the money held-in-trust because I am now the only parent or guardian of the child and have financial difficulties supporting the child?
 
@@ -60,7 +60,7 @@ In deciding the amount of the maintenance allowance, we will consider the follow
   * Your income, property and other financial resources.
   * Your financial needs and responsibilities.
   * The financial needs and the age of the child.
-  * The way in which the child is being or is expected to be educated or trained.
+  * The way in which the child is being or is expected to be educated or trained.<br><br>
 
 3.		How do I apply for a child’s maintenance allowance?
 
