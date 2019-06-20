@@ -107,3 +107,20 @@ The fees charged by the PT are as follows:
 
 **For a Judgment obtained /  Settlement Agreement made on or after 1 August 2014:**
 
+Type of Fees | Amount1
+-------------|--------
+Fee for assessment of reasonableness of S and C costs | $225.00
+Fee for assessment of adequacy of compensation payment pursuant to a settlement agreement for an unrepresented victim | $300.00
+
+1 Inclusive of GST
+
+**For a Judgment obtained / Settlement Agreement made before 1 August 2014:**
+
+Type of Fees | Amount1
+-------------|--------
+Where the amount of general damages2 settled or awarded exceeds $5,000 but does not exceed $10,000 | $300.00
+Where the amount of general damages settled or awarded exceeds $10,000 | $500.00
+
+1 Inclusive of GST
+
+2 The amount of special damages, interest, costs and disbursements settled or awarded is not taken into account for the purpose of computing the fees.
