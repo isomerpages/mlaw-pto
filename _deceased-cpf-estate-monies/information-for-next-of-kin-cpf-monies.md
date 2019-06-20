@@ -213,8 +213,50 @@ Kindly note that these Rules of Distribution apply only to a non-Muslim Deceased
 
 
 8.	How would the Public Trustee distribute the CPF money of a Muslim?
+
+If the person who died was a Muslim, we will distribute the money in line with Section 112 of the Administration of Muslim Law Act according to the school of the Muslim law they observed.
+
+The Certificate of Inheritance issued by Syariah Court will list down the beneficiaries and their share of inheritance.<br><br>
+
 9.	How can I claim a reimbursement of funeral expenses out of the Deceased’s CPF money?
+
+You can indicate the amount of funeral expenses which you would like to claim from the Deceased’s un-nominated CPF monies in the online application form. 
+
+Please note that the maximum amount of funeral reimbursement claim allowable for a Deceased is $6,000.
+
+Only a beneficiary is eligible to claim a reimbursement of funeral expenses from the Deceased’s un-nominated CPF monies. 
+
+You will also have to submit the following supporting documents to us:
+
+1) NRIC/Passport/Social Security Card (for US Nationals)/Election Card (for Indian Nationals) of Claimant and Applicant who submitted the Online Application Form 
+
+2) Death Certificate of Deceased
+
+3) If Claimant is:<br>
+a. Spouse of Deceased – Marriage Certificate
+b. Child of Deceased – Birth Certificate of Child and Marriage Certificate of Parents
+c. Parent of Deceased – Birth Certificate of Deceased and Marriage Certificate of Parents
+d. Sibling of Deceased – Birth Certificate of Deceased and Birth Certificate of Sibling
+
+4) Original “Declaration Form (CPF monies) for funeral expenses” (Please return completed form by Post. Scanned and Faxed Copies are NOT allowed). You may obtain a softcopy of the “Declaration Form (CPF monies) for funeral expenses” at www.mlaw.gov.sg/pto > Deceased CPF / Estate monies > Forms.
+
+5) Front Page of Bank Passbook or Bank Statement indicating account number (For GIRO payment)
+
+6) Relevant receipts incurred for Funeral Expenses (Not compulsory)
+
+Please indicate the case reference number and NRIC of the deceased on your supporting documents. This case reference number is shown after you click the submit button of your online application.
+
+You may post the original hardcopy of the “Declaration Form (CPF monies) for funeral expenses” to the following address:  
+
+
+Public Trustee’s Office<br>
+The URA Centre (East Wing)<br>
+45 Maxwell Road, #07-11<br>
+Singapore 069118<br><br>
+
 10.	When will the CPF money be paid to me?
+
+As a general rule, we will distribute the money within 4 weeks from the date of receipt of the full set of documentation from the beneficiaries.<br><br>
 
 Nominated CPF Monies
 ---
