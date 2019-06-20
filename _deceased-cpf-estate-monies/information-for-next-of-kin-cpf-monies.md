@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Sub Page B
+title: Information for Next-of-Kin (CPF Monies)
 permalink: /deceased-cpf-estate-monies/next-of-kin-estate/
-breadcrumb: Sub Page B
+breadcrumb: Information for Next-of-Kin (CPF Monies)
 collection_name: deceased-cpf-estate-monies
 ---
 
