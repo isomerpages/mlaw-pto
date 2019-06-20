@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Sub Page F
+title: Information for Next-of-Kin (Estate Monies)
 permalink: /deceased-cpf-estate-monies/guide-for-payment-pt/
-breadcrumb: Sub Page F
+breadcrumb: Information for Next-of-Kin (Estate Monies)
 collection_name: deceased-cpf-estate-monies
 ---
 
