@@ -177,10 +177,60 @@ Minor Beneficiaries Attaining Age of Majority
 ---
 
 1. I will be turning 21 years old next month. When will I be notified to claim my trust money?
+
+We will send you a notification letter 2 weeks before your 21st birthday with instructions on the steps and documents required to claim your trust money.
+
+If you do not receive our notification letter before your 21st birthday, please notify us at Contact Us @ OneMinLaw, together with your particulars (i.e. name and NRIC), so that we may check and advise you accordingly.<br><br>
+
 2. What are the required documents to claim my trust money?
+
+**If you sre living in Singapore**
+
+In order for us to pay the money to you electronically, please send us by post or via http://www.mlaw.gov.sg/eservices/pto (Submission of Supporting Documens), a clear copy of:
+
+* your identity card (front and back); and
+* the front page of the bank passbook or bank statement. For a payment to a joint bank account or third party account, both you and the account holder(s) must execute the appropriate indemnity forms (Form 15A; and 15B or 15C) which are available at our website. For the other non-electronic modes of payment, you will bear all the changes imposed by the banks(s) whcih will be deducted directly from the inheritance.3. When will I receive the trust money after submission of documents?
+
+Please indicate our case reference number on your documents.
+
+With effect from 5 March 2018, all payments will be made electronically.
+
+**If you are living overseas**
+
+In order for us to pay the money to you by telegraphic transfer, please send us by post or via http://www.mlaw.gov.sg/eservices/pto (Submission of Supporting Documents), a clear copy of:
+
+* the page of your passport which shows your name, passport number and other particulars; and
+* the page of your personal bank account passbook or your personal bank account statement which shows the following information:  
+  a) Your bank account number;<br>
+  b) Sort code of your Bank;<br>
+  c) Swift code of your Bank;<br>
+  d) Name of your Bank & Bank Branch (if any); and<br>
+  e) Address of your Bank. <br>
+  
+* If you wish to receive a Demand Draft instead, please let us know. 
+
+* All the charges imposed by the bank(s) will be deducted directly from the monies held in trust.
+
+
+Please let us know your preferred payment currency and overseas residential address. Please also note that you will have to bear the bank charges for the telegraphic transfer of the money to you and any cost of exchanging the money into a foreign currency. The amount to be paid to you will be net of the bank charges. Please indicate our case reference number on your documents.<br><br>
+
+
 3. When will I receive the trust money after submission of documents?
+
+You will receive the money within 4 weeks after the birthday when you attain the age of majority or the date of our receipt of your documents, whichever is later.
+
+With effect from 5 March 2018, all payments will be made electronically.<br><br>
+
 4. My trust funds were used to purchase an AIA insurance policy. When will I receive the AIA insurance policy money on reaching age of majority?
+
+AIA normally takes **4 to 6 weeks** to remit the insurance policy money to us after the birthday when you attain the age of majority. We will process payment of the insurance money to you within **2 weeks** from the date of our receipt of the money from AIA. <br><br> 
+
 5. What will happen to my trust money if I do not claim it immediately after I reach my age of majority?
+
+If you do not claim your trust money after you have attained your age of majority, the money will be treated as unclaimed money until such time when you come forward with documentary proof to claim the money.
+
 6. Will the Public Trustee continue to invest my trust money if I do not claim it immediately after I reach my age of majority?
+
+Your trust money will no longer be invested by the Public Trustee and no interest will be payable on the trust money after you have attained your age of majority.<br><br>
 
 **With effect from 5 Mar 2018, all payments will be made electronically.**
