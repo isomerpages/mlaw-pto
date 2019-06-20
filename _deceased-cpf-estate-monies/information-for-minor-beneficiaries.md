@@ -227,7 +227,7 @@ AIA normally takes **4 to 6 weeks** to remit the insurance policy money to us af
 
 5. What will happen to my trust money if I do not claim it immediately after I reach my age of majority?
 
-If you do not claim your trust money after you have attained your age of majority, the money will be treated as unclaimed money until such time when you come forward with documentary proof to claim the money.
+If you do not claim your trust money after you have attained your age of majority, the money will be treated as unclaimed money until such time when you come forward with documentary proof to claim the money.<br><br>
 
 6. Will the Public Trustee continue to invest my trust money if I do not claim it immediately after I reach my age of majority?
 
