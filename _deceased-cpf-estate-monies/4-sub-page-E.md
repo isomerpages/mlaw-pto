@@ -59,3 +59,115 @@ Type of Estate | Waiting Period
 Estate **not** involving immovable property e.g. bank monies, CPF monies | Not less than 6 months from the date of death
 Estate involving immovable property e.g. HDB flat, landed property, condominiums | Not less than 3 years from the date of death
 
+**12.	Why is there a waiting period?**<br>
+The waiting period is a safeguard to ensure that the entitled next-of-kin has sufficient time to claim from the Public Trustee.
+
+**13.	How do I make an equitable or moral claim on a bona vacantia estate that is ≤ $50,000?**<br>
+Upon meeting the eligibility conditions set out in Q3 and adhering to the prescribed waiting period of at least 6 months, please submit the following documents to the Public Trustee:
+
+a) **Death Certificate of the Deceased**
+
+* If the cause of death was unnatural, provide a copy of the coroner’s inquiry and findings (if any)
+
+ 
+
+b) A **Statutory Declaration*** from you stating the following:
+
+* Your relationship with the deceased
+
+* Whether you are aware of any entitled relatives and whether the deceased had died intestate
+
+* Whether you are aware of any prior petition of administration being filed
+
+* The basis of your equitable or moral claim on the estate (with the supporting grounds – see Q2 for examples)
+
+* Your estimate of the value of the estate, with a breakdown of the assets by their type and estimated value
+
+* Whether there are any other potential claimants (e.g. other adopted children) and whether the potential claimants have disclaimed their share and interest in the estate
+
+* Any other information which will support your claim
+
+c) **Statutory Declarations*** from other interested persons (e.g. other adopted children) stating the following:
+
+* Their relationship with the deceased
+
+* Whether they are renouncing their claims to the estate
+
+d) **Documents** supporting your equitable or moral claim (e.g. receipts showing proof that you have incurred expenses for the benefit of the deceased)
+
+e) **Full details of the deceased’s estate** (i.e. assets and valuation with documentary evidence)
+
+[*Due to a conflict of interests, we are unable to assist you or the other interested persons in drafting the Statutory Declarations. You may either (i) draft the Statutory Declaration on your own and our Commissioners for Oaths can assist in the swearing/affirmation of the Statutory Declarations (click here for the form); or (ii) obtain the Statutory Declaration at a law firm.]
+
+**14.	How do I make an equitable or moral claim on a bona vacantia estate that is > $50,000 without immovable property?**<br>
+You will have to engage a lawyer to assist in your claim. You will have to adhere to the prescribed waiting period of at least 6 months and provide the same set of documents as required for claims on estates that are ≤ $50,000. In addition, your lawyer will have to take out the advertisements in a major English-language newspaper and a major vernacular newspaper for the next-of-kin of the deceased (click here for [sample advertisement](https://www.mlaw.gov.sg/content/dam/minlaw/pto/Public%20Trustees/Forms/Sample%20Advertisement.pdf)) and to conduct probate searches. Your lawyer will have to provide a copy of the newspaper advertisement and the probate search results to the Public Trustee.
+
+**15.	How do I make an equitable or moral claim on a bona vacantia estate with immovable property?**<br>
+You will have to engage a lawyer to assist in your claim. You will have to adhere to the prescribed waiting period of at least 3 years and provide the same set of documents as required for claims on estates that are ≤ $50,000. In addition, your lawyer will have to take out the advertisements in a major English-language newspaper and a major vernacular newspaper for the next-of-kin of the deceased (click here for [sample advertisement](https://www.mlaw.gov.sg/content/dam/minlaw/pto/Public%20Trustees/Forms/Sample%20Advertisement.pdf)) and to conduct probate searches. Your lawyer will have to provide a copy of the newspaper advertisement and the probate search results to the Public Trustee.
+
+In addition, please let us have the following document/information:
+
+* The details of the property, in particular, who is occupying the flat and the person paying the conservancy or other relevant charges
+
+* Results of search for caveats on the property with SLA
+
+* A Certificate / letter from the Commissioner of Estate Duties on any estate duty payable for the deceased  (Applicable for deaths before 15 Feb 2008)
+
+**16.	When can the Public Trustee administer the estate?**<br>
+For an estate that is ≤ $50,000, the Public Trustee will be able to administer the estate as long as it meets the set of criteria stated below.
+
+1.      No pending applications for Letter of Administration or Grant of Probate
+
+2.     Estate does not exceed $50,000 in value
+
+3.     Estate does not have any outstanding debts or liabilities
+
+4.     Deceased does not own a commercial vehicle or a vehicle with an outstanding loan
+
+5.     Deceased does not hold a Trust bank account with a minor
+
+6.     Deceased does not own an insurance policy that falls under S73 of the Conveyancing and Law of Property Act (Cap 61)
+
+7.     Deceased does not have shares or other interests in unlisted companies (Foreign or Local)
+
+8.     There are no conflicting claims to the estate or disputes among beneficiaries
+
+9.     Deceased is not a partner, sole proprietor or had interests in firms or other business
+
+10.  Deceased is not the sole lessee (owner) of a HDB flat and there are no minor interests
+
+11.   There are no pending law suits which involve the deceased
+
+**17.	What is the process like after Minister of Law has approved my equitable or moral claim?**<br>
+For cases where the Public Trustee acts as the administrator of the estate, we will put up a warrant for Minister of Law to sign once the estate administration is completed. The ministerial warrant will transfer the estate or that part of the estate which is allowed to the claimant.
+
+For an estate that is > $50,000 and/or involve immovable property or does not meet our above criteria, you will have to engage a lawyer to apply for Letters of Administration so that you can administer the estate on your own. We will provide you with a renunciation letter renouncing the Government’s right to apply for Letters of Administration. Once the estate administration is completed, you will inform the Public Trustee and we will put up a warrant for Minister to sign to transfer the estate monies to the claimant.
+
+**18.	Are there any fees for making a claim against Bona Vacantia estates?**<br>
+There is an application fee of $50.00 (inclusive of GST) on each claim filed against a bona vacantia estate.
+
+If the Public Trustee is also the administrator of the estate, we will charge an administration fee for estate administration.
+
+**Fees Charged for Administration of Bona Vacantia Cases (Estate)**
+
+Tier | Rates
+-----|------
+For the first $5,000|6.50%
+For the next $2,000|6.00%
+For the next $3,000|4.25%
+For the next $10,000|2.75%
+For the next $30,000|2.25%
+For the next $200,000|1.70%
+For the next $250,000|1.40%
+For the next $250,000|1.15%
+For gross capital value in excess of $750,000|0.85%
+
+**Fees Charged for Administration of Bona Vacantia Cases (CPF)**
+
+Scale | Rate
+------|-----
+For the first $1,000|2.400%
+For the next $9,000|1.500%
+For the next $240,000|0.750%
+For the next $250,000|0.450%
+For amounts in excess of $500,000|0.300%
