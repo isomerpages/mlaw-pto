@@ -233,10 +233,10 @@ You will also have to submit the following supporting documents to us:
 2) Death Certificate of Deceased
 
 3) If Claimant is:<br>
-a. Spouse of Deceased – Marriage Certificate
-b. Child of Deceased – Birth Certificate of Child and Marriage Certificate of Parents
-c. Parent of Deceased – Birth Certificate of Deceased and Marriage Certificate of Parents
-d. Sibling of Deceased – Birth Certificate of Deceased and Birth Certificate of Sibling
+a. Spouse of Deceased – Marriage Certificate<br>
+b. Child of Deceased – Birth Certificate of Child and Marriage Certificate of Parents<br>
+c. Parent of Deceased – Birth Certificate of Deceased and Marriage Certificate of Parents<br>
+d. Sibling of Deceased – Birth Certificate of Deceased and Birth Certificate of Sibling<br>
 
 4) Original “Declaration Form (CPF monies) for funeral expenses” (Please return completed form by Post. Scanned and Faxed Copies are NOT allowed). You may obtain a softcopy of the “Declaration Form (CPF monies) for funeral expenses” at www.mlaw.gov.sg/pto > Deceased CPF / Estate monies > Forms.
 
