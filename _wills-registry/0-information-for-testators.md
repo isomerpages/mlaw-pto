@@ -88,7 +88,7 @@ Singapore 069118
 
 Attention: Wills Registry
 
-**[Contact Us @ OneMinLaw](https://www.mlaw.gov.sg/content/minlaw/en/about-us/contact-us.html)]**
+**[Contact Us @ OneMinLaw](https://www.mlaw.gov.sg/content/minlaw/en/about-us/contact-us.html)**
 
 Please attach a copy of your identity card and indicate your contact number in your correspondence with us.
 
@@ -117,7 +117,7 @@ We will need the following supporting documents.
 
 a) For the person making search on own will record:
 
--          Your NRIC
+* Your NRIC
 
 b) For law firms:
 
