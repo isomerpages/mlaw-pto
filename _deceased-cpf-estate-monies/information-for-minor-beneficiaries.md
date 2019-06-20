@@ -132,9 +132,6 @@ The statutory fees charged by the Public Trustee on the amount of interest earne
     <td>For the first $1,000</td>
     <td>2.25%</td>
   </tr>
-  
-
-  
 </table>
 
   These fees includes GST and cannot be waived.<br><br>
@@ -143,11 +140,38 @@ Viewing the Minor Beneficiary's Statement of Account
 ---
 
 1. Who can access the child’s online Statement of Account?
+
+The following persons can view the Statement of Account:
+* The parent or legal guardian of  the beneficiary
+* The child (provided that he / she is eligible for a SingPass<sup>1</sup>)
+
+<sup>1</sup> The minimum age to apply for a SingPass is 15 years.<br><br>
+
 2. How do I view the online Statement of Account?
+
+You will need to log on to our eService through our website (https://www.mlaw.gov.sg/eservices/pto) to be able to view the child’s Statement of Account.
+
+You will need to have your SingPass of ready in order to access our eService. If you do not have a Singpass, you may obtain one at http://www.singpass.gov.sg.
+
+If you are not eligible to apply for a Singpass and above 21 years old, you may register for a Non-SingPass login ID through our website (https://www.mlaw.gov.sg/eservices/pto).<br><br>
+
 3. How do I navigate this new eService?
+
+You may refer to the training slides on our website at https://www.mlaw.gov.sg/content/pto/en/deceased-cpf-estate-monies/forms.html <br><br>
+
 4. Can I print or download the Statement of Account from our eService page?
+
+Yes, you may print or download the Statement of Account for your records.<br><br>
+
 5. Who can I contact if I have problems accessing the online Statement of Account?
 
+You may contact us at Contact Us @ OneMinLaw or call us at 1800-2255-529. 
+
+Please provide us with the following information when you contact us:
+
+(a) A screenprint of the error message<br>
+(b) You and your child's name and NRIC; and<br>
+(c) Your relationship with the child<br><br>
 
 Minor Beneficiaries Attaining Age of Majority
 ---
