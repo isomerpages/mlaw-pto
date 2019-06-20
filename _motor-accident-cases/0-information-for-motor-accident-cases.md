@@ -124,3 +124,62 @@ Where the amount of general damages settled or awarded exceeds $10,000 | $500.00
 1 Inclusive of GST
 
 2 The amount of special damages, interest, costs and disbursements settled or awarded is not taken into account for the purpose of computing the fees.
+
+**14.	How do we make payment for the PT’s fees?**<br>
+**For a Judgment obtained / Settlement Agreement made ON or after 1 August 2014:**
+
+Payment of the fees must be made online by debit card, credit card or direct debit. The fees must be paid together with the submission of the online application to the PT.
+
+Lawyers may recover these fees as disbursements.
+
+**For a Judgment obtained / Settlement Agreement dated before 1 August 2014:**<br>
+
+Payment of the fees must be made by a lodgment form which is currently submitted by the insurers.
+
+**15.	What are some of the documents that must be submitted when an application is made to the PT to assess the reasonableness of S and C costs and disbursements?**<br>
+In cases where the compensation sum has been agreed upon and a settlement agreement signed:
+
+(a)           A copy of the settlement agreement indicating the amount of P and P costs and disbursements;
+
+(b)          Description of the work done and time spent on the matter by the lawyer and documents supporting the disbursements claimed;
+
+(c)           A copy of the identification document of the person entitled to the payment of the compensation;
+
+(d)          Lodgment form for deduction of compensation moneys from insurer (only applicable if the PT is required to hold moneys in trust); and
+
+(e)           A copy of the bank passbook for making payment to the person entitled to the payment of the compensation (only applicable if the PT is required to hold moneys in trust).
+
+In cases where the compensation has been ordered by a court
+
+(a)           A copy of the Judgment;
+
+(b)          A copy of the agreed P and P costs and disbursements (if this information is not stated in the Judgment); 
+
+(c)           Description of the work done and time spent on the matter by the  lawyer and documents supporting the disbursements claimed.
+
+(d)          A copy of the identification document of the person entitled to the payment of the compensation;
+
+(e)           Lodgment form for deduction of compensation moneys from insurer (only applicable if the PT is required to hold moneys in trust); and
+
+(f)           A copy of the bank passbook for making payment to the person entitled to the payment of the compensation (only applicable if the PT is required to hold moneys in trust).
+
+**16.	When will we receive the PT’s agreement to the S and C costs?**<br>
+The PT will inform the lawyers of its views on the S and C costs **within 3 weeks** from the date of receipt of the complete set of supporting documents or clarification from the lawyers.
+
+**17.	How will we receive payment of our costs and disbursements?**<br>
+Lawyers will be required to liaise directly with the respective insurer(s) on their mode of payment.
+
+**18.	What are some of the documents that must be submitted in an application to the PT for the assessment of adequacy of out-of-court compensation for unrepresented victims?**<br>
+The documents commonly required for the assessment of adequacy of out-of-court compensation for un-represented victims are:
+
+(a)           A copy of the settlement agreement;
+
+(b)          A copy of the medical report(s) detailing the injuries suffered as a result of the motor accident;
+
+(c)           A copy of the identification document of the person entitled to the payment of the compensation;
+
+(d)          Lodgment form for deduction of compensation moneys from the  insurer; and
+
+(e)           A copy of the bank passbook for making payment to the person entitled to the payment of the compensation.
+
+**With effect from 5 Mar 2018, all payments will be made electronically.**
