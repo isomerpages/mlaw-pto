@@ -27,13 +27,13 @@ The will information will be kept in our system for 120 years from the date of b
 **4. What type of information is kept by the Wills Registry?**<br>
 We keep the following information under the Wills Registry.
 
-·         Details of the person making the will i.e. testator.
+* Details of the person making the will i.e. testator.
 
-·         Date of the will.
+* Date of the will.
 
-·         Details of the person who drew up the will.
+* Details of the person who drew up the will.
 
-·         Details of where the will is held.
+* Details of where the will is held.
 
 You do not have to deposit your will with us because we do not keep a copy of the actual will.
 
@@ -121,31 +121,31 @@ a) For the person making search on own will record:
 
 b) For law firms:
 
--          NRIC of the person who made the will or
+* NRIC of the person who made the will or
 
--          Death certificate of the person who made the will        
+* Death certificate of the person who made the will        
 
 c) For next-of-kin:
 
--          Death certificate of the person who made the will and
+* Death certificate of the person who made the will and
 
--          NRIC of next-of-kin and
+* NRIC of next-of-kin and
 
--          Proof of relationship to the person who made the will (for example, marriage certificate (for spouse) and birth certificate (for parents or children))
+* Proof of relationship to the person who made the will (for example, marriage certificate (for spouse) and birth certificate (for parents or children))
 
 d) For donee of a Lasting Power of Attorney (LPA) or a deputy appointed or to be appointed by the Court:
 
--          NRIC of donee or deputy or would-be deputy
+* NRIC of donee or deputy or would-be deputy
 
--          Copy of LPA or Court Order / Application
+* Copy of LPA or Court Order / Application
 
 e) For person with a legitimate interest in the testator's will or estate (Please submit your search request using the next-of-kin option in our eService):
 
--          NRIC of person with a legitimate interest in the testator's will or estate
+* NRIC of person with a legitimate interest in the testator's will or estate
 
--          Proof of relationship to the person who made the will
+* Proof of relationship to the person who made the will
 
--          Reasons for wanting to make a search on the testator's will together with the relevant supporting documents. (Please upload your written reasons and supporting documents under the attachment for Death Certificate in our eServices.)
+* Reasons for wanting to make a search on the testator's will together with the relevant supporting documents. (Please upload your written reasons and supporting documents under the attachment for Death Certificate in our eServices.)
 
 Please allow **3 - 5 working days** for us to process your form.
 
