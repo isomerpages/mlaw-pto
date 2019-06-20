@@ -57,10 +57,10 @@ If you are the parent or legal guardian of a child and you face financial diffic
 
 In deciding the amount of the maintenance allowance, we will consider the following.
 
-  1. Your income, property and other financial resources.
-  2. Your financial needs and responsibilities.
-  3. The financial needs and the age of the child.
-  4. The way in which the child is being or is expected to be educated or trained.
+  1.1 Your income, property and other financial resources.
+  2.1 Your financial needs and responsibilities.
+  3.1 The financial needs and the age of the child.
+  4.1 The way in which the child is being or is expected to be educated or trained.
 
 
 3.		How do I apply for a child’s maintenance allowance?
