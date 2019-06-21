@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Information for Motor Accident Victims
-permalink: /compensation-in-motor-accident-cases/info-for-motor-accident-victims/
+permalink: /motor-accident-cases/info-for-motor-accident-victims/
 breadcrumb: Information for Motor Accident Victims
 collection_name: compensation-in-motor-accident-cases
 
