@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Sub Page C
+title: Practice Circulars
 permalink: /wills-registry/practise-circulars/
-breadcrumb: Sub Page C
+breadcrumb: Practice Circulars
 collection_name: wills-registry
 ---
 
