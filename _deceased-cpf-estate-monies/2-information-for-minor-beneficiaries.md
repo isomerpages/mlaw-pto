@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Information for Minor Beneficiaries
-permalink: /deceased-cpf-estate-monies/claims-against-bona-vacantia-estates/
+permalink: /deceased-cpf-estate-monies/minor-benificiaries/
 breadcrumb: Information for Minor Beneficiaries
 collection_name: deceased-cpf-estate-monies
 ---
