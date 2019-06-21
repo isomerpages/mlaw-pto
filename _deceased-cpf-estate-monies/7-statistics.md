@@ -13,4 +13,4 @@ Statistics
 
 Public trustee
 
-[Cases Administered (PDF file)](/files/trujun18.pdf)
+[Cases Administered (PDF file)](/files/trujun18.pdf){:target="_blank"}
