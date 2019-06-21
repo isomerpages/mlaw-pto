@@ -89,6 +89,6 @@ Brochures
 
 [ஒரு குழந்தைக்காக அறக்கட்டளையில் வைக்கப்பட்டிருக்கும் பணத்தைக் கையாளுதல் (445 KB)](/files/Tamil_Brochure3_Held-in-TrustCases_25Jul2017.pdf)
 
-Information Slides
+Information Slidesx
 ---
 [Viewing Statement of Accounts for Held in Trust Cases (2 MB)](/files/ViewingStatementofAccountsforHeldinTrustCases.pdf)
