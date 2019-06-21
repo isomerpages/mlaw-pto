@@ -12,4 +12,4 @@ Statistics
 **Facts & Figures**<br>
 Motor Accident Cases Administered by the Public Trustee 
 
-[Cases Administered (PDF file)](/files/ACJun18.pdf)
+[Cases Administered (PDF file)](/files/ACJun18.pdf){:target="_blank"}
