@@ -69,13 +69,9 @@ Brochures
 [Dealing with money held in trust for a child (237 KB)](/files/Brochure3_Held-in-TrustCases_28Jul2017.pdf)
 
 **In Malay**<br>
-[Menguruskan wang Tabung Simpanan Pekerja (CPF) seseorang yang telah meninggal dunia (379 KB)](/files/Malay_Brochure 1_CPF Monies_7-6-2018.pdf)
+[Menguruskan wang Tabung Simpanan Pekerja (CPF) seseorang yang telah meninggal dunia (379 KB)]()
 
-[Menguruskan wang Tabung Simpanan Pekerja (CPF) seseorang yang telah meninggal dunia (379 KB)](/files/Malay_Brochure 1_CPF Monies_7-6-2018.pdf)
-
-[Menguruskan harta pusaka si mati (aset-aset) (238 KB)](/files/Malay_Brochure2_Estate Monies_7-6-2018.pdf)
-
-[Menguruskan harta pusaka si mati (aset-aset) (238 KB)](/files/Malay_Brochure2_Estate Monies_7-6-2018.pdf)
+[Menguruskan harta pusaka si mati (aset-aset) (238 KB)]()
 
 [Menguruskan wang yang dipegang sebagai amanah untuk seorang kanak-kanak (384 KB)](/files/Malay_Brochure3_Held-in-TrustCases_25Jul2017.pdf)
 
