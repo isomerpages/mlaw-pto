@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Practice Circulars
-permalink: /compensation-in-motor-accident-cases/practice-circulars/
+permalink: /motor-accident-cases/practise-circulars/
 breadcrumb: Practice Circulars
 collection_name: compensation-in-motor-accident-cases
 
