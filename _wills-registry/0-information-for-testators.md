@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Information for Testators
-permalink: /wills-registry/information-for-testators/
+permalink: /wills-registry/info-for-testators/
 breadcrumb: Information for Testators
 collection_name: wills-registry
 
