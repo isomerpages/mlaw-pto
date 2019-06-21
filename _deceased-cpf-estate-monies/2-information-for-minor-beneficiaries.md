@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Information for Minor Beneficiaries
-permalink: /deceased-cpf-estate-monies/minor-benificiaries/
+permalink: /deceased-cpf-estate-monies/minor-beneficiaries/
 breadcrumb: Information for Minor Beneficiaries
 collection_name: deceased-cpf-estate-monies
 ---
