@@ -39,7 +39,7 @@ Unclaimed Monies
   <tr>
     <td>Step 4</td>
     <td>
-      Produce the necessary documents according to each of the categories set out below. Please provide information on the “Payee Name”, “Year Paid” and “Remarks” or "Reference No." when making the claim. The list of required documents can be found <a href="/_deceased-cpf-estate-monies/4-forms.md">here</a>. 
+      Produce the necessary documents according to each of the categories set out below. Please provide information on the “Payee Name”, “Year Paid” and “Remarks” or "Reference No." when making the claim. The list of required documents can be found <a href="/_deceased-cpf-estate-monies/forms/">here</a>. 
     </td>
   </tr>
   <tr>
