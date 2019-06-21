@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Announcements
-permalink: /deceased-cpf-estate-monies/Announcement/
+permalink: /deceased-cpf-estate-monies/announcements/
 breadcrumb: Announcements
 collection_name: deceased-cpf-estate-monies
 
