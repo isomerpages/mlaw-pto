@@ -11,8 +11,8 @@ Guide Through SAM Machine
 
 **Payments through SAM Machine**
 
-[Bona Vacanria (485KB)](/files/SAMMACHINEBV.pdf)
+[Bona Vacanria (485KB)](/files/SAMMACHINEBV.pdf){:target="_blank"}
 
-[Fee(Special) (485KB)](/files/SAMMACHINEfee(special).pdf)
+[Fee(Special) (485KB)](/files/SAMMACHINEfee(special).pdf){:target="_blank"}
 
-[Shares and Motor Vehicles (485KB)](/files/SAMMACHINEshare&vehicle.pdf)
+[Shares and Motor Vehicles (485KB)](/files/SAMMACHINEshare&vehicle.pdf){:target="_blank"}
