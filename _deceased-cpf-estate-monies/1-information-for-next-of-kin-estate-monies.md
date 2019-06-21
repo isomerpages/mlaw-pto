@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Information for Next-of-Kin (Estate Monies)
-permalink: /deceased-cpf-estate-monies/guide-for-payment-pt/
+permalink: /deceased-cpf-estate-monies/guide-for-payment-estate/
 breadcrumb: Information for Next-of-Kin (Estate Monies)
 collection_name: deceased-cpf-estate-monies
 ---
