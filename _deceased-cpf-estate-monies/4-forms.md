@@ -23,11 +23,11 @@ Forms
 
 [Application for CPF Monies Less Than or Equal to $100 (226 KB)](/files/Form10_ApplicationforCPFMoniesLessthanorEqual$100(WithoutHyperlink).pdf)
 
-[Form 15A-Letter of Authorization Discharge and Indemnity by Beneficiary (294 KB)](/files/)
+[Form 15A-Letter of Authorization Discharge and Indemnity by Beneficiary (294 KB)](/files/Form15A_LetterofAuthorizationDischargeandIndemnitybyBeneficiary(Without Hyperlink)(ELCWL)- 28-6-18(Cleaned).docx.pdf)
 
-[Form 15B-Letter of Authorization and Indemnity by Joint Account Holder (324 KB)](/files/)
+[Form 15B-Letter of Authorization and Indemnity by Joint Account Holder (324 KB)](/files/Form15B_LetterofAuthorizationDischargeandIndemnitybyJointAccountHolder(WithoutHyperlink)(ELCWL)-28-6-18(Cleaned).pdf)
 
-[Form 15C-Letter of Authorization and Indemnity by Third Party Account Holder (325 KB)](/files/)
+[Form 15C-Letter of Authorization and Indemnity by Third Party Account Holder (325 KB)](/files/Form15C_LetterofAuthorizationDischargeandIndemnitybyThirdPartyAccountHolder(WithoutHyperlink)(ELCWL)-28-6-18(Cleaned).pdf)
 
 List of Required Documents
 ---
