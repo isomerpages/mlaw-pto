@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Forms / Guides
-permalink: /compensation-in-motor-accident-cases/forms/
+permalink: /motor-accident-cases/forms-guides/
 breadcrumb: Forms / Guides
 collection_name: compensation-in-motor-accident-cases
 
