@@ -11,7 +11,7 @@ Forms
 ---
 
 **Forms For Public Trustee**<br>
-[Renunciation & Indemnity Form (238 KB)](/files/RenunciationandIndemnity(Form18).pdf){:target="_blank"}
+[Renunciation & Indemnity Form (238 KB)](/files/RenunciationandIndemnity(Form18).pdf) {:target="_blank"}
 
 [Declaration Form (CPF monies) for funeral expenses (220 KB)](/files/Form12_Declarationform(CPFMonies)forfuneralexpenses(WithHyperlink).pdf){:target="_blank"}
 
