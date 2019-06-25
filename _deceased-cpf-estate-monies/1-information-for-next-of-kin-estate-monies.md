@@ -166,7 +166,7 @@ Kindly note that these Rules of Distribution apply only to a non-Muslim Deceased
   </tr>
 </table>
 
-\*Spouse refers to husband or wife.
+\*Spouse refers to husband or wife.<br>
 \*Issue means a child (legitimate or legally adopted) and the descendants of a deceased’s child. Illegitimate children and transferred children are NOT entitled under the Intestacy Rules.<br><br>
 
 **7. How would the Public Trustee distribute the estate of a Muslim?**
