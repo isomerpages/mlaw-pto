@@ -203,7 +203,7 @@ If the Public Trustee is also the administrator of the estate, we will charge an
   <td>For gross capital value in excess of $750,000</td>
   <td>0.85%</td>
  </tr>
-</table><br><br>
+</table>
 
 **Fees Charged for Administration of Bona Vacantia Cases (CPF)**<br>
 <table>
