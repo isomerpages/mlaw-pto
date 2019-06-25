@@ -120,22 +120,41 @@ The fees charged by the PT are as follows:
 
 **For a Judgment obtained /  Settlement Agreement made on or after 1 August 2014:**
 
-Type of Fees | Amount<sup>1</sup>
--------------|--------
-Fee for assessment of reasonableness of S and C costs | $225.00
-Fee for assessment of adequacy of compensation payment pursuant to a settlement agreement for an unrepresented victim | $300.00
+<table>
+  <tr>
+    <td>Type of Fees</td>
+    <td>Amount<sup>1</sup></td>
+  </tr>
+  <tr>
+    <td>Fee for assessment of reasonableness of S and C costs</td>
+    <td>$225.00</td>
+  </tr>
+  <tr>
+    <td>Fee for assessment of adequacy of compensation payment pursuant to a settlement agreement for an unrepresented victim</td>
+    <td>$300.00</td>
+  </tr>
+</table>
 
 <sup>1</sup> Inclusive of GST
 
 **For a Judgment obtained / Settlement Agreement made before 1 August 2014:**
 
-Type of Fees | <sup>Amount1</sup>
--------------|--------
-Where the amount of general damages2 settled or awarded exceeds $5,000 but does not exceed $10,000 | $300.00
-Where the amount of general damages settled or awarded exceeds $10,000 | $500.00
+<table>
+  <tr>
+    <td>Type of Fees</td>
+    <td>Amount<sup>1</sup></td>
+  </tr>
+  <tr>
+    <td>Where the amount of general damages2 settled or awarded exceeds $5,000 but does not exceed $10,000</td>
+    <td>$300.00</td>
+  </tr>
+  <tr>
+    <td>Where the amount of general damages settled or awarded exceeds $10,000</td>
+    <td>$500.00</td>
+  </tr>
+</table>
 
-<sup>1</sup> Inclusive of GST
-
+<sup>1</sup> Inclusive of GST<br>
 <sup>2</sup> The amount of special damages, interest, costs and disbursements settled or awarded is not taken into account for the purpose of computing the fees.
 
 **14.	How do we make payment for the PT’s fees?**<br>
