@@ -9,7 +9,8 @@ collection_name: compensation-in-motor-accident-cases
 
 Statistics
 ---
-**Facts & Figures**<br>
+**Facts & Figures**
+
 Motor Accident Cases Administered by the Public Trustee 
 
-[Cases Administered (PDF file)](/files/ACJun18.pdf){:target="_blank"}
+[Cases Administered (PDF file)](/files/ACJun18.pdf)
