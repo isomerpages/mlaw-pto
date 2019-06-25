@@ -9,7 +9,7 @@ collection_name: deceased-cpf-estate-monies
 Information for Next-of-Kin (CPF Monies)
 ---
 
-**1.		How do I know if my loved one has any CPF money and if they had made a valid nomination?**
+**1.	How do I know if my loved one has any CPF money and if they had made a valid nomination?**
 
 The money from the Central Provident Fund (CPF) of a person who has died will be distributed in line with the nomination they made during their lifetime.
 
@@ -19,7 +19,7 @@ If the person who has died did not make a valid nomination, the CPF Board will s
 
 The CPF Board will also send us the CPF money of a person who has died if the person chosen to receive that money is under 18 years old (unless she is a widow).<br><br>
 
-**2.		What do I need to do for the CPF money to be distributed to me?**
+**2.	What do I need to do for the CPF money to be distributed to me?**
 
 You will need to make an online application at www.mlaw.gov.sg/pto so that we can deal with the money.
 
