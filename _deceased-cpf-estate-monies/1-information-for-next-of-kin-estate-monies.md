@@ -166,8 +166,8 @@ Kindly note that these Rules of Distribution apply only to a non-Muslim Deceased
   </tr>
 </table>
 
-* Spouse refers to husband or wife.
-* Issue means a child (legitimate or legally adopted) and the descendants of a deceased’s child. Illegitimate children and transferred children are NOT entitled under the Intestacy Rules.<br><br>
+*  Spouse refers to husband or wife.
+*  Issue means a child (legitimate or legally adopted) and the descendants of a deceased’s child. Illegitimate children and transferred children are NOT entitled under the Intestacy Rules.<br><br>
 
 **7. How would the Public Trustee distribute the estate of a Muslim?**
 
@@ -205,7 +205,7 @@ Common types of documents required are:
 
   10) Certificate of Inheritance (For Muslims only)
   
-For Muslims, you may apply for the Certificate of Inheritance at www.syariahcourt.gov.sg .
+For Muslims, you may apply for the Certificate of Inheritance at [www.syariahcourt.gov.sg](https://www.syariahcourt.gov.sg/Syariah/front-end/Home.aspx).
 
 You will be assigned a case officer after you have filed your online application. Please inform your case officer if you do not possess some of the required documents. Your case officer will advise you on what to do after you have submitted your online application.<br><br>
 
