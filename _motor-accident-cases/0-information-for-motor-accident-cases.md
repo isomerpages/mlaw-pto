@@ -122,8 +122,8 @@ The fees charged by the PT are as follows:
 
 <table>
   <tr>
-    <td>**Type of Fees**</td>
-    <td>**Amount<sup>1</sup>**</td>
+    <td>Type of Fees</td>
+    <td>Amount<sup>1</sup></td>
   </tr>
   <tr>
     <td>Fee for assessment of reasonableness of S and C costs</td>
