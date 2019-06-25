@@ -56,10 +56,21 @@ No, there is no time limit for making a claim.
 **11.	When can I make an equitable or moral claim on a bona vacantia estate?**<br>
 You can make a claim only after the expiry of the waiting period stated in the table below.
 
-Type of Estate | Waiting Period
----------------|---------------
-Estate **not** involving immovable property e.g. bank monies, CPF monies | Not less than 6 months from the date of death
-Estate involving immovable property e.g. HDB flat, landed property, condominiums | Not less than 3 years from the date of death
+
+<table>
+ <tr>
+  <td>Type of Estate</td>
+  <td>Waiting Period</td>
+ </tr>
+ <tr>
+  <td>Estate **not** involving immovable property e.g. bank monies, CPF monies</td>
+  <td>Not less than 6 months from the date of death</td>
+ </tr>
+ <tr>
+  <td>Estate involving immovable property e.g. HDB flat, landed property, condominiums</td>
+  <td>Not less than 3 years from the date of death</td>
+ </tr>
+</table>
 
 **12.	Why is there a waiting period?**<br>
 The waiting period is a safeguard to ensure that the entitled next-of-kin has sufficient time to claim from the Public Trustee.
@@ -150,26 +161,74 @@ There is an application fee of $50.00 (inclusive of GST) on each claim filed aga
 
 If the Public Trustee is also the administrator of the estate, we will charge an administration fee for estate administration.
 
-**Fees Charged for Administration of Bona Vacantia Cases (Estate)**
+**Fees Charged for Administration of Bona Vacantia Cases (Estate)**<br>
+<table>
+ <tr>
+  <td>Tier</td>
+  <td>Rates</td>
+ </tr>
+ <tr>
+  <td>For the first $5,000</td>
+  <td>6.50%</td>
+ </tr>
+ <tr>
+  <td>For the next $2,000</td>
+  <td>6.00%</td>
+ </tr>
+ <tr>
+  <td>For the next $3,000</td>
+  <td>4.25%</td>
+ </tr>
+ <tr>
+  <td>For the next $10,000</td>
+  <td>2.75%</td>
+ </tr>
+ <tr>
+  <td>For the next $30,000</td>
+  <td>2.25%</td>
+ </tr>
+ <tr>
+  <td>For the next $200,000</td>
+  <td>1.70%</td>
+ </tr>
+ <tr>
+  <td>For the next $250,000</td>
+  <td>1.40%</td>
+ </tr>
+ <tr>
+  <td>For the next $250,000</td>
+  <td>1.15%</td>
+ </tr>
+ <tr>
+  <td>For gross capital value in excess of $750,000</td>
+  <td>0.85%</td>
+ </tr>
+</table><br><br>
 
-Tier | Rates
------|------
-For the first $5,000|6.50%
-For the next $2,000|6.00%
-For the next $3,000|4.25%
-For the next $10,000|2.75%
-For the next $30,000|2.25%
-For the next $200,000|1.70%
-For the next $250,000|1.40%
-For the next $250,000|1.15%
-For gross capital value in excess of $750,000|0.85%
-
-**Fees Charged for Administration of Bona Vacantia Cases (CPF)**
-
-Scale | Rate
-------|-----
-For the first $1,000|2.400%
-For the next $9,000|1.500%
-For the next $240,000|0.750%
-For the next $250,000|0.450%
-For amounts in excess of $500,000|0.300%
+**Fees Charged for Administration of Bona Vacantia Cases (CPF)**<br>
+<table>
+ <tr>
+  <td>Scale</td>
+  <td>Rate</td>
+ </tr>
+ <tr>
+  <td>For the first $1,000</td>
+  <td>2.400%</td>
+ </tr>
+ <tr>
+  <td>For the next $9,000</td>
+  <td>1.500%</td>
+ </tr>
+ <tr>
+  <td>For the next $240,000</td>
+  <td>0.750%</td>
+ </tr>
+ <tr>
+  <td>For the next $250,000</td>
+  <td>0.450%</td>
+ </tr>
+ <tr>
+  <td>For amounts in excess of $500,000</td>
+  <td>0.300%</td>
+ </tr>
+</table>
