@@ -9,8 +9,8 @@ collection_name: deceased-cpf-estate-monies
 Statistics
 ---
 
-### **Facts & figures**
+### **Facts & Figures**
 
-Public trustee
+Public Trustee
 
 [Cases Administered (PDF file)](/files/trujun18.pdf){:target="_blank"}
