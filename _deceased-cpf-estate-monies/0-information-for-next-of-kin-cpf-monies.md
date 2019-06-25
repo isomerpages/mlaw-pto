@@ -21,11 +21,11 @@ The CPF Board will also send us the CPF money of a person who has died if the pe
 
 **2.	What do I need to do for the CPF money to be distributed to me?**
 
-You will need to make an online application at www.mlaw.gov.sg/pto so that we can deal with the money.
+You will need to make an online application at https://mlaw-pto-staging.netlify.com/ so that we can deal with the money.
 
 You will need to have your Singpass ready in order to access our online application form. You may apply for your Singpass at https://www.singpass.gov.sg if you do not have one.
 
-If you are ineligible to apply for a Singpass, you may apply for a login ID and password through our website: www.mlaw.gov.sg/pto under eServices.<br><br>
+If you are ineligible to apply for a Singpass, you may apply for a login ID and password through our website: https://mlaw-pto-staging.netlify.com/ under eServices.<br><br>
 
 **3.	What are the documents that need to be submitted?**
 
@@ -48,14 +48,14 @@ Common types of documents we need are shown below.
   * Death certificate of parents (if they have died)
   * Certificate of inheritance (for Muslims only)
   
-If the person who has died was a Muslim, you will need to apply for the Certificate of inheritance at www.syariahcourt.gov.sg.
+If the person who has died was a Muslim, you will need to apply for the Certificate of inheritance at [www.syariahcourt.gov.sg](https://www.syariahcourt.gov.sg/Syariah/front-end/Home.aspx).
 
 
 You will be assigned a case officer after you have filed your online application. Please inform your case officer if you do not possess some of the required documents. Your case officer will advise you on what to do after you have submitted your online application.<br><br>
 
 **4.	Whom do I submit the documents to?**
 
-You may attach the required documents in your online submission, send via e-services or post to us at the following address:
+You may attach the required documents in your online submission, send via [e-services](https://www.mlaw.gov.sg/eservices/pto/welcome.xhtml) or post to us at the following address:
 
 Public Trustee’s Office<br>
 The URA Centre (East Wing)<br>
@@ -112,7 +112,7 @@ Kindly note that these Rules of Distribution apply only to a non-Muslim Deceased
 
 <table>
   <tr>
-    <td colspan="2">Rules od Distribution (Non-Muslims)</td>
+    <td colspan="2">Rules of Distribution (Non-Muslims)</td>
   </tr>
   <tr>
     <td>
