@@ -11,6 +11,7 @@ Forms
 ---
 
 **Forms For Public Trustee**<br>
+
 [Renunciation & Indemnity Form (238 KB)](/files/RenunciationandIndemnity(Form18).pdf){:target="_blank"}
 
 [Declaration Form (CPF monies) for funeral expenses (220 KB)](/files/Form12_Declarationform(CPFMonies)forfuneralexpenses(WithHyperlink).pdf){:target="_blank"}
@@ -31,7 +32,9 @@ Forms
 
 List of Required Documents
 ---
+
 **In English**<br>
+
 [Non-Muslims - List of Required Documents (383 KB)](/files/AnnexB_Non-Muslims_ListofRequiredDocuments-19-12-18.pdf){:target="_blank"}
 
 [Muslims - List of Required Documents (386 KB)](/files/AnnexA_Muslims_ListofRequiredDocuments-19-12-18.pdf){:target="_blank"}
@@ -39,6 +42,7 @@ List of Required Documents
 [Funeral Reimbursement Claim - List of Required Documents (350 KB)](/files/AnnexC_FuneralClaim_ListofRequiredDocuments-19-12-18.pdf){:target="_blank"}
 
 **In Malay**<br>
+
 [Muslims - List of Required Documents (In Malay) (211 KB)](/files/Malay_AnnexA_Muslims_ListofRequiredDocuments_22Jun2018.pdf){:target="_blank"}
 
 [Non-Muslims - List of Required Documents (In Malay) (262 KB)](/files/Malay_AnnexB_Non-Muslims_ListofRequiredDocuments_7Jun2018.pdf){:target="_blank"}
@@ -46,6 +50,7 @@ List of Required Documents
 [Funeral Reimbursement Claim - List of Required Documents (In Malay) (196 KB)](/files/Malay_AnnexC_FuneralClaim_ListofRequiredDocuments_7-6-2018.pdf){:target="_blank"}
 
 **In Chinese**<br>
+
 [文件清单 (适用于已故回教徒) (323 KB)](/files/Chinese_AnnexA_Muslims_ListofRequiredDocuments_22Jun2018(Cleaned).pdf){:target="_blank"}
 
 [文件清单 (适用于非回教已故者) (335 KB)](/files/Chinese_AnnexB_Non-Muslims_ListofRequiredDocuments_22Jun2018doc(Cleaned).pdf){:target="_blank"}
@@ -53,6 +58,7 @@ List of Required Documents
 [文件清单 (偿还殡殓费) (305 KB)](/files/Chinese_AnnexC_FuneralClaim_ListofRequiredDocuments_7Jun2018.pdf){:target="_blank"}
 
 **In Tamil**<br>
+
 [Muslims - List of Required Documents (In Tamil) (434 KB)](/files/Tamil_AnnexA_Muslims_ListofRequiredDocuments_8Jun2018.pdf){:target="_blank"}
 
 [Non-Muslims - List of Required Documents (In Tamil) (449 KB)](/files/Tamil_AnnexB_Non-Muslims_ListofRequiredDocuments_8Jun2018.pdf){:target="_blank"}
@@ -61,7 +67,9 @@ List of Required Documents
 
 Brochures
 ---
+
 **In English**<br>
+
 [Dealing with the Central Provident Fund (CPF) money of someone who has died (439 KB)](/files/Brochure1_CPFMonies_6Jun2018.pdf){:target="_blank"}
 
 [Dealing with the deceased’s estate (assets) (288 KB)](/files/Brochure2_EstateMonies_6Jun2018.pdf){:target="_blank"}
@@ -69,6 +77,7 @@ Brochures
 [Dealing with money held in trust for a child (237 KB)](/files/Brochure3_Held-in-TrustCases_28Jul2017.pdf){:target="_blank"}
 
 **In Malay**<br>
+
 [Menguruskan wang Tabung Simpanan Pekerja (CPF) seseorang yang telah meninggal dunia (379 KB)](/files/Malay_Brochure1_CPFMonies_7-6-2018.pdf){:target="_blank"}
 
 [Menguruskan harta pusaka si mati (aset-aset) (238 KB)](/files/Malay_Brochure2_EstateMonies_7-6-2018.pdf){:target="_blank"}
@@ -76,6 +85,7 @@ Brochures
 [Menguruskan wang yang dipegang sebagai amanah untuk seorang kanak-kanak (384 KB)](/files/Malay_Brochure3_Held-in-TrustCases_25Jul2017.pdf){:target="_blank"}
 
 **In Chinese**<br>
+
 [如何分配已故者的公积金存款 (378 KB)](/files/Chinese_Brochure1_CPFMonies_7Jun2018.pdf){:target="_blank"}
 
 [如何分配已故者的遗产 (资产） (302 KB)](/files/Chinese_Brochure2_EstateMonies_7Jun2018.pdf){:target="_blank"}
@@ -83,6 +93,7 @@ Brochures
 [为孩童处理受托管的款项 (456 KB)](/files/Chinese_Brochure3_Held-in-TrustCases_25Jul2017.pdf){:target="_blank"}
 
 **In Tamil**<br>
+
 [இறந்த நபரின் மத்திய சேம நிதிக் கழகப் (மசேநி) பணத்தைக் கையாளுதல் (686 KB)](/files/Tamil_Brochure1_CPFMonies_8Jun2018.pdf){:target="_blank"}
 
 [இறந்தவரின் சொத்தைக் (சொத்துக்கள்) கையாளுதல் (539 KB)](/files/Tamil_Brochure2_EstateMonies_8Jun2018.pdf){:target="_blank"}
@@ -91,4 +102,5 @@ Brochures
 
 Information Slides
 ---
+
 [Viewing Statement of Accounts for Held in Trust Cases (2 MB)](/files/ViewingStatementofAccountsforHeldinTrustCases.pdf){:target="_blank"}
