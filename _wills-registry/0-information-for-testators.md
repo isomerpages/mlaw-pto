@@ -10,14 +10,25 @@ collection_name: wills-registry
 **1. What is the Wills Registry?**<br>
 The Wills Registry, maintained by the Public Trustee, is a confidential registry where testators (people making a will) or their solicitors can deposit information on wills.
 
-**2. What are the fees you charge for depositing or searching for the will information?*<br>
+**2. What are the fees you charge for depositing or searching for the will information?**<br>
 
 Our fees (including GST) are shown below.
 
-Item | Fees
------|-----
-Depositing Information | $50.00
-Cost of a Search Application | $10.00
+
+<table>
+  <tr>
+    <td>Item</td>
+    <td>Fees</td>
+  </tr>
+  <tr>
+    <td>Depositing Information</td>
+    <td>$50.00</td>
+  </tr>
+  <tr>
+    <td>Cost of a Search Application</td>
+    <td>$10.00</td>
+  </tr>
+</table>
 
 Payment for the deposit and search of will information must be made online via debit card, credit card or direct debit.
 
