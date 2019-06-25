@@ -18,8 +18,8 @@ Our fees (including GST) are shown below.
 
 <table>
   <tr>
-    <td>**Item**</td>
-    <td>**Fees**</td>
+    <td>Item</td>
+    <td>Fees</td>
   </tr>
   <tr>
     <td>Depositing Information</td>
