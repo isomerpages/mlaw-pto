@@ -58,23 +58,23 @@ No, it is not compulsory to deposit your will information with us.
 No, the validity of your will does not depend on whether you have deposited your will information with us or not.
 
 **8. How do I deposit my will information with the Wills Registry?**<br>
-You will need to access our online deposit form at www.mlaw.gov.sg/pto under eServices to deposit your will information with the Wills Registry.
+You will need to access our online deposit form at [www.mlaw.gov.sg/pto](www.mlaw.gov.sg/pto) under eServices to deposit your will information with the Wills Registry.
 
 The Wills Registry will no longer accept hardcopy forms for the deposit of will information after **1 Mar 2014**.
 
-You will need to have your SingPass ready to access our online deposit form. You may apply for your SingPass at https://www.singpass.gov.sg if you do not have one.
+You will need to have your SingPass ready to access our online deposit form. You may apply for your SingPass at [https://www.singpass.gov.sg](https://www.singpass.gov.sg) if you do not have one.
 
-If you are not eligible for a SingPass, you may apply for a log-in ID and password. You can refer to our guide available at www.mlaw.gov.sg/pto under “Guides and Forms” on how to apply for a log-in ID and password.
+If you are not eligible for a SingPass, you may apply for a log-in ID and password. You can refer to our guide available at [www.mlaw.gov.sg/pto](www.mlaw.gov.sg/pto) under “Guides and Forms” on how to apply for a log-in ID and password.
 
 **9. How do I deposit my client’s will information as a lawyer acting for them?**<br>
 Your law firm or company may apply for an organisation account with us. With an organisation account, your law firm or company will be able to authorise you to access the online deposit form.
 
-You may refer to our guide available at www.mlaw.gov.sg/pto under “Guides and Forms” on how to apply for an organization account.
+You may refer to our guide available at [www.mlaw.gov.sg/pto](www.mlaw.gov.sg/pto){:target="_blank"} under “Guides and Forms” on how to apply for an organization account.
 
 Your law firm or company need not apply for a new organisation account if it has an existing organisation account with us.
 
 **10. How do I use the online system?**<br>
-You may refer to our step-by-step guide available at www.mlaw.gov.sg/pto under “Guides and Forms” on how to use the online system.
+You may refer to our step-by-step guide available at [www.mlaw.gov.sg/pto](www.mlaw.gov.sg/pto){:target="_blank"} under “Guides and Forms” on how to use the online system.
 
 **11. I have forgotten to print the receipt and/or transacton summary page. Are you able help to provide a copy of it?**<br>
 We are unable to provide a copy of the receipt / summary page. You may wish to do a Will search if you wish to verify your submitted information.  
@@ -87,18 +87,12 @@ In order to protect the integrity of the information submitted and avoid dispute
 **13. How do I delete my will record from the Wills Registry?**<br>
 You need to write in to request for a deletion of your will record. You may send in your request by email or post to:
 
-Public Trustee’s Office
-
-The URA Centre (East Wing)
-
-45 Maxwell Road
-
-#07-11
-
-Singapore 069118
-
-Attention: Wills Registry
-
+Public Trustee’s Office<br>
+The URA Centre (East Wing)<br>
+45 Maxwell Road<br>
+#07-11<br>
+Singapore 069118<br>
+Attention: Wills Registry<br>
 **[Contact Us @ OneMinLaw](https://www.mlaw.gov.sg/content/minlaw/en/about-us/contact-us.html)**
 
 Please attach a copy of your identity card and indicate your contact number in your correspondence with us.
@@ -122,7 +116,7 @@ e) A person who appears to the Public Trustee to have a legitimate interest in t
 The Wills Registry, maintained by the Public Trustee, is a confidential registry. The information deposited with the Wills Registry is protected. For this reason, information at the Registry will only be released to solicitors acting for the testator or his estate and to the next-of-kin upon the death of the testator.
 
 **16. How do I carry out a search on will information with the Wills Registry?**<br>
-You will need to access our online search form at www.mlaw.gov.sg/pto under eServices.
+You will need to access our online search form at [](www.mlaw.gov.sg/pto) under eServices.
 
 We will need the following supporting documents.
 
