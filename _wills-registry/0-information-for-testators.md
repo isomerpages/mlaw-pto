@@ -169,9 +169,9 @@ e) For person with a legitimate interest in the testator's will or estate (Pleas
 
 Please allow **3 - 5 working days** for us to process your form.
 
-You will need to have your SingPass ready to access our online deposit form. You may apply for your SingPass at https://www.singpass.gov.sg if you do not have one.
+You will need to have your SingPass ready to access our online deposit form. You may apply for your SingPass at [https://www.singpass.gov.sg](https://www.singpass.gov.sg/spauth/login/loginpage?URL=%2F&TAM_OP=login) if you do not have one.
 
-If you are not eligible for a SingPass, you may apply for a log-in ID and password. You can refer to our guide available at www.mlaw.gov.sg/pto under “Guides and Forms” on how to apply for a log-in ID and password.
+If you are not eligible for a SingPass, you may apply for a log-in ID and password. You can refer to our guide available at [www.mlaw.gov.sg/pto](https://mlaw-pto-staging.netlify.com/) under “Guides and Forms” on how to apply for a log-in ID and password.
 
 **17. Do you accept hardcopy forms?**<br>
 
