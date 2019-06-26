@@ -306,8 +306,8 @@ The money held in trust for the minor is invested by the Public Trustee accordin
 
 <table>
   <tr>
-    <td>Amount of Interest Earned</td>
-    <td>Charge</td>
+   <td><b>Amount of Interest Earned</b></td>
+   <td><b>Charge</b></td>
   </tr>
   <tr>
     <td>For the first $1,000</td>
