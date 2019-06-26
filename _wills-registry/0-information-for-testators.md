@@ -105,7 +105,7 @@ The URA Centre (East Wing)<br>
 #07-11<br>
 Singapore 069118<br>
 Attention: Wills Registry<br>
-**[Contact Us @ OneMinLaw](https://staging-isomer-mlaw.netlify.com/contact-us/)**
+**[Contact Us @ OneMinLaw](https://staging-isomer-mlaw.netlify.com/contact-us/){:target="_blank"}**
 
 Please attach a copy of your identity card and indicate your contact number in your correspondence with us.
 
