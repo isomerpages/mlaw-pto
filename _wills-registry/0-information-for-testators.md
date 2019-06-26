@@ -18,8 +18,8 @@ Our fees (including GST) are shown below.
 
 <table>
   <tr>
-    <td>Item</td>
-    <td>Fees</td>
+    <td><b>Item</b></td>
+    <td><b>Fees</b></td>
   </tr>
   <tr>
     <td>Depositing Information</td>
@@ -105,7 +105,7 @@ The URA Centre (East Wing)<br>
 #07-11<br>
 Singapore 069118<br>
 Attention: Wills Registry<br>
-**[Contact Us @ OneMinLaw](https://mlaw-pto-staging.netlify.com/contact-us/)**
+**[Contact Us @ OneMinLaw](https://staging-isomer-mlaw.netlify.com/contact-us/)**
 
 Please attach a copy of your identity card and indicate your contact number in your correspondence with us.
 
