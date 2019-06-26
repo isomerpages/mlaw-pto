@@ -122,7 +122,7 @@ d) **Documents** supporting your equitable or moral claim (e.g. receipts showing
 
 e) **Full details of the deceased’s estate** (i.e. assets and valuation with documentary evidence)
 
-[*Due to a conflict of interests, we are unable to assist you or the other interested persons in drafting the Statutory Declarations. You may either (i) draft the Statutory Declaration on your own and our Commissioners for Oaths can assist in the swearing/affirmation of the Statutory Declarations (click here for the form); or (ii) obtain the Statutory Declaration at a law firm.]
+[*Due to a conflict of interests, we are unable to assist you or the other interested persons in drafting the Statutory Declarations. You may either (i) draft the Statutory Declaration on your own and our Commissioners for Oaths can assist in the swearing/affirmation of the Statutory Declarations (click here for the [form]()); or (ii) obtain the Statutory Declaration at a law firm.]
 
 **14.	How do I make an equitable or moral claim on a bona vacantia estate that is > $50,000 without immovable property?**<br>
 
