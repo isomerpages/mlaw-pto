@@ -67,20 +67,20 @@ Kindly note that these Rules of Distribution apply only to a non-Muslim Deceased
 
 <table>
   <tr>
-    <td colspan="2">Rules of Distribution (Non-Muslims)</td>
+    <td colspan="2"><b>Rules of Distribution (Non-Muslims)</b></td>
   </tr>
   <tr>
     <td>
-      Deceased Die<br>
-      Intestate Leaving
+      <b>Deceased Die<b><br>
+      <b>Intestate Leaving</b>
     </td>
     <td>
-      Distribution
+      <b>Distribution</b>
     </td>
   </tr>
   <tr>
     <td>
-      Spouse<br>
+      <b>Spouse</b><br>
       No Issue<br>
       No Parent
     </td>
@@ -90,8 +90,8 @@ Kindly note that these Rules of Distribution apply only to a non-Muslim Deceased
   </tr>
   <tr>
     <td>
-      Spouse<br>
-      Issue
+      <b>Spouse</b><br>
+      <b>Issue</b>
     </td>
     <td>
       ½ share to surviving spouse.<br>
@@ -101,7 +101,7 @@ Kindly note that these Rules of Distribution apply only to a non-Muslim Deceased
   </tr>
   <tr>
     <td>
-      Issue<br>
+      <b>Issue</b><br>
       No Spouse
     </td>
     <td>
@@ -111,8 +111,8 @@ Kindly note that these Rules of Distribution apply only to a non-Muslim Deceased
   </tr>
   <tr>
     <td>
-      Spouse<br>
-      Parent<br>
+      <b>Spouse</b><br>
+        <b>Parent</b><br>
       No Issue
     </td>
     <td>
@@ -122,7 +122,7 @@ Kindly note that these Rules of Distribution apply only to a non-Muslim Deceased
   </tr>
   <tr>
     <td>
-      Parents<br>
+      <b>Parents</b><br>
       No Spouse<br>
       No Issue
     </td>
@@ -132,7 +132,7 @@ Kindly note that these Rules of Distribution apply only to a non-Muslim Deceased
   </tr>
   <tr>
     <td>
-      Siblings<br>
+      <b>Siblings</b><br>
       No Spouse<br>
       No Issue<br>
       No Parents
@@ -143,7 +143,7 @@ Kindly note that these Rules of Distribution apply only to a non-Muslim Deceased
   </tr>
   <tr>
     <td>
-      Grandparents<br>
+      <b>Grandparents</b><br>
       No Spouse<br>
       No Issue<br>
       No Parents<br>
@@ -155,7 +155,7 @@ Kindly note that these Rules of Distribution apply only to a non-Muslim Deceased
   </tr>
   <tr>
     <td>
-      Uncles and Aunts<br>
+      <b>Uncles and Aunts</b><br>
       No Spouse<br>
       No Issue<br>
       No Parents<br>
