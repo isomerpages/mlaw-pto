@@ -26,4 +26,4 @@ Practice Circulars
 
 [PT Practice Circular No. 1 of 2012 on Submission of Lodgement Forms to the PT (157 KB)](/files/linkclickc662.pdf){:target="_blank"}
 
-*ipto_enquiry@ipto.gov.sg is no longer in use. Please refer to MinLaw website at [www.mlaw.gov.sg](https://staging-isomer-mlaw.netlify.com/).
+*ipto_enquiry@ipto.gov.sg is no longer in use. Please refer to MinLaw website at [www.mlaw.gov.sg](https://staging-isomer-mlaw.netlify.com/){:target="_blank"}.
