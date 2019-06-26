@@ -164,7 +164,7 @@ Kindly note that these Rules of Distribution apply only to a non-Muslim Deceased
     </td>
     <td>Whole share to be shared equally among surviving uncles and aunts.</td>
   </tr>
-</table>
+</table><br>
 
 \*Spouse refers to husband or wife.<br>
 
