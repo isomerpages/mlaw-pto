@@ -162,7 +162,7 @@ Kindly note that these Rules of Distribution apply only to a non-Muslim Deceased
   </tr>
   <tr>
     <td>
-      <b>Parents<b/><br>
+      <b>Parents</b><br>
       No Spouse<br>
       No Issue
     </td>
