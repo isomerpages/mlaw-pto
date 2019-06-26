@@ -275,8 +275,8 @@ The fees we charge for holding nominated CPF money in trust for a minor are show
 
 <table>
   <tr>
-    <td>Amount of CPF Money</td>
-    <td>Charge</td>
+   <td><b>Amount of CPF Money</b></td>
+   <td><b>Charge</b></td>
   </tr>
   <tr>
     <td>For the first $1,000</td>
