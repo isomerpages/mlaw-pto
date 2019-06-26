@@ -21,11 +21,11 @@ The CPF Board will also send us the CPF money of a person who has died if the pe
 
 **2.	What do I need to do for the CPF money to be distributed to me?**
 
-You will need to make an online application at https://mlaw-pto-staging.netlify.com/ so that we can deal with the money.
+You will need to make an online application at [https://mlaw-pto-staging.netlify.com/ so that we can deal with the money](https://mlaw-pto-staging.netlify.com/ so that we can deal with the money).
 
-You will need to have your Singpass ready in order to access our online application form. You may apply for your Singpass at https://www.singpass.gov.sg if you do not have one.
+You will need to have your Singpass ready in order to access our online application form. You may apply for your Singpass at [https://www.singpass.gov.sg if you do not have one](https://www.singpass.gov.sg if you do not have one).
 
-If you are ineligible to apply for a Singpass, you may apply for a login ID and password through our website: https://mlaw-pto-staging.netlify.com/ under eServices.<br><br>
+If you are ineligible to apply for a Singpass, you may apply for a login ID and password through our website: [https://mlaw-pto-staging.netlify.com/ under eServices](https://mlaw-pto-staging.netlify.com/ under eServices).<br><br>
 
 **3.	What are the documents that need to be submitted?**
 
@@ -70,8 +70,8 @@ The fees we charge for dealing with CPF money are shown below:
 
 <table>
   <tr>
-    <td>Amount of CPF Monies</td>
-    <td>Charge</td>
+   <td><b>Amount of CPF Monies</b></td>
+   <td><b>Charge</b></td>
   </tr>
   <tr>
     <td>For the first $1,000</td>
