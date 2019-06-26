@@ -71,7 +71,7 @@ Kindly note that these Rules of Distribution apply only to a non-Muslim Deceased
   </tr>
   <tr>
     <td>
-      <b>Deceased Die<b><br>
+      <b>Deceased Die</b><br>
       <b>Intestate Leaving</b>
     </td>
     <td>
@@ -164,7 +164,7 @@ Kindly note that these Rules of Distribution apply only to a non-Muslim Deceased
     </td>
     <td>Whole share to be shared equally among surviving uncles and aunts.</td>
   </tr>
-</table><br>
+</table>
 
 \*Spouse refers to husband or wife.<br>
 
