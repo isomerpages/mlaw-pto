@@ -132,7 +132,7 @@ Kindly note that these Rules of Distribution apply only to a non-Muslim Deceased
   <tr>
     <td>
       <b>Spouse</b><br>
-      <b>Issue<b>
+      <b>Issue</b>
     </td>
     <td>
       ½ share to surviving spouse.<br>
