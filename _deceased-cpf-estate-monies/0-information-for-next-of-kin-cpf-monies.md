@@ -119,7 +119,7 @@ Kindly note that these Rules of Distribution apply only to a non-Muslim Deceased
      <b>Deceased Die</b><br>
       <b>Intestate Leaving</b>
     </td>
-    <td>Distribution</td>
+   <td><b>Distribution</b></td>
   </tr>
   <tr>
     <td>
@@ -151,8 +151,8 @@ Kindly note that these Rules of Distribution apply only to a non-Muslim Deceased
   </tr>
   <tr>
     <td>
-      Spouse<br>
-      Parent<br>
+     <b>Spouse</b><br>
+     <b>Parent</b><br>
       No Issue
     </td>
     <td>
@@ -162,7 +162,7 @@ Kindly note that these Rules of Distribution apply only to a non-Muslim Deceased
   </tr>
   <tr>
     <td>
-      Parents<br>
+      <b>Parents<b/><br>
       No Spouse<br>
       No Issue
     </td>
@@ -172,7 +172,7 @@ Kindly note that these Rules of Distribution apply only to a non-Muslim Deceased
   </tr>
   <tr>
     <td>
-      Siblings<br>
+     <b>Siblings</b><br>
       No Spouse<br>
       No Issue<br>
       No Parents
@@ -183,7 +183,7 @@ Kindly note that these Rules of Distribution apply only to a non-Muslim Deceased
   </tr>
   <tr>
     <td>
-      Grandparents<br>
+     <b>Grandparents</b><br>
       No Spouse<br>
       No Issue<br>
       No Parents<br>
@@ -195,7 +195,7 @@ Kindly note that these Rules of Distribution apply only to a non-Muslim Deceased
   </tr>
   <tr>
     <td>
-      Uncles and Aunts<br>
+     <b>Uncles and Aunts</b><br>
       No Spouse<br>
       No Issue<br>
       No Parents<br>
@@ -208,8 +208,8 @@ Kindly note that these Rules of Distribution apply only to a non-Muslim Deceased
   </tr>
 </table>
 
-* Spouse refers to husband or wife.<br>
-* Issue means a child (legitimate or legally adopted) and the descendants of a deceased’s child. Illegitimate children and transferred children are NOT entitled under the Intestacy Rules.<br><br>
+/* Spouse refers to husband or wife.<br>
+/* Issue means a child (legitimate or legally adopted) and the descendants of a deceased’s child. Illegitimate children and transferred children are NOT entitled under the Intestacy Rules.<br><br>
 
 
 **8.	How would the Public Trustee distribute the CPF money of a Muslim?**
