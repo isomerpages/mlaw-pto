@@ -73,7 +73,7 @@ You can make a claim only after the expiry of the waiting period stated in the t
   <td><b>Waiting Period</b></td>
  </tr>
  <tr>
-  <td>Estate **not** involving immovable property e.g. bank monies, CPF monies</td>
+  <td>Estate <b>not</b> involving immovable property e.g. bank monies, CPF monies</td>
   <td>Not less than 6 months from the date of death</td>
  </tr>
  <tr>
