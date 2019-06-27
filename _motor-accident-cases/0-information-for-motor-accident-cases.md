@@ -145,7 +145,7 @@ The fees charged by the PT are as follows:
     <td><b>Amount<sup>1</sup></b></td>
   </tr>
   <tr>
-    <td>Where the amount of general damages2 settled or awarded exceeds $5,000 but does not exceed $10,000</td>
+    <td>Where the amount of general damages<sup>2</sup> settled or awarded exceeds $5,000 but does not exceed $10,000</td>
     <td>$300.00</td>
   </tr>
   <tr>
