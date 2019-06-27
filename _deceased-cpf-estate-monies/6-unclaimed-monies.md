@@ -15,16 +15,16 @@ Unclaimed Monies
     <td colspan="2">If you think you have monies held by the Public Trustee (for deceased estates):</td>
   </tr>
   <tr>
-    <td>Step 1</td>
+    <td><b>Step 1</b></td>
     <td>Click on the specific listing of unclaimed monies that you want to view. E.g. If you are viewing the listing of deceased estates, you may search for your name or the name of a deceased next-of-kin.</td>
   </tr>
   <tr>
-    <td>Step 2</td>
+    <td><b>Step 2</b></td>
     <td>If you locate a record of unclaimed monies due to you, take down the “Payee Name”, “Year Paid” and “Remarks” or "Reference No." stated in the listing.
  </td>
   </tr>
   <tr>
-    <td>Step 3</td>
+    <td><b>Step 3</b></td>
     <td>
       Contact us via phone or email if you have documentary proof that you are the rightful owner of the monies at:<br><br>
       Public Trustee’s Office<br>
@@ -37,7 +37,7 @@ Unclaimed Monies
     </td>
   </tr>
   <tr>
-    <td>Step 4</td>
+    <td><b>Step 4</b></td>
     <td>
       Produce the necessary documents according to each of the categories set out below. Please provide information on the “Payee Name”, “Year Paid” and “Remarks” or "Reference No." when making the claim. The list of required documents can be found <a href="/deceased-cpf-estate-monies/forms/">here</a>. 
     </td>
