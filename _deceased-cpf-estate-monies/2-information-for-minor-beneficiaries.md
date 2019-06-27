@@ -188,7 +188,7 @@ If you do not receive our notification letter before your 21st birthday, please 
 
 In order for us to pay the money to you electronically, please send us by post or via [http://www.mlaw.gov.sg/eservices/pto](http://www.mlaw.gov.sg/eservices/pto){:target="_blank"} (Submission of Supporting Documens), a clear copy of:
 
-1) your identity card (front and back); and<br>
+1) your identity card (front and back); and<br><br>
 2) the front page of the bank passbook or bank statement. For a payment to a joint bank account or third party account, both you and the account holder(s) must execute the appropriate indemnity forms (Form 15A; and 15B or 15C) which are available at our website. For the other non-electronic modes of payment, you will bear all the changes imposed by the banks(s) whcih will be deducted directly from the inheritance.3. When will I receive the trust money after submission of documents?
 
 Please indicate our case reference number on your documents.
@@ -200,6 +200,7 @@ With effect from 5 March 2018, all payments will be made electronically.
 In order for us to pay the money to you by telegraphic transfer, please send us by post or via [http://www.mlaw.gov.sg/eservices/pto](http://www.mlaw.gov.sg/eservices/pto) (Submission of Supporting Documents), a clear copy of:
 
 1) the page of your passport which shows your name, passport number and other particulars; and<br>
+
 2) the page of your personal bank account passbook or your personal bank account statement which shows the following information:  
   a) Your bank account number;<br>
   b) Sort code of your Bank;<br>
