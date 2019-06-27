@@ -9,7 +9,7 @@ collection_name: deceased-cpf-estate-monies
 Guide for payment to PT
 ---
 
-**Payments through SAM Machine**
+**Payments Through SAM Machine**
 
 [Bona Vacantia (485KB)](/files/SAMMACHINEBV.pdf){:target="_blank"}
 
