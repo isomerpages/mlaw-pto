@@ -13,7 +13,7 @@ Information for Minor Beneficiaries
 
 <table>
   <tr>
-    <td><b?>Nature of Money</b></td>
+    <td><b>Nature of Money</b></td>
     <td><b>Age</b></td>
   </tr>
   <tr>
