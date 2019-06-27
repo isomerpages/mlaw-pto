@@ -165,7 +165,7 @@ Yes, you may print or download the Statement of Account for your records.<br><br
 
 **5. Who can I contact if I have problems accessing the online Statement of Account?**
 
-You may contact us at [Contact Us @ OneMinLaw](https://www.mlaw.gov.sg/about-us/contact-us.html) or call us at 1800-2255-529. 
+You may contact us at [Contact Us @ OneMinLaw](https://www.mlaw.gov.sg/eservices/enquiry/) or call us at 1800-2255-529. 
 
 Please provide us with the following information when you contact us:
 
