@@ -142,7 +142,7 @@ Viewing the Minor Beneficiary's Statement of Account
 **1. Who can access the child’s online Statement of Account?**
 
 The following persons can view the Statement of Account:
-1) The parent or legal guardian of  the beneficiary
+1) The parent or legal guardian of  the beneficiary<br>
 2) The child (provided that he / she is eligible for a SingPass<sup>1</sup>)
 
 <sup>1</sup> The minimum age to apply for a SingPass is 15 years.<br><br>
