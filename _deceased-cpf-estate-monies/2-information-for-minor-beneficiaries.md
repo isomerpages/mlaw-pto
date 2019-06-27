@@ -165,7 +165,7 @@ Yes, you may print or download the Statement of Account for your records.<br><br
 
 **5. Who can I contact if I have problems accessing the online Statement of Account?**
 
-You may contact us at [Contact Us @ OneMinLaw](https://www.mlaw.gov.sg/eservices/enquiry/) or call us at 1800-2255-529. 
+You may contact us at [Contact Us @ OneMinLaw](https://www.mlaw.gov.sg/eservices/enquiry/){:target="_blank"} or call us at 1800-2255-529. 
 
 Please provide us with the following information when you contact us:
 
@@ -180,13 +180,13 @@ Minor Beneficiaries Attaining Age of Majority
 
 We will send you a notification letter **2 weeks** before your 21st birthday with instructions on the steps and documents required to claim your trust money.
 
-If you do not receive our notification letter before your 21st birthday, please notify us at [Contact Us @ OneMinLaw](https://www.mlaw.gov.sg/about-us/contact-us.html), together with your particulars (i.e. name and NRIC), so that we may check and advise you accordingly.<br><br>
+If you do not receive our notification letter before your 21st birthday, please notify us at [Contact Us @ OneMinLaw](https://www.mlaw.gov.sg/eservices/enquiry/){:target="_blank"}, together with your particulars (i.e. name and NRIC), so that we may check and advise you accordingly.<br><br>
 
 **2. What are the required documents to claim my trust money?**
 
-**If you sre living in Singapore**
+**If you are living in Singapore**
 
-In order for us to pay the money to you electronically, please send us by post or via [http://www.mlaw.gov.sg/eservices/pto](http://www.mlaw.gov.sg/eservices/pto) (Submission of Supporting Documens), a clear copy of:
+In order for us to pay the money to you electronically, please send us by post or via [http://www.mlaw.gov.sg/eservices/pto](http://www.mlaw.gov.sg/eservices/pto){:target="_blank"} (Submission of Supporting Documens), a clear copy of:
 
 1) your identity card (front and back); and
 2) the front page of the bank passbook or bank statement. For a payment to a joint bank account or third party account, both you and the account holder(s) must execute the appropriate indemnity forms (Form 15A; and 15B or 15C) which are available at our website. For the other non-electronic modes of payment, you will bear all the changes imposed by the banks(s) whcih will be deducted directly from the inheritance.3. When will I receive the trust money after submission of documents?
