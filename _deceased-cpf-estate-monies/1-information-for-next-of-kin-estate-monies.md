@@ -47,11 +47,11 @@ The assets administered by the Public Trustee are:
 
 **4. How do I apply to the Public Trustee to administer a Deceased’s Estate?**
 
-You will need to make an online application at www.mlaw.gov.sg/pto under eServices for the Public Trustee to administer the Deceased’s estate monies.  Please note that you will be required to disclose information on the Deceased’s shares, bank savings account, death gratuity, insurance policies and vehicles owned (if any) in the online application.
+You will need to make an online application at [www.mlaw.gov.sg/pto](https://mlaw-pto-staging.netlify.com/){:target="_blank"} under eServices for the Public Trustee to administer the Deceased’s estate monies.  Please note that you will be required to disclose information on the Deceased’s shares, bank savings account, death gratuity, insurance policies and vehicles owned (if any) in the online application.
 
-You will need to have your Singpass ready in order to access our online application form. You may apply for your Singpass at https://www.singpass.gov.sg if you do not have one.
+You will need to have your Singpass ready in order to access our online application form. You may apply for your Singpass at [https://www.singpass.gov.sg](https://www.singpass.gov.sg){:target="_blank"} if you do not have one.
 
-If you are ineligible to apply for a Singpass, you may apply for a login ID and password through our website: www.mlaw.gov.sg/pto under eServices.<br><br>
+If you are ineligible to apply for a Singpass, you may apply for a login ID and password through our website: [www.mlaw.gov.sg/pto](https://mlaw-pto-staging.netlify.com/){:target="_blank"} under eServices.<br><br>
 
 **5. How would the Public Trustee distribute the estate of a non-Muslim?**
 
