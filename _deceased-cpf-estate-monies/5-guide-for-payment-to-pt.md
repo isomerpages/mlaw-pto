@@ -6,7 +6,7 @@ breadcrumb: Guide for Payment to PT
 collection_name: deceased-cpf-estate-monies
 ---
 
-Guide for payment to PT
+Guide for Payment to PT
 ---
 
 **Payments Through SAM Machine**
