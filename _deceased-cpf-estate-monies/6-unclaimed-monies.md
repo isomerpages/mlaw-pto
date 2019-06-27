@@ -32,7 +32,7 @@ Unclaimed Monies
       45 Maxwell Road<br>
       #07-11<br>
       Singapore 069118<br><br>
-      <a href="https://www.mlaw.gov.sg/eservices/enquiry/">Contact Us @ OneMinLaw</a><br><br>
+      <a href="https://www.mlaw.gov.sg/eservices/enquiry/">{:target="_blank"}Contact Us @ OneMinLaw</a><br><br>
       Tel: 1800-2255-529 (General Enquiries)
     </td>
   </tr>
