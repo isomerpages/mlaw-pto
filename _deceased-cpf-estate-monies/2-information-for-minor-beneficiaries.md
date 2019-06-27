@@ -153,7 +153,7 @@ You will need to log on to our eService through our website ([https://www.mlaw.g
 
 You will need to have your SingPass of ready in order to access our eService. If you do not have a Singpass, you may obtain one at [http://www.singpass.gov.sg](http://www.singpass.gov.sg).
 
-If you are not eligible to apply for a Singpass and above 21 years old, you may register for a Non-SingPass login ID through our website ([https://www.mlaw.gov.sg/eservices/pto](https://www.mlaw.gov.sg/eservices/pto)).<br><br>
+If you are not eligible to apply for a Singpass and above 21 years old, you may register for a Non-SingPass login ID through our website ([https://mlaw-pto-staging.netlify.com/](https://mlaw-pto-staging.netlify.com/)).<br><br>
 
 **3. How do I navigate this new eService?**
 
