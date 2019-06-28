@@ -7,6 +7,6 @@ collection_name: deceased-cpf-estate-monies
 
 ---
 
-Glossary for Commonly Used Terms
+Glossary
 ---
 [Glossary - Trust (147 KB)](/files/LegalTerms-Trust.pdf){:target="_blank"}
