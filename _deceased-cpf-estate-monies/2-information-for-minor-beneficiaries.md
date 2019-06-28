@@ -1,12 +1,12 @@
 ---
 layout: leftnav-page-content
-title: Information for Minor Beneficiaries
+title: Monies held-in-trust for Minors
 permalink: /deceased-cpf-estate-monies/minor-beneficiaries/
-breadcrumb: Information for Minor Beneficiaries
+breadcrumb: Monies held-in-trust for Minors
 collection_name: deceased-cpf-estate-monies
 ---
 
-Information for Minor Beneficiaries
+Monies held-in-trust for Minors
 ---
 
 **1. When will the child be eligible to receive the money held-in-trust?**
