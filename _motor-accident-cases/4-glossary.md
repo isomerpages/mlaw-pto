@@ -9,4 +9,4 @@ collection_name: compensation-in-motor-accident-cases
 
 Glossary
 ---
-[Glossary - Trust (147 KB)](/files/Legal Terms-MA.pdf){:target="_blank"}
+[Glossary - MA (15 KB)](/files/Legal Terms-MA.pdf){:target="_blank"}
