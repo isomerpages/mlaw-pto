@@ -2,11 +2,11 @@
 layout: leftnav-page-content
 title: CPF Monies
 permalink: /deceased-cpf-estate-monies/next-of-kin-cpf/
-breadcrumb: CPF Monies 1
+breadcrumb: CPF Monies
 collection_name: deceased-cpf-estate-monies
 ---
 
-CPF Monies
+CPF Monies 1
 ---
 
 **1.	How do I know if my loved one has any CPF money and if they had made a valid nomination?**
