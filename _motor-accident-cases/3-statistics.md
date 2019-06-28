@@ -4,7 +4,6 @@ title: Statistics
 permalink: /motor-accident-cases/statistics/
 breadcrumb: Statistics
 collection_name: compensation-in-motor-accident-cases
-
 ---
 
 Statistics
