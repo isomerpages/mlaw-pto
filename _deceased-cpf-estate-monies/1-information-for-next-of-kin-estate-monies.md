@@ -1,12 +1,12 @@
 ---
 layout: leftnav-page-content
-title: Information for Next-of-Kin (Estate Monies)
+title: Estate (Other Assets) 
 permalink: /deceased-cpf-estate-monies/next-of-kin-estate/
-breadcrumb: Information for Next-of-Kin (Estate Monies)
+breadcrumb: Estate (Other Assets) 
 collection_name: deceased-cpf-estate-monies
 ---
 
-Information for Next-of-Kin (Estate Monies)
+Estate (Other Assets) 
 ---
 
 **1. What do I need to ensure before applying to the Public Trustee?**
