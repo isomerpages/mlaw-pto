@@ -7,7 +7,7 @@ collection_name: deceased-cpf-estate-monies
 
 ---
 
-Administration of Claims against Bona Vacantia Estates
+Administration of Claims against Bona Vacantia Estate
 ---
 **1.	What is bona vacantia?**<br>
 
