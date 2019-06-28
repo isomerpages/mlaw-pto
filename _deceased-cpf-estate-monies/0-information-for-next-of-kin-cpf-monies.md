@@ -1,12 +1,12 @@
 ---
 layout: leftnav-page-content
-title: Information for Next-of-Kin (CPF Monies)
+title: CPF Monies
 permalink: /deceased-cpf-estate-monies/next-of-kin-cpf/
-breadcrumb: Information for Next-of-Kin (CPF Monies)
+breadcrumb: CPF Monies
 collection_name: deceased-cpf-estate-monies
 ---
 
-Information for Next-of-Kin (CPF Monies)
+CPF Monies
 ---
 
 **1.	How do I know if my loved one has any CPF money and if they had made a valid nomination?**
