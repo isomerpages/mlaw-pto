@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Glossary
-permalink: /compensation-in-motor-accident-cases/glossary
+permalink: /motor-accident-cases/glossary
 breadcrumb: Glossary
 collection_name: compensation-in-motor-accident-cases
 
