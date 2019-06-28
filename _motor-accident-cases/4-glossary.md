@@ -4,7 +4,6 @@ title: Glossary
 permalink: /motor-accident-cases/glossary/
 breadcrumb: Glossary
 collection_name: compensation-in-motor-accident-cases
-
 ---
 
 Glossary
