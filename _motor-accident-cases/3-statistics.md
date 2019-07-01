@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Statistics
 permalink: /motor-accident-cases/statistics/
 breadcrumb: Statistics
-collection_name: compensation-in-motor-accident-cases
+collection_name: motor-accident-cases
 ---
 
 Statistics

@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Glossary
 permalink: /motor-accident-cases/glossary/
 breadcrumb: Glossary
-collection_name: compensation-in-motor-accident-cases
+collection_name: motor-accident-cases
 ---
 
 Glossary

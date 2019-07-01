@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Forms / Guides
 permalink: /motor-accident-cases/forms-guides/
 breadcrumb: Forms / Guides
-collection_name: compensation-in-motor-accident-cases
+collection_name: motor-accident-cases
 ---
 
 Forms / Guides 

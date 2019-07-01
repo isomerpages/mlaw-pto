@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Practice Circulars
 permalink: /motor-accident-cases/practise-circulars/
 breadcrumb: Practice Circulars
-collection_name: compensation-in-motor-accident-cases
+collection_name: motor-accident-cases
 ---
 
 Practice Circulars
