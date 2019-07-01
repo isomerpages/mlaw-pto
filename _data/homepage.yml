@@ -6,7 +6,7 @@ favicon: /images/favicon-isomer.ico
 agency-logo: /images/isomer-logo.svg
 
 # Hero Banner
-hero-title: Public Trustee hi
+hero-title: Public Trustee
 hero-subtitle: Administration of deceased CPF / estate monies and compensation in motor accidents
 hero-banner: /images/PTO_Hero banner.png
 
@@ -23,4 +23,3 @@ key-highlights:
   - title: eServices
     description: Submission of supporting documents and online applications
     url: //www.mlaw.gov.sg/eservices/pto/welcome.xhtml
-
