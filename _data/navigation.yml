@@ -4,7 +4,9 @@
 #                                #
 ##################################
 
-- title: Who We Are
+- title: Home
+  url: /data/homepage/
+- title: About Us
   url: /who-we-are/
 - title: Deceased CPF / Estate Monies
   url: /deceased-cpf-estate-monies/cpf-monies/
