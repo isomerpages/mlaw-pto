@@ -71,6 +71,6 @@
 - title: eServices
   url: https://www.mlaw.gov.sg/content/pto/en/wills-registry/forms.html
 - title: News
-  url: https://www.mlaw.gov.sg/content/minlaw/en/news.pto.html
+  url: https://staging-isomer-mlaw.netlify.com/news/
 - title: Join Us
   url: https://www.mlaw.gov.sg/content/minlaw/en/join-us/why-join-minlaw.html
