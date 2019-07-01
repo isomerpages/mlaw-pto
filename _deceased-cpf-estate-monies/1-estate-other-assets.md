@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Estate - Other Assets
+title: Estate Other Assets
 permalink: /deceased-cpf-estate-monies/estate-other-assets/
 breadcrumb: Estate - Other Assets
 collection_name: deceased-cpf-estate-monies
