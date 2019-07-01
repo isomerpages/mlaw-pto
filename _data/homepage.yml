@@ -11,25 +11,21 @@ favicon: /images/favicon-isomer.ico
 agency-logo: /images/isomer-logo.svg
 
 # Hero Banner
-hero-title: Hero title
-hero-subtitle: Hero subtitle
-hero-banner: /images/hero-banner.png
+hero-title: Public Trustee
+hero-subtitle: Administration of deceased CPF / estate monies and compensation in motor accidents
+hero-banner: /images/PTO_Hero banner.png
 
-#Call to Action Button
-button:
-  - text: Learn More
-    url: /who-we-are/
     
 key-highlights:
-  - title: Highlight A
-    description: Important highlight A is important
-    url: https://google.com
+  - title: Deceased CPF Monies / Estate
+    description: Information for Next-of-Kin
+    url: https:/_deceased-cpf-estate-monies/0-cpf-monies.md
     external: true
-  - title: Highlight B
-    description: Important highlight B is equally important
-    url: https://yahoo.com
+  - title: Motor Accident Cases
+    description: Information for Motor Accident Victims
+    url: https:/_motor-accident-cases/0-information-for-motor-accident-cases.md
     external: true
-  - title: Page A
-    description: Page A is  NOT important too TO ME.
-    url: /page-A/
+  - title: eServices
+    description: Submission of supporting documents and online applications
+    url: //www.mlaw.gov.sg/eservices/pto/welcome.xhtml
 
