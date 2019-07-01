@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Estate (Other Assets)
-permalink: /deceased-cpf-estate-monies/next-of-kin-estate/
+permalink: /deceased-cpf-estate-monies/estate-other-assets/
 breadcrumb: Estate (Other Assets)
 collection_name: deceased-cpf-estate-monies
 ---
