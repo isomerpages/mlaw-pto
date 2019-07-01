@@ -6,7 +6,7 @@ breadcrumb: CPF Monies
 collection_name: deceased-cpf-estate-monies
 ---
 
-CPF Monies 
+CPF Monies         TEST
 ---
 
 **1.	How do I know if my loved one has any CPF money and if they had made a valid nomination?**
