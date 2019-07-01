@@ -1,12 +1,12 @@
 ---
 layout: leftnav-page-content
 title: Estate (Other Assets)
-permalink: /deceased-cpf-estate-monies/estate-other-assets/
+permalink: /deceased-cpf-estate-monies/next-of-kin-estate/
 breadcrumb: Estate - Other Assets
 collection_name: deceased-cpf-estate-monies
 ---
 
-Estate (Other Assets)
+Estate (Other Assets)test test
 ---
 
 **1. What do I need to ensure before applying to the Public Trustee?**
