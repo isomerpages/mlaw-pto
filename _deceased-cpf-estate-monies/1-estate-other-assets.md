@@ -296,10 +296,10 @@ Please note that the search results are based on information provided by law pra
 
 On a case-by-case basis, the Public Trustee does administer a deceased’s share in a HDB flat if it is of small value. You will first have to submit an online application for the Public Trustee to administer the deceased’s estate so that we may consider your request.
 
-Please refer to our Q2 on the situations where the Public Trustee would not be able to administer an estate.<br><br>
+Please refer to our Q2 on the situations where the Public Trustee would not be able to administer an estate.<br>
 
 **14. I need someone to assist me to submit the online application but I do not want to engage the e-Helper’s service.**
 
-You may wish to get a family member or a trusted friend to assist you in completing our online application form.<br><br>
+You may wish to get a family member or a trusted friend to assist you in completing our online application form.<br>
 
 **With effect from 5 Mar 2018, all payments will be made electronically.**
