@@ -11,7 +11,7 @@ Estate (Other Assets)
 
 **1. What do I need to ensure before applying to the Public Trustee?**
 
-You will need to ensure that the estate does not fall under one of the situations stated below where the Public Trustee cannot act.<br><br>
+You will need to ensure that the estate does not fall under one of the situations stated below where the Public Trustee cannot act.<br>
 
 **2. What are the situations where the Public Trustee cannot act?**
 
@@ -31,7 +31,7 @@ We cannot act if:
 
 In these cases, you will need to apply to the court for Letters of Administration to deal with the person’s estate.
 
-If you qualify for legal aid, you may apply to the Legal Aid Bureau for assistance in obtaining a Letter of Administration. More information on the Legal Aid Bureau can be accessed at [www.lab.gov.sg](https://mlaw-lab-staging.netlify.com/){:target="_blank"}. If you do not qualify for legal aid, you will need to engage the services of a lawyer.<br><br>
+If you qualify for legal aid, you may apply to the Legal Aid Bureau for assistance in obtaining a Letter of Administration. More information on the Legal Aid Bureau can be accessed at [www.lab.gov.sg](https://mlaw-lab-staging.netlify.com/){:target="_blank"}. If you do not qualify for legal aid, you will need to engage the services of a lawyer.<br>
 
 **3. What are the assets administered by the Public Trustee?**
 
@@ -43,7 +43,7 @@ The assets administered by the Public Trustee are:
 * salary the Deceased was owed but not yet paid;
 * Deceased's items in a safe-deposit box;
 * Deceased's money paid as government compensation; and
-* Deceased's money from the Workfare Income Supplement Scheme.<br><br>
+* Deceased's money from the Workfare Income Supplement Scheme.<br>
 
 **4. How do I apply to the Public Trustee to administer a Deceased’s Estate?**
 
@@ -51,7 +51,7 @@ You will need to make an online application at [www.mlaw.gov.sg/pto](https://mla
 
 You will need to have your Singpass ready in order to access our online application form. You may apply for your Singpass at [https://www.singpass.gov.sg](https://www.singpass.gov.sg){:target="_blank"} if you do not have one.
 
-If you are ineligible to apply for a Singpass, you may apply for a login ID and password through our website: [www.mlaw.gov.sg/pto](https://mlaw-pto-staging.netlify.com/){:target="_blank"} under eServices.<br><br>
+If you are ineligible to apply for a Singpass, you may apply for a login ID and password through our website: [www.mlaw.gov.sg/pto](https://mlaw-pto-staging.netlify.com/){:target="_blank"} under eServices.<br>
 
 **5. How would the Public Trustee distribute the estate of a non-Muslim?**
 
@@ -59,7 +59,7 @@ If the person who died was not a Muslim, we will distribute the estate in line w
 
 If the person who died was domiciled in Singapore at the time of their death, we will distribute their estate in line with the rules of distribution in the Intestate Succession Act.
 
-(Note: The place of domicile refers to the place where the Deceased intended his permanent home to be. It does not refer to his nationality or residence.)<br><br>
+(Note: The place of domicile refers to the place where the Deceased intended his permanent home to be. It does not refer to his nationality or residence.)<br>
 
 **6. What are the Rules of Distribution under the Intestate Succession Act (Cap. 146)?**
 
@@ -168,13 +168,13 @@ Kindly note that these Rules of Distribution apply only to a non-Muslim Deceased
 
 \*Spouse refers to husband or wife.<br>
 
-\*Issue means a child (legitimate or legally adopted) and the descendants of a deceased’s child. Illegitimate children and transferred children are NOT entitled under the Intestacy Rules.<br><br>
+\*Issue means a child (legitimate or legally adopted) and the descendants of a deceased’s child. Illegitimate children and transferred children are NOT entitled under the Intestacy Rules.<br>
 
 **7. How would the Public Trustee distribute the estate of a Muslim?**
 
 If the person who died was a Muslim, we will distribute the estate in line with Section 112 of the Administration of Muslim Law Act according to the school of the Muslim law the person observed.
 
-The Certificate of Inheritance issued by Syariah Court will list down the beneficiaries and their share of inheritance.<br><br>
+The Certificate of Inheritance issued by Syariah Court will list down the beneficiaries and their share of inheritance.<br>
 
 **8. What are the documents that need to be submitted to the Public Trustee?**
 
@@ -208,7 +208,7 @@ Common types of documents required are:
   
 For Muslims, you may apply for the Certificate of Inheritance at [www.syariahcourt.gov.sg](https://www.syariahcourt.gov.sg/Syariah/front-end/Home.aspx){:target="_blank"}.
 
-You will be assigned a case officer after you have filed your online application. Please inform your case officer if you do not possess some of the required documents. Your case officer will advise you on what to do after you have submitted your online application.<br><br>
+You will be assigned a case officer after you have filed your online application. Please inform your case officer if you do not possess some of the required documents. Your case officer will advise you on what to do after you have submitted your online application.<br>
 
 **9. What are the fees charged by the Public Trustee for the administration of Estate?**
 
@@ -242,7 +242,7 @@ The fees we charge for administration of the estate are shown below:
 </table>
 
 
-These fees, which we will take from the estate money, include GST and cannot be waived. You will have to pay a minimum fee of $15.<br><br>
+These fees, which we will take from the estate money, include GST and cannot be waived. You will have to pay a minimum fee of $15.<br>
 
 **10. How can I claim a reimbursement of funeral expenses out of the Deceased’s Estate monies?**
 
@@ -278,7 +278,7 @@ You may post the hardcopy of the “Declaration Form (Estate monies) for funeral
 Public Trustee’s Office<br>
 The URA Centre (East Wing)<br>
 45 Maxwell Road, #07-11<br>
-Singapore 069118<br><br>
+Singapore 069118<br>
 
 **11.	When will the money be paid to me?**
 
@@ -290,7 +290,7 @@ The Public Trustee does not assist in resealing in the Singapore Courts, Letters
 
 LSRA has an integrated online search function which lists all registered law practices (foreign or local), Singapore solicitors, foreign lawyers, and regulated non-practitioners. At present, you can search by name, practice area, and the type of law practice. We are working on further enhancements to the search function.
 
-Please note that the search results are based on information provided by law practices and lawyers. The Ministry of Law does not make any warranty or representation as to their accuracy, completeness or reliability. <br><br>
+Please note that the search results are based on information provided by law practices and lawyers. The Ministry of Law does not make any warranty or representation as to their accuracy, completeness or reliability. <br>
 
 **13. Does the Public Trustee assist in the administration of a deceased’s share in a HDB flat if it is of small value?**
 
