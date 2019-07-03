@@ -27,10 +27,6 @@ paginate: 12
 homepage_hero_i_want_to: false
 homepage_resources: false
 
-#contact us_url:
-contact us_url: "https://staging-isomer-mlaw.netlify.com/about-us/contact-us/"
-contact_us_url_external: false
-
 # Feedback Form URL
 feedback_form_url: "https://www.mlaw.gov.sg/eservices/enquiry/"
 
