@@ -12,13 +12,13 @@ hero-banner: /images/PTO_Hero banner.png
 
     
 key-highlights:
-  - title: Deceased CPF Monies / Estate
+  - title: Deceased CPF Monies / Estate (Other Assets)
     description: Information for Next-of-Kin
     url: /deceased-cpf-estate-monies/cpf-monies/
     external: true
   - title: Motor Accident Cases
     description: Information for Motor Accident Victims
-    url: /motor-accident-cases/0-information-for-motor-accident-cases.md
+    url: /motor-accident-cases/information-for-motor-accident-cases/
     external: true
   - title: e-Services
     description: Submission of supporting documents and online applications
