@@ -151,8 +151,7 @@ For cases where the Public Trustee acts as the administrator of the estate, we w
 For an estate that is > $50,000 and/or involve immovable property or does not meet our above criteria, you will have to engage a lawyer to apply for Letters of Administration so that you can administer the estate on your own. We will provide you with a renunciation letter renouncing the Government’s right to apply for Letters of Administration. Once the estate administration is completed, you will inform the Public Trustee and we will put up a warrant for Minister to sign to transfer the estate monies to the claimant.
 
 **18.	Are there any fees for making a claim against Bona Vacantia estates?**<br>
-There is an application fee of $50.00 (inclusive of GST) on each claim filed against a bona vacantia estate.
-
+There is an application fee of $50.00 (inclusive of GST) on each claim filed against a bona vacantia estate.<br>
 If the Public Trustee is also the administrator of the estate, we will charge an administration fee for estate administration.
 
 **Fees Charged for Administration of Bona Vacantia Cases (Estate)**<br>
