@@ -152,8 +152,7 @@ Yes, you may print or download the Statement of Account for your records.<br>
 **5. Who can I contact if I have problems accessing the online Statement of Account?**<br>
 You may contact us at [Contact Us @ OneMinLaw](https://www.mlaw.gov.sg/eservices/enquiry/){:target="_blank"} or call us at 1800-2255-529. 
 
-Please provide us with the following information when you contact us:
-
+Please provide us with the following information when you contact us:<br>
 (a) A screenprint of the error message<br>
 (b) You and your child's name and NRIC; and<br>
 (c) Your relationship with the child<br>
@@ -167,8 +166,7 @@ We will send you a notification letter **2 weeks** before your 21st birthday wit
 If you do not receive our notification letter before your 21st birthday, please notify us at [Contact Us @ OneMinLaw](https://www.mlaw.gov.sg/eservices/enquiry/){:target="_blank"}, together with your particulars (i.e. name and NRIC), so that we may check and advise you accordingly.<br>
 
 **2. What are the required documents to claim my trust money?**<br>
-**If you are living in Singapore**
-
+**If you are living in Singapore**<br>
 In order for us to pay the money to you electronically, please send us by post or via [http://www.mlaw.gov.sg/eservices/pto](http://www.mlaw.gov.sg/eservices/pto){:target="_blank"} (Submission of Supporting Documens), a clear copy of:
 
 1) your identity card (front and back); and<br>
@@ -178,8 +176,7 @@ Please indicate our case reference number on your documents.
 
 With effect from 5 March 2018, all payments will be made electronically.
 
-**If you are living overseas**
-
+**If you are living overseas**<br>
 In order for us to pay the money to you by telegraphic transfer, please send us by post or via [http://www.mlaw.gov.sg/eservices/pto](http://www.mlaw.gov.sg/eservices/pto) (Submission of Supporting Documents), a clear copy of:
 
 1) the page of your passport which shows your name, passport number and other particulars; and<br>
