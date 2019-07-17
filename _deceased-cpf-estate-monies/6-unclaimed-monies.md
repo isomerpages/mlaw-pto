@@ -47,8 +47,7 @@ Unclaimed Monies
   </tr>
 </table><br>
 
-**Unclaimed Monies Held By:**
-
+**Unclaimed Monies Held By:** <br>
 Public Trustee<br>
 [Deceased Estates(Unclaimed Monies)](/files/PT.pdf){:target="_blank"}<br>
 [Deceased Estates (Bona Vacantia)](/files/PTBona-Sept2018.pdf){:target="_blank"}<br> 
