@@ -144,14 +144,12 @@ The fees charged by the PT are as follows:
 <sup>2</sup> The amount of special damages, interest, costs and disbursements settled or awarded is not taken into account for the purpose of computing the fees.
 
 **14.	How do we make payment for the PT’s fees?**<br>
-**For a Judgment obtained / Settlement Agreement made ON or after 1 August 2014:**
-
+**For a Judgment obtained / Settlement Agreement made ON or after 1 August 2014:**<br>
 Payment of the fees must be made online by debit card, credit card or direct debit. The fees must be paid together with the submission of the online application to the PT.
 
 Lawyers may recover these fees as disbursements.
 
 **For a Judgment obtained / Settlement Agreement dated before 1 August 2014:**<br>
-
 Payment of the fees must be made by a lodgment form which is currently submitted by the insurers.
 
 **15.	What are some of the documents that must be submitted when an application is made to the PT to assess the reasonableness of S and C costs and disbursements?**<br>
