@@ -9,12 +9,10 @@ collection_name: deceased-cpf-estate-monies
 Estate (Other Assets) 
 ---
 
-**1. What do I need to ensure before applying to the Public Trustee?**
-
+**1. What do I need to ensure before applying to the Public Trustee?**<br>
 You will need to ensure that the estate does not fall under one of the situations stated below where the Public Trustee cannot act.<br>
 
-**2. What are the situations where the Public Trustee cannot act?**
-
+**2. What are the situations where the Public Trustee cannot act?**<br>
 We cannot act if:
 
 * the estate is worth more than $50,000;
@@ -33,8 +31,7 @@ In these cases, you will need to apply to the court for Letters of Administratio
 
 If you qualify for legal aid, you may apply to the Legal Aid Bureau for assistance in obtaining a Letter of Administration. More information on the Legal Aid Bureau can be accessed at [www.lab.gov.sg](https://mlaw-lab-staging.netlify.com/){:target="_blank"}. If you do not qualify for legal aid, you will need to engage the services of a lawyer.<br>
 
-**3. What are the assets administered by the Public Trustee?**
-
+**3. What are the assets administered by the Public Trustee?**<br>
 The assets administered by the Public Trustee are:
 
 * Deceased's money in banks or other financial institutions in Singapore;
@@ -45,24 +42,21 @@ The assets administered by the Public Trustee are:
 * Deceased's money paid as government compensation; and
 * Deceased's money from the Workfare Income Supplement Scheme.<br>
 
-**4. How do I apply to the Public Trustee to administer a Deceased’s Estate?**
-
+**4. How do I apply to the Public Trustee to administer a Deceased’s Estate?**<br>
 You will need to make an online application at [www.mlaw.gov.sg/pto](https://mlaw-pto-staging.netlify.com/){:target="_blank"} under eServices for the Public Trustee to administer the Deceased’s estate monies.  Please note that you will be required to disclose information on the Deceased’s shares, bank savings account, death gratuity, insurance policies and vehicles owned (if any) in the online application.
 
 You will need to have your Singpass ready in order to access our online application form. You may apply for your Singpass at [https://www.singpass.gov.sg](https://www.singpass.gov.sg){:target="_blank"} if you do not have one.
 
 If you are ineligible to apply for a Singpass, you may apply for a login ID and password through our website: [www.mlaw.gov.sg/pto](https://mlaw-pto-staging.netlify.com/){:target="_blank"} under eServices.<br>
 
-**5. How would the Public Trustee distribute the estate of a non-Muslim?**
-
+**5. How would the Public Trustee distribute the estate of a non-Muslim?**<br>
 If the person who died was not a Muslim, we will distribute the estate in line with the Intestate Succession Act, which says that the distribution of any movable property (for example, money in the bank account) will be regulated by the law of the country in which the person was domiciled at the time of their death.
 
 If the person who died was domiciled in Singapore at the time of their death, we will distribute their estate in line with the rules of distribution in the Intestate Succession Act.
 
 (Note: The place of domicile refers to the place where the Deceased intended his permanent home to be. It does not refer to his nationality or residence.)<br>
 
-**6. What are the Rules of Distribution under the Intestate Succession Act (Cap. 146)?**
-
+**6. What are the Rules of Distribution under the Intestate Succession Act (Cap. 146)?**<br>
 Kindly note that these Rules of Distribution apply only to a non-Muslim Deceased domiciled in Singapore.
 
 <table>
@@ -170,14 +164,12 @@ Kindly note that these Rules of Distribution apply only to a non-Muslim Deceased
 
 \*Issue means a child (legitimate or legally adopted) and the descendants of a deceased’s child. Illegitimate children and transferred children are NOT entitled under the Intestacy Rules.<br>
 
-**7. How would the Public Trustee distribute the estate of a Muslim?**
-
+**7. How would the Public Trustee distribute the estate of a Muslim?**<br>
 If the person who died was a Muslim, we will distribute the estate in line with Section 112 of the Administration of Muslim Law Act according to the school of the Muslim law the person observed.
 
 The Certificate of Inheritance issued by Syariah Court will list down the beneficiaries and their share of inheritance.<br>
 
-**8. What are the documents that need to be submitted to the Public Trustee?**
-
+**8. What are the documents that need to be submitted to the Public Trustee?**<br>
 Annexes A (for Muslims) and B (for non-Muslims) set out the list of documents we need.
 
 For a reimbursement of funeral expenses, Annex C sets out the list of documents we need.
@@ -210,8 +202,7 @@ For Muslims, you may apply for the Certificate of Inheritance at [www.syariahcou
 
 You will be assigned a case officer after you have filed your online application. Please inform your case officer if you do not possess some of the required documents. Your case officer will advise you on what to do after you have submitted your online application.<br>
 
-**9. What are the fees charged by the Public Trustee for the administration of Estate?**
-
+**9. What are the fees charged by the Public Trustee for the administration of Estate?**<br>
 The fees we charge for administration of the estate are shown below:
 
 <table>
@@ -244,8 +235,7 @@ The fees we charge for administration of the estate are shown below:
 
 These fees, which we will take from the estate money, include GST and cannot be waived. You will have to pay a minimum fee of $15.<br>
 
-**10. How can I claim a reimbursement of funeral expenses out of the Deceased’s Estate monies?**
-
+**10. How can I claim a reimbursement of funeral expenses out of the Deceased’s Estate monies?**<br>
 You can indicate the amount of funeral expenses which you would like to claim from the Deceased’s Estate monies in the online application form.
 
 Please note that the maximum amount of funeral reimbursement claim allowable for a Deceased is $6,000.
@@ -280,26 +270,22 @@ The URA Centre (East Wing)<br>
 45 Maxwell Road, #07-11<br>
 Singapore 069118<br>
 
-**11.	When will the money be paid to me?**
-
+**11.	When will the money be paid to me?**<br>
 As a general rule, we will distribute the money within 4 weeks from the date of receipt of the full set of documentation from the beneficiaries or the date of receipt of the deceased’s monies, whichever is later.
 
-**12. Can I get the Public Trustee’s assistance in resealing in Singapore, Letters of Administration / Grant of Probate that was obtained overseas?**
-
+**12. Can I get the Public Trustee’s assistance in resealing in Singapore, Letters of Administration / Grant of Probate that was obtained overseas?**<br>
 The Public Trustee does not assist in resealing in the Singapore Courts, Letters of Administration or Grants of Probate that were obtained overseas. You will have to engage a Singapore lawyer to do this.
 
 LSRA has an integrated online search function which lists all registered law practices (foreign or local), Singapore solicitors, foreign lawyers, and regulated non-practitioners. At present, you can search by name, practice area, and the type of law practice. We are working on further enhancements to the search function.
 
 Please note that the search results are based on information provided by law practices and lawyers. The Ministry of Law does not make any warranty or representation as to their accuracy, completeness or reliability. <br>
 
-**13. Does the Public Trustee assist in the administration of a deceased’s share in a HDB flat if it is of small value?**
-
+**13. Does the Public Trustee assist in the administration of a deceased’s share in a HDB flat if it is of small value?**<br>
 On a case-by-case basis, the Public Trustee does administer a deceased’s share in a HDB flat if it is of small value. You will first have to submit an online application for the Public Trustee to administer the deceased’s estate so that we may consider your request.
 
 Please refer to our Q2 on the situations where the Public Trustee would not be able to administer an estate.<br>
 
-**14. I need someone to assist me to submit the online application but I do not want to engage the e-Helper’s service.**
-
+**14. I need someone to assist me to submit the online application but I do not want to engage the e-Helper’s service.**<br>
 You may wish to get a family member or a trusted friend to assist you in completing our online application form.<br>
 
 **With effect from 5 Mar 2018, all payments will be made electronically.**
