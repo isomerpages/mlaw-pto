@@ -9,8 +9,7 @@ collection_name: wills-registry
 Guides and Forms
 ---
 
-**Guides for Wills Registry**
-
+**Guides for Wills Registry** <br>
 [Depositing a Will Record(1 MB)](/files/DepositingaWillRecord.pdf){:target="_blank"}
 
 [Searching a Will Record (1 MB)](/files/SearchingaWillRecord.pdf){:target="_blank"}
