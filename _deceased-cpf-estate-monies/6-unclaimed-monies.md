@@ -45,9 +45,9 @@ Unclaimed Monies
   <tr>
     <td colspan="2">We will check the claimant’s details against the case file to see if the claim is valid and arrange for payment to be made to the claimant once the claim is verified.</td>
   </tr>
-</table><br>
-
+</table>
 **Unclaimed Monies Held By:** <br>
+
 Public Trustee<br>
 [Deceased Estates(Unclaimed Monies)](/files/PT.pdf){:target="_blank"}<br>
 [Deceased Estates (Bona Vacantia)](/files/PTBona-Sept2018.pdf){:target="_blank"}<br> 
