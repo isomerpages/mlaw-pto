@@ -77,7 +77,7 @@ The waiting period is a safeguard to ensure that the entitled next-of-kin has su
 **13.	How do I make an equitable or moral claim on a bona vacantia estate that is ≤ $50,000?**<br>
 Upon meeting the eligibility conditions set out in Q3 and adhering to the prescribed waiting period of at least 6 months, please submit the following documents to the Public Trustee:
 
-a) **Death Certificate of the Deceased**
+a) **Death Certificate of the Deceased**<br>
 * If the cause of death was unnatural, provide a copy of the coroner’s inquiry and findings (if any)
 
 b) A **Statutory Declaration*** from you stating the following:<br>
