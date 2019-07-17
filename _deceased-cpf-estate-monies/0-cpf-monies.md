@@ -9,8 +9,7 @@ collection_name: deceased-cpf-estate-monies
 CPF Monies
 ---
 
-**1.	How do I know if my loved one has any CPF money and if they had made a valid nomination?**
-
+**1.	How do I know if my loved one has any CPF money and if they had made a valid nomination?** 
 The money from the Central Provident Fund (CPF) of a person who has died will be distributed in line with the nomination they made during their lifetime.
 
 You will need to check with the CPF Board whether the person who has died had made a valid nomination for their CPF money. If they had, the CPF Board will pay the money direct to the person or people they nominated (if those people are older than 18).
@@ -20,7 +19,6 @@ If the person who has died did not make a valid nomination, the CPF Board will s
 The CPF Board will also send us the CPF money of a person who has died if the person chosen to receive that money is under 18 years old (unless she is a widow).<br>
 
 **2.	What do I need to do for the CPF money to be distributed to me?**
-
 You will need to make an online application at [https://mlaw-pto-staging.netlify.com/](https://mlaw-pto-staging.netlify.com/) so that we can deal with the money.
 
 You will need to have your Singpass ready in order to access our online application form. You may apply for your Singpass at [https://www.singpass.gov.sg](https://www.singpass.gov.sg) if you do not have one.
@@ -28,7 +26,6 @@ You will need to have your Singpass ready in order to access our online applicat
 If you are ineligible to apply for a Singpass, you may apply for a login ID and password through our website: [https://mlaw-pto-staging.netlify.com/](https://mlaw-pto-staging.netlify.com/) under eServices.<br>
 
 **3.	What are the documents that need to be submitted?**
-
 Annexes A (for Muslims) and B (for non-Muslims) set out the list of documents we need.
 
 For a reimbursement of funeral expenses, Annex C sets out the list of documents we need.
@@ -54,7 +51,6 @@ If the person who has died was a Muslim, you will need to apply for the Certific
 You will be assigned a case officer after you have filed your online application. Please inform your case officer if you do not possess some of the required documents. Your case officer will advise you on what to do after you have submitted your online application.<br>
 
 **4.	Whom do I submit the documents to?**
-
 You may attach the required documents in your online submission, send via [e-services](https://www.mlaw.gov.sg/eservices/pto/welcome.xhtml) or post to us at the following address:
 
 Public Trustee’s Office<br>
@@ -65,7 +61,6 @@ Singapore 069118
 Please indicate the case reference number and NRIC of the deceased on your supporting documents. This case reference number is shown after you click the submit button of your online application.
 
 **5.	What are the fees charged by the Public Trustee for the administration of un-nominated CPF monies?**
-
 The fees we charge for dealing with CPF money are shown below:
 
 <table>
@@ -98,7 +93,6 @@ The fees we charge for dealing with CPF money are shown below:
 These fees, which we will take from the CPF money, include GST and cannot be waived. You will have to pay a minimum fee of $15.<br>
 
 **6.	How would the Public Trustee distribute the CPF money of a non-Muslim?**
-
 If the person who died was not a Muslim, we will distribute the CPF money in line with the Intestate Succession Act. The Act states that the movable property (for example, money in a bank account) will be distributed according to the law of the country in which the person was domiciled at the time of his death. (When we refer to where the person was domiciled, we mean where they intended their permanent home to be. It does not refer to their nationality or address.)
 
 If the person who died was domiciled in Singapore at the time of their death, we will distribute the CPF money in line with the rules of distribution in the Intestate Succession Act.
@@ -107,7 +101,6 @@ If the person who died was domiciled in Singapore at the time of their death, we
 (Note: The place of domicile refers to the place where the Deceased intended his permanent home to be. It does not refer to his nationality or residence.)<br>
 
 **7.	What are the Rules of Distribution under the Intestate Succession Act (Cap. 146)?**
-
 Kindly note that these Rules of Distribution apply only to a non-Muslim Deceased domiciled in Singapore.
 
 <table>
@@ -213,13 +206,11 @@ Kindly note that these Rules of Distribution apply only to a non-Muslim Deceased
 
 
 **8.	How would the Public Trustee distribute the CPF money of a Muslim?**
-
 If the person who died was a Muslim, we will distribute the money in line with Section 112 of the Administration of Muslim Law Act according to the school of the Muslim law they observed.
 
 The Certificate of Inheritance issued by Syariah Court will list down the beneficiaries and their share of inheritance.<br>
 
 **9.	How can I claim a reimbursement of funeral expenses out of the Deceased’s CPF money?**
-
 You can indicate the amount of funeral expenses which you would like to claim from the Deceased’s un-nominated CPF monies in the online application form. 
 
 Please note that the maximum amount of funeral reimbursement claim allowable for a Deceased is $6,000.
@@ -262,7 +253,6 @@ Nominated CPF Monies
 ---
 
 **1. The deceased had nominated his CPF money to a person (i.e. nominee) who has passed on. What should I do?**
-
 If CPF money was nominated in favour of a person ( “the nominee”) who has passed on, the money will form part of the estate of the nominee, if the nominee had passed on after the CPF member. If you are a next-of-kin of the nominee, you may apply to the Public Trustee to administer the estate of the deceased nominee if it is a small-value estate.
 
 If the deceased nominee’s estate does not qualify for administration by the Public Trustee, you will need to apply to court for Letters of Administration or Grant of Probate to deal with the nominee’s estate, including the CPF money payable to the nominee. If you qualify for legal aid, you may apply to the Legal Aid Bureau for help in getting Letters of Administration. If you do not qualify for legal aid, you will need to hire a lawyer. Where the Public Trustee does not act for the deceased nominee’s estate, the CPF money payable to the nominee will be paid to the administrator of their estate or the executor of their will.
@@ -270,7 +260,6 @@ If the deceased nominee’s estate does not qualify for administration by the Pu
 Please refer to our online FAQ under “Information for Next-of-Kin (Estate Monies)” on the situations where the Public Trustee would be able to assist to administer an estate, and on how to make an online application to the Public Trustee for the administration of a deceased estate.<br>
 
 **2. What fees do you charge for holding nominated CPF money in trust for a minor?**
-
 The fees we charge for holding nominated CPF money in trust for a minor are shown below.
 
 <table>
@@ -331,11 +320,9 @@ Online Submission of Application
 ---
 
 **1. I need someone to assist me to submit the online application but I do not want to engage the e-Helper’s service**
-
 You may wish to get a family member or a trusted friend to assist you in completing our online application form.
 
 **2. We have notified CPF Board of the Deceased’s death last week and were told that the Deceased’s un-nominated CPF money will be forwarded to the Public Trustee for administration. We tried to submit an online application for the Public Trustee to administer the Deceased’s un-nominated CPF money. However, your system showed that there was no un-nominated CPF money for administration. What is going on?**
-
 Upon receiving notification of the death of the CPF member, the CPF Board typically requires **4 to 6 weeks** to remit the un-nominated CPF money to us for administration.  
 
 You will only be able to submit an online application for the administration of the Deceased’s un-nominated CPF money after we have received the money from the CPF Board.
