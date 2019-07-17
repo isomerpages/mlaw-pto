@@ -10,7 +10,6 @@ collection_name: deceased-cpf-estate-monies
 Announcements
 ---
 **Search for Next-of-Kin of Deceased Persons**<br>
-
 1) Chiam Poh Chun (NRIC No.SXXXX953A) - Please click on the [link](/files/T-6383-2017.pdf){:target="_blank"} for more information.
 
 2) Lim Ah Hock (Lin Yafu) (NRIC No. SXXXX285A) - Please click on the [link](/files/AdvertisementnoticeT5914-2017.pdf){:target="_blank"} for more information.
