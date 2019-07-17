@@ -80,8 +80,7 @@ Upon meeting the eligibility conditions set out in Q3 and adhering to the prescr
 a) **Death Certificate of the Deceased**
 * If the cause of death was unnatural, provide a copy of the coroner’s inquiry and findings (if any)
 
-b) A **Statutory Declaration*** from you stating the following:
-
+b) A **Statutory Declaration*** from you stating the following:<br>
 * Your relationship with the deceased
 
 * Whether you are aware of any entitled relatives and whether the deceased had died intestate
@@ -96,8 +95,7 @@ b) A **Statutory Declaration*** from you stating the following:
 
 * Any other information which will support your claim
 
-c) **Statutory Declarations*** from other interested persons (e.g. other adopted children) stating the following:
-
+c) **Statutory Declarations*** from other interested persons (e.g. other adopted children) stating the following:<br>
 * Their relationship with the deceased
 
 * Whether they are renouncing their claims to the estate
