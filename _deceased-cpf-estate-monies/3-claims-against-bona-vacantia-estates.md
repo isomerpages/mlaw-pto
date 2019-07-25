@@ -17,12 +17,9 @@ Bona vacantia literally translates as "ownerless goods". It refers to the assets
 **2.	What is an equitable or moral claim on a bona vacantia estate?**<br>
 In assessing whether there is an “equitable or moral claim” within the meaning of section 27 (3) of the Civil Law Act, the Public Trustee will consider the following factors:
 
-(a) The length and nature of the relationship between the deceased and the claimant;
-
-(b) Any legal or moral obligations which the deceased had towards the claimant;
-
-(c) The way in which the claimant behaved towards the deceased including the contribution (if any) made by the claimant to the welfare of the deceased;
-
+(a) The length and nature of the relationship between the deceased and the claimant;<br>
+(b) Any legal or moral obligations which the deceased had towards the claimant;<br>
+(c) The way in which the claimant behaved towards the deceased including the contribution (if any) made by the claimant to the welfare of the deceased;<br>
 (d) The deceased’s last wishes
 
 The above are meant as general guidelines only. All claims are assessed on a case-by-case basis and on their respective individual merits as supported by evidence. A claimant may not necessarily succeed in his claim even if one or more of the above factors are present.
