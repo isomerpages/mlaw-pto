@@ -178,25 +178,16 @@ You may pick up a copy of Annexes A, B and C from our office or view them on our
 
 Common types of documents required are:
 
-  1) Death Certificate of Deceased
-
-  2) Birth Certificate of Deceased
-
-  3) Marriage Certificate of Deceased
-
-  4) Decree Nisi Absolute (if the Deceased was divorced)
-
-  5) Birth Certificate of Beneficiary
-
-  6) NRIC of Beneficiary
-
-  7) Death Certificate of Beneficiary (if deceased)
-
-  8) Marriage Certificate of Deceased’s Parents
-
-  9) Death Certificate of Parent (if deceased)
-
-  10) Certificate of Inheritance (For Muslims only)
+  1) Death Certificate of Deceased<br>
+  2) Birth Certificate of Deceased<br>
+  3) Marriage Certificate of Deceased<br>
+  4) Decree Nisi Absolute (if the Deceased was divorced)<br>
+  5) Birth Certificate of Beneficiary<br>
+  6) NRIC of Beneficiary<br>
+  7) Death Certificate of Beneficiary (if deceased)<br>
+  8) Marriage Certificate of Deceased’s Parents<br>
+  9) Death Certificate of Parent (if deceased)<br>
+  10) Certificate of Inheritance (For Muslims only)<br>
   
 For Muslims, you may apply for the Certificate of Inheritance at [www.syariahcourt.gov.sg](https://www.syariahcourt.gov.sg/Syariah/front-end/Home.aspx){:target="_blank"}.
 
