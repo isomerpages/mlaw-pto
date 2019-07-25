@@ -34,14 +34,10 @@ Specified persons are:
 
 (b)        Persons who are entitled to receive the benefit of a judgment, and who at the time of the judgement:
 
-(i)         are below 21 years of age;
-
-(ii)        lack capacity within the meaning of section 4 of the Mental Capacity Act (Cap. 177A);
-
-(iii)       are not represented by a public officer or a lawyer;
-
-(iv)       are isolated or quarantined in a hospital or other place under section 15(1) or (2) of the Infectious Diseases Act (Cap. 137); or
-
+(i)         are below 21 years of age;<br>
+(ii)        lack capacity within the meaning of section 4 of the Mental Capacity Act (Cap. 177A);<br>
+(iii)       are not represented by a public officer or a lawyer;<nr>
+(iv)       are isolated or quarantined in a hospital or other place under section 15(1) or (2) of the Infectious Diseases Act (Cap. 137); or<br>
 (v)        are under legal custody in a place of detention.
 
 **3.	What do these changes mean for motor accident victims?**<br>
@@ -70,28 +66,23 @@ P and P or Party-and-Party costs refer to the legal costs payable between the ac
 **10.	When must a motor accident case be referred to the PT for the PT’s assessment of the reasonableness of S and C costs and disbursements?**<br>
 A case must be referred to the PT if:
 
-(a)    The motor accident victim suffered bodily injury or died from the motor accident;
-
-(b)   The motor accident took place in Singapore; and
-
-(c)    The relevant amount exceeds $5,000.
+(a)    The motor accident victim suffered bodily injury or died from the motor accident;<br>
+(b)   The motor accident took place in Singapore; and<br>
+(c)    The relevant amount exceeds $5,000.<br>
 
 **11.	What should be included in the determination of the relevant amount?**<br>
 In determining the relevant amount, only compensation that is directly related to the injuries suffered by the motor accident victim should be taken into account.
 
 Examples of items that should be included:
 
-(a)          General Damages
-
-(b)          Loss of earnings
-
-(c)          Medical expenses
+(a)          General Damages<br>
+(b)          Loss of earnings<br>
+(c)          Medical expenses<br>
 
 Examples of items that should NOT be included:
 
-(a)           Property Damage
-
-(b)          Cost of Vehicle Repair
+(a)           Property Damage<br>
+(b)          Cost of Vehicle Repair<br>
 
 **12.	Must a case be referred to the PT if the relevant amount is below $5,000?**<br>
 No. If the relevant amount does not exceed $5,000, there is no need to refer the case to the PT.
@@ -150,29 +141,20 @@ Payment of the fees must be made by a lodgment form which is currently submitted
 **15.	What are some of the documents that must be submitted when an application is made to the PT to assess the reasonableness of S and C costs and disbursements?**<br>
 In cases where the compensation sum has been agreed upon and a settlement agreement signed:
 
-(a)           A copy of the settlement agreement indicating the amount of P and P costs and disbursements;
-
-(b)          Description of the work done and time spent on the matter by the lawyer and documents supporting the disbursements claimed;
-
-(c)           A copy of the identification document of the person entitled to the payment of the compensation;
-
-(d)          Lodgment form for deduction of compensation moneys from insurer (only applicable if the PT is required to hold moneys in trust); and
-
+(a)           A copy of the settlement agreement indicating the amount of P and P costs and disbursements;<br>
+(b)          Description of the work done and time spent on the matter by the lawyer and documents supporting the disbursements claimed;<br>
+(c)           A copy of the identification document of the person entitled to the payment of the compensation;>br>
+(d)          Lodgment form for deduction of compensation moneys from insurer (only applicable if the PT is required to hold moneys in trust); and<br>
 (e)           A copy of the bank passbook for making payment to the person entitled to the payment of the compensation (only applicable if the PT is required to hold moneys in trust).
 
 In cases where the compensation has been ordered by a court
 
-(a)           A copy of the Judgment;
-
-(b)          A copy of the agreed P and P costs and disbursements (if this information is not stated in the Judgment); 
-
-(c)           Description of the work done and time spent on the matter by the  lawyer and documents supporting the disbursements claimed.
-
-(d)          A copy of the identification document of the person entitled to the payment of the compensation;
-
-(e)           Lodgment form for deduction of compensation moneys from insurer (only applicable if the PT is required to hold moneys in trust); and
-
-(f)           A copy of the bank passbook for making payment to the person entitled to the payment of the compensation (only applicable if the PT is required to hold moneys in trust).
+(a)           A copy of the Judgment;<br>
+(b)          A copy of the agreed P and P costs and disbursements (if this information is not stated in the Judgment);<br> 
+(c)           Description of the work done and time spent on the matter by the  lawyer and documents supporting the disbursements claimed.<br>
+(d)          A copy of the identification document of the person entitled to the payment of the compensation;<br>
+(e)           Lodgment form for deduction of compensation moneys from insurer (only applicable if the PT is required to hold moneys in trust); and<br>
+(f)           A copy of the bank passbook for making payment to the person entitled to the payment of the compensation (only applicable if the PT is required to hold moneys in trust).<br>
 
 **16.	When will we receive the PT’s agreement to the S and C costs?**<br>
 The PT will inform the lawyers of its views on the S and C costs **within 3 weeks** from the date of receipt of the complete set of supporting documents or clarification from the lawyers.
@@ -183,14 +165,10 @@ Lawyers will be required to liaise directly with the respective insurer(s) on th
 **18.	What are some of the documents that must be submitted in an application to the PT for the assessment of adequacy of out-of-court compensation for unrepresented victims?**<br>
 The documents commonly required for the assessment of adequacy of out-of-court compensation for un-represented victims are:
 
-(a)           A copy of the settlement agreement;
-
-(b)          A copy of the medical report(s) detailing the injuries suffered as a result of the motor accident;
-
-(c)           A copy of the identification document of the person entitled to the payment of the compensation;
-
-(d)          Lodgment form for deduction of compensation moneys from the  insurer; and
-
+(a)           A copy of the settlement agreement;<br>
+(b)          A copy of the medical report(s) detailing the injuries suffered as a result of the motor accident;<br>
+(c)           A copy of the identification document of the person entitled to the payment of the compensation;<br>
+(d)          Lodgment form for deduction of compensation moneys from the  insurer; and<br>
 (e)           A copy of the bank passbook for making payment to the person entitled to the payment of the compensation.<br><br>
 
 **With effect from 5 Mar 2018, all payments will be made electronically.**
