@@ -143,7 +143,7 @@ In cases where the compensation sum has been agreed upon and a settlement agreem
 
 (a)           A copy of the settlement agreement indicating the amount of P and P costs and disbursements;<br>
 (b)          Description of the work done and time spent on the matter by the lawyer and documents supporting the disbursements claimed;<br>
-(c)           A copy of the identification document of the person entitled to the payment of the compensation;>br>
+(c)           A copy of the identification document of the person entitled to the payment of the compensation;<br>
 (d)          Lodgment form for deduction of compensation moneys from insurer (only applicable if the PT is required to hold moneys in trust); and<br>
 (e)           A copy of the bank passbook for making payment to the person entitled to the payment of the compensation (only applicable if the PT is required to hold moneys in trust).
 
