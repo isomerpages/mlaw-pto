@@ -12,8 +12,8 @@ Information for Motor Accident Victims
 **1.	What are the changes that you can expect from 1 August 2014?**<br>
 From 1 August 2014, the Public Trustee (“PT”) will be required to:
 
-(a)        assess the reasonableness of the accident victim’s legal costs;
-(b)        assess the adequacy of out-of-court compensation for victims who are not represented by lawyers; and
+(a)        assess the reasonableness of the accident victim’s legal costs;<br>
+(b)        assess the adequacy of out-of-court compensation for victims who are not represented by lawyers; and<br>
 (c)        hold compensation moneys in trust for motor accident victims who are “specified persons”.
 
 The PT will NOT be required to:
