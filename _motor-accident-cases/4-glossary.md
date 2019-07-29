@@ -8,4 +8,4 @@ collection_name: motor-accident-cases
 
 Glossary
 ---
-[Glossary - MA (15 KB)](/files/LegalTerms-MA.pdf){:target="_blank"}
+[Glossary - MA](/files/LegalTerms-MA.pdf){:target="_blank"}(15 KB)
