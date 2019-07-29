@@ -11,8 +11,8 @@ Guide for Payment to PT
 
 **Payments Through SAM Machine**
 
-[Bona Vacantia (485KB)](/files/SAMMACHINEBV.pdf){:target="_blank"}
+[Bona Vacantia](/files/SAMMACHINEBV.pdf){:target="_blank"}(485KB)
 
-[Fee (Special) (485KB)](/files/SAMMACHINEfee(special).pdf){:target="_blank"}
+[Fee (Special)](/files/SAMMACHINEfee(special).pdf){:target="_blank"}(485KB)
 
-[Shares and Motor Vehicles (485KB)](/files/SAMMACHINEshare&vehicle.pdf){:target="_blank"}
+[Shares and Motor Vehicles](/files/SAMMACHINEshare&vehicle.pdf){:target="_blank"}(485KB)
