@@ -239,8 +239,7 @@ You will also have to submit the following supporting documents to us:
 
 2) Death Certificate of Deceased
 
-3) If Claimant is:
-
+3) If Claimant is:<br>
 a. Spouse of Deceased – Marriage Certificate<br>
 b. Child of Deceased – Birth Certificate of Child and Marriage Certificate of Parents<br>
 c. Parent of Deceased – Birth Certificate of Deceased and Marriage Certificate of Parents<br>
