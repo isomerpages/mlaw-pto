@@ -12,7 +12,7 @@ Claims against Bona Vacantia Estate
 **1.	What is bona vacantia?**<br>
 Bona vacantia literally translates as "ownerless goods". It refers to the assets in the estates of people who have died without leaving a will and without any surviving entitled next-of-kin<sup>1</sup>. Anyone can make an equitable or moral claim on the bona vacantia estate of the deceased as long as he is able to produce the necessary documents and evidence required to support his claim.
 
-[1] The entitled next-of-kin are the deceased's spouse, children, parents, siblings, grandparents, uncles and aunts. 
+<sup>1</sup>The entitled next-of-kin are the deceased's spouse, children, parents, siblings, grandparents, uncles and aunts. 
 
 **2.	What is an equitable or moral claim on a bona vacantia estate?**<br>
 In assessing whether there is an “equitable or moral claim” within the meaning of section 27 (3) of the Civil Law Act, the Public Trustee will consider the following factors:
