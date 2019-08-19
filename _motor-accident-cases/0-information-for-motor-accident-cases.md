@@ -26,7 +26,7 @@ Specified persons are defined by section 2 of the MVA.
 
 Specified persons are:
 
-(a)        Persons who are entitled to receive the benefit of the compensation moneys under a settlement agreement; **and** who:
+(a)        Persons who are entitled to receive the benefit of the compensation moneys under a settlement agreement; <u><b>and</u></b> who:
 
 (i)         at the time the settlement agreement is made, are not represented by a public officer or a lawyer;<br>
 (ii)        at the time of the making of payment of compensation moneys, are isolated or quarantined in a hospital or other place under section 15(1) or (2) of the Infectious Diseases Act (Cap. 137); **or**<br>
