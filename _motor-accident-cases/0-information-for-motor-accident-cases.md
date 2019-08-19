@@ -90,7 +90,7 @@ No. If the relevant amount does not exceed $5,000, there is no need to refer the
 **13.	What are the fees charged by the PT?**<br>
 The fees charged by the PT are as follows:
 
-**For a Judgment obtained /  Settlement Agreement made on or after 1 August 2014:**
+<b><u>For a Judgment obtained /  Settlement Agreement made on or after 1 August 2014:</b></u>
 
 <table>
   <tr>
@@ -109,7 +109,7 @@ The fees charged by the PT are as follows:
 
 <sup>1</sup> Inclusive of GST
 
-**For a Judgment obtained / Settlement Agreement made before 1 August 2014:**
+<b><u>For a Judgment obtained / Settlement Agreement made before 1 August 2014:</b></u>
 
 <table>
   <tr>
@@ -135,11 +135,11 @@ Payment of the fees must be made online by debit card, credit card or direct deb
 
 Lawyers may recover these fees as disbursements.
 
-**For a Judgment obtained / Settlement Agreement dated before 1 August 2014:**<br>
+<b><u>For a Judgment obtained / Settlement Agreement dated before 1 August 2014:</b></u><br>
 Payment of the fees must be made by a lodgment form which is currently submitted by the insurers.
 
-**15.	What are some of the documents that must be submitted when an application is made to the PT to assess the reasonableness of S and C costs and disbursements?**<br>
-In cases where the compensation sum has been agreed upon and a settlement agreement signed:
+<b><u>15.	What are some of the documents that must be submitted when an application is made to the PT to assess the reasonableness of S and C costs and disbursements?</b></u><br>
+<u>In cases where the compensation sum has been agreed upon and a settlement agreement signed:</u>
 
 (a)           A copy of the settlement agreement indicating the amount of P and P costs and disbursements;<br>
 (b)          Description of the work done and time spent on the matter by the lawyer and documents supporting the disbursements claimed;<br>
@@ -147,7 +147,7 @@ In cases where the compensation sum has been agreed upon and a settlement agreem
 (d)          Lodgment form for deduction of compensation moneys from insurer (only applicable if the PT is required to hold moneys in trust); and<br>
 (e)           A copy of the bank passbook for making payment to the person entitled to the payment of the compensation (only applicable if the PT is required to hold moneys in trust).
 
-In cases where the compensation has been ordered by a court
+<u>In cases where the compensation has been ordered by a court</u>
 
 (a)           A copy of the Judgment;<br>
 (b)          A copy of the agreed P and P costs and disbursements (if this information is not stated in the Judgment);<br> 
