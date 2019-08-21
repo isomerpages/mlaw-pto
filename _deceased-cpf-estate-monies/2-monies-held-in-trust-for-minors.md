@@ -61,12 +61,12 @@ In deciding the amount of the maintenance allowance, we will consider the follow
   4) The way in which the child is being or is expected to be educated or trained.<br>
 
 **3. How do I apply for a child’s maintenance allowance?**<br>
-You will need to make an online application for maintenance allowance at [https://mlaw-pto-staging.netlify.com/](https://mlaw-pto-staging.netlify.com/). Select "Application for Maintenance Allowance".
+You will need to make an online application for maintenance allowance at [https://mlaw-pto-staging.netlify.com/](/). Select "Application for Maintenance Allowance".
 
 You will also need to have your Singpass ready to access our online application form. You may apply for your Singpass at [https://www.singpass.gov.sg](https://www.singpass.gov.sg) if you do not have one.
 
 
-If you are not eligible for a Singpass, you may apply for a log-in ID and password through our website at [https://mlaw-pto-staging.netlify.com/](https://mlaw-pto-staging.netlify.com/).<br>
+If you are not eligible for a Singpass, you may apply for a log-in ID and password through our website at [https://mlaw-pto-staging.netlify.com/](/).<br>
 
 **4. What are the documents that I need to send to you?**<br>
 You will be required to provide proof that you are not able to support the child (for example, your monthly payslips) and documents relating to the child’s financial needs.
@@ -141,10 +141,10 @@ You will need to log on to our eService through our website ([https://www.mlaw.g
 
 You will need to have your SingPass of ready in order to access our eService. If you do not have a Singpass, you may obtain one at [http://www.singpass.gov.sg](http://www.singpass.gov.sg).
 
-If you are not eligible to apply for a Singpass and above 21 years old, you may register for a Non-SingPass login ID through our website ([https://mlaw-pto-staging.netlify.com/](https://mlaw-pto-staging.netlify.com/)).<br>
+If you are not eligible to apply for a Singpass and above 21 years old, you may register for a Non-SingPass login ID through our website ([https://mlaw-pto-staging.netlify.com/](/)).<br>
 
 **3. How do I navigate this new eService?**<br>
-You may refer to the training slides on our website at [https://mlaw-pto-staging.netlify.com/deceased-cpf-estate-monies/forms/](https://mlaw-pto-staging.netlify.com/deceased-cpf-estate-monies/forms/)<br>
+You may refer to the training slides on our website at [https://mlaw-pto-staging.netlify.com/deceased-cpf-estate-monies/forms/](/deceased-cpf-estate-monies/forms/)<br>
 
 **4. Can I print or download the Statement of Account from our eService page?**<br>
 Yes, you may print or download the Statement of Account for your records.<br>
