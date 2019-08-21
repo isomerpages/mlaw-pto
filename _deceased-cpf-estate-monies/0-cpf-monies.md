@@ -23,7 +23,7 @@ You will need to make an online application at [https://mlaw-pto-staging.netlify
 
 You will need to have your Singpass ready in order to access our online application form. You may apply for your Singpass at [https://www.singpass.gov.sg](https://www.singpass.gov.sg) if you do not have one.
 
-If you are ineligible to apply for a Singpass, you may apply for a login ID and password through our website: [https://mlaw-pto-staging.netlify.com/](https://mlaw-pto-staging.netlify.com/) under eServices.<br>
+If you are ineligible to apply for a Singpass, you may apply for a login ID and password through our website: [https://mlaw-pto-staging.netlify.com/](/homepage/) under eServices.<br>
 
 **3.	What are the documents that need to be submitted?**<br>
 Annexes A (for Muslims) and B (for non-Muslims) set out the list of documents we need.
