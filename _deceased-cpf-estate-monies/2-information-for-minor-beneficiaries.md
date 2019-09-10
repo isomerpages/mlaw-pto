@@ -61,12 +61,11 @@ In deciding the amount of the maintenance allowance, we will consider the follow
   4) The way in which the child is being or is expected to be educated or trained.<br>
 
 **3. How do I apply for a child’s maintenance allowance?**<br>
-You will need to make an online application for maintenance allowance at [https://mlaw-pto-staging.netlify.com/](/). Select "Application for Maintenance Allowance".
+You will need to make an online application at [https://www.mlaw.gov.sg/eservices/pto/welcome.xhtml](https://www.mlaw.gov.sg/eservices/pto/welcome.xhtml). Select "Application for Maintenance Allowance".
 
 You will also need to have your Singpass ready to access our online application form. You may apply for your Singpass at [https://www.singpass.gov.sg](https://www.singpass.gov.sg) if you do not have one.
 
-
-If you are not eligible for a Singpass, you may apply for a log-in ID and password through our website at [https://mlaw-pto-staging.netlify.com/](/).<br>
+If you are not eligible for a Singpass, you may apply for a log-in ID and password through our website at [https://www.mlaw.gov.sg/eservices/pto/welcome.xhtml](https://www.mlaw.gov.sg/eservices/pto/welcome.xhtml).<br>
 
 **4. What are the documents that I need to send to you?**<br>
 You will be required to provide proof that you are not able to support the child (for example, your monthly payslips) and documents relating to the child’s financial needs.
@@ -167,21 +166,22 @@ If you do not receive our notification letter before your 21st birthday, please 
 
 **2. What are the required documents to claim my trust money?**<br>
 **If you are living in Singapore**<br>
-In order for us to pay the money to you electronically, please send us by post or via [http://www.mlaw.gov.sg/eservices/pto](http://www.mlaw.gov.sg/eservices/pto){:target="_blank"} (Submission of Supporting Documens), a clear copy of:
-
-1) your identity card (front and back); and<br>
-2) the front page of the bank passbook or bank statement. For a payment to a joint bank account or third party account, both you and the account holder(s) must execute the appropriate indemnity forms (Form 15A; and 15B or 15C) which are available at our website. For the other non-electronic modes of payment, you will bear all the changes imposed by the banks(s) whcih will be deducted directly from the inheritance.3. When will I receive the trust money after submission of documents?
-
-Please indicate our case reference number on your documents.
 
 With effect from 5 March 2018, all payments will be made electronically.
 
+In order for us to process the payment, please submit to us via [https://www.mlaw.gov.sg/eservices/pto/welcome.xhtml](https://www.mlaw.gov.sg/eservices/pto/welcome.xhtml) (Submission of Bank Account Details), a clear copy of:
+
+1) your identity card (front and back); and<br>
+2) the front page of the bank passbook or bank statement. For the other non-electronic modes of payment, you will bear all the changes imposed by the banks(s) whcih will be deducted directly from the inheritance
+
+Please indicate our case reference number on your documents.
+
 **If you are living overseas**<br>
-In order for us to pay the money to you by telegraphic transfer, please send us by post or via [http://www.mlaw.gov.sg/eservices/pto](http://www.mlaw.gov.sg/eservices/pto) (Submission of Supporting Documents), a clear copy of:
+For payment by telegraphic transfer, please send us by post or via [https://www.mlaw.gov.sg/eservices/pto/welcome.xhtml](https://www.mlaw.gov.sg/eservices/pto/welcome.xhtml) (Submission of Supporting Documents), a clear copy of:
 
 1) the page of your passport which shows your name, passport number and other particulars; and<br>
 
-2) the page of your personal bank account passbook or your personal bank account statement which shows the following information:  
+2) the page of your <i>personal</i> bank account passbook or your <i>personal</i> bank account statement which shows the following information:  
   a) Your bank account number;<br>
   b) Sort code of your Bank;<br>
   c) Swift code of your Bank;<br>
@@ -192,9 +192,7 @@ In order for us to pay the money to you by telegraphic transfer, please send us 
 
 4) All the charges imposed by the bank(s) will be deducted directly from the monies held in trust.
 
-
 Please let us know your preferred payment currency and overseas residential address. Please also note that you will have to bear the bank charges for the telegraphic transfer of the money to you and any cost of exchanging the money into a foreign currency. The amount to be paid to you will be net of the bank charges. Please indicate our case reference number on your documents.<br>
-
 
 **3. When will I receive the trust money after submission of documents?**<br>
 You will receive the money within **4 weeks** after the birthday when you attain the age of majority or the date of our receipt of your documents, whichever is later.
