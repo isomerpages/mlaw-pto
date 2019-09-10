@@ -26,7 +26,7 @@ Specified persons are defined by section 2 of the MVA.
 
 Specified persons are:
 
-(a)        Persons who are entitled to receive the benefit of the compensation moneys under a settlement agreement; <u><b>and</u></b> who:
+(a)        Persons who are entitled to receive the benefit of the compensation moneys under a settlement agreement; <u><b>and</b></u> who:
 
 (i)         at the time the settlement agreement is made, are not represented by a public officer or a lawyer;<br>
 (ii)        at the time of the making of payment of compensation moneys, are isolated or quarantined in a hospital or other place under section 15(1) or (2) of the Infectious Diseases Act (Cap. 137); <b><u>or</u></b><br>
@@ -90,7 +90,7 @@ No. If the relevant amount does not exceed $5,000, there is no need to refer the
 **13.	What are the fees charged by the PT?**<br>
 The fees charged by the PT are as follows:
 
-<b><u>For a Judgment obtained /  Settlement Agreement made on or after 1 August 2014:</b></u>
+<b><u>For a Judgment obtained /  Settlement Agreement made on or after 1 August 2014:</u></b>
 
 <table>
   <tr>
@@ -109,7 +109,7 @@ The fees charged by the PT are as follows:
 
 <sup>1</sup> Inclusive of GST
 
-<b><u>For a Judgment obtained / Settlement Agreement made before 1 August 2014:</b></u>
+<b><u>For a Judgment obtained / Settlement Agreement made before 1 August 2014:</u></b>
 
 <table>
   <tr>
@@ -135,10 +135,10 @@ Payment of the fees must be made online by debit card, credit card or direct deb
 
 Lawyers may recover these fees as disbursements.
 
-<b><u>For a Judgment obtained / Settlement Agreement dated before 1 August 2014:</b></u><br>
+<b><u>For a Judgment obtained / Settlement Agreement dated before 1 August 2014:</u></b><br>
 Payment of the fees must be made by a lodgment form which is currently submitted by the insurers.
 
-<b><u>15.	What are some of the documents that must be submitted when an application is made to the PT to assess the reasonableness of S and C costs and disbursements?</b></u><br>
+<b><u>15.	What are some of the documents that must be submitted when an application is made to the PT to assess the reasonableness of S and C costs and disbursements?</u></b><br>
 <u>In cases where the compensation sum has been agreed upon and a settlement agreement signed:</u>
 
 (a)           A copy of the settlement agreement indicating the amount of P and P costs and disbursements;<br>
