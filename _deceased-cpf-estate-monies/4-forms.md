@@ -68,33 +68,33 @@ Brochures
 
 **In English**<br>
 
-[Dealing with the Central Provident Fund (CPF) money of someone who has died](/files/Brochure1_CPFMonies_6Jun2018.pdf){:target="_blank"}(439 KB)
+[Dealing with the Central Provident Fund (CPF) money of someone who has died](/files/Eng_Brochure_1_CPF_Aug_2019.pdf){:target="_blank"}(543 KB)
 
-[Dealing with the deceased’s estate (assets)](/files/Brochure2_EstateMonies_6Jun2018.pdf){:target="_blank"}(288 KB)
+[Dealing with the deceased’s estate (assets)](/files/Eng_Brochure_2_Estate_Aug_2019.pdf){:target="_blank"}(363 KB)
 
 [Dealing with money held in trust for a child](/files/Brochure3_Held-in-TrustCases_28Jul2017.pdf){:target="_blank"}(237 KB)
 
 **In Malay**<br>
 
-[Menguruskan wang Tabung Simpanan Pekerja (CPF) seseorang yang telah meninggal dunia](/files/Malay_Brochure1_CPFMonies_7-6-2018.pdf){:target="_blank"}(379 KB)
+[Menguruskan wang Tabung Simpanan Pekerja (CPF) seseorang yang telah meninggal dunia](/files/Malay_Brochure_1_CPF_Aug_2019.pdf){:target="_blank"}(441 KB)
 
-[Menguruskan harta pusaka si mati (aset-aset)](/files/Malay_Brochure2_EstateMonies_7-6-2018.pdf){:target="_blank"}(238 KB)
+[Menguruskan harta pusaka si mati (aset-aset)](/files/Malay_Brochure_2_Estate_Aug_2019.pdf){:target="_blank"}(280 KB)
 
 [Menguruskan wang yang dipegang sebagai amanah untuk seorang kanak-kanak](/files/Malay_Brochure3_Held-in-TrustCases_25Jul2017.pdf){:target="_blank"}(384 KB)
 
 **In Chinese**<br>
 
-[如何分配已故者的公积金存款](/files/Chinese_Brochure1_CPFMonies_7Jun2018.pdf){:target="_blank"}(378 KB)
+[如何分配已故者的公积金存款](/files/Chi_Brochure_1_CPF_Aug_2019.pdf){:target="_blank"}(410 KB)
 
-[如何分配已故者的遗产 (资产)](/files/Chinese_Brochure2_EstateMonies_7Jun2018.pdf){:target="_blank"}(302 KB)
+[如何分配已故者的遗产 (资产)](/files/Chi_Brochure_2_Estate_Aug_2019.pdf){:target="_blank"}(363 KB)
 
 [为孩童处理受托管的款项](/files/Chinese_Brochure3_Held-in-TrustCases_25Jul2017.pdf){:target="_blank"}(456 KB)
 
 **In Tamil**<br>
 
-[இறந்த நபரின் மத்திய சேம நிதிக் கழகப் (மசேநி) பணத்தைக் கையாளுதல்](/files/Tamil_Brochure1_CPFMonies_8Jun2018.pdf){:target="_blank}(686 KB)
+[இறந்த நபரின் மத்திய சேம நிதிக் கழகப் (மசேநி) பணத்தைக் கையாளுதல்](/files/Tamil_Brochure_1_CPF_Aug_2019.pdf){:target="_blank}(1 MB)
 
-[இறந்தவரின் சொத்தைக் (சொத்துக்கள்) கையாளுதல்](/files/Tamil_Brochure2_EstateMonies_8Jun2018.pdf){:target="_blank"}(539 KB)
+[இறந்தவரின் சொத்தைக் (சொத்துக்கள்) கையாளுதல்](/files/Tamil_Brochure_2_Estate_Aug_2019.pdf){:target="_blank"}(1 MB)
 
 [ஒரு குழந்தைக்காக அறக்கட்டளையில் வைக்கப்பட்டிருக்கும் பணத்தைக் கையாளுதல்](/files/Tamil_Brochure3_Held-in-TrustCases_25Jul2017.pdf){:target="_blank"}(445 KB)
 
