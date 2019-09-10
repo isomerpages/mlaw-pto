@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Claims against Bona Vacantia Estate
+title: Claims against Bona Vacantia estate
 permalink: /deceased-cpf-estate-monies/claims-against-bona-vacantia-estates/
-breadcrumb: Claims against Bona Vacantia Estate
+breadcrumb: Claims against Bona Vacantia estate
 collection_name: deceased-cpf-estate-monies
 
 ---
