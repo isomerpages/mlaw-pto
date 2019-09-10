@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Monies held-in-trust for Minors
-permalink: /deceased-cpf-estate-monies/monies-held-in-trust-for-minors/
+permalink: /deceased-cpf-estate-monies/information-for-minor-beneficiaries/
 breadcrumb: Monies held-in-trust for Minors
 collection_name: deceased-cpf-estate-monies
 ---
