@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: CPF Monies
-permalink: /deceased-cpf-estate-monies/cpf-monies/
+permalink: /deceased-cpf-estate-monies/information-for-next-of-kin-cpf-monies/
 breadcrumb: CPF Monies
 collection_name: deceased-cpf-estate-monies
 ---
