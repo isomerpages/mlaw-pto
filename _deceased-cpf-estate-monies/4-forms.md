@@ -24,46 +24,44 @@ Forms
 
 [Application for CPF Monies Less Than or Equal to $100](/files/Form10_ApplicationforCPFMoniesLessthanorEqual$100(WithoutHyperlink).pdf){:target="_blank"}(226KB)
 
-[Form 15A-Letter of Authorization Discharge and Indemnity by Beneficiary](/files/Form15A_LetterofAuthorizationDischargeandIndemnitybyBeneficiary(WithoutHyperlink)(ELCWL)-28-6-18(Cleaned).docx.pdf){:target="_blank"}(294KB)
+[Form 15-Letter of Authorisation & Indemnity for payment to Joint/Third party Bank Account](/files/Form_15.pdf){:target="_blank"}(337 KB)
 
-[Form 15B-Letter of Authorization and Indemnity by Joint Account Holder](/files/Form15B_LetterofAuthorizationDischargeandIndemnitybyJointAccountHolder(WithoutHyperlink)(ELCWL)-28-6-18(Cleaned).pdf){:target="_blank"}(324KB)
-
-[Form 15C-Letter of Authorization and Indemnity by Third Party Account Holder](/files/Form15C_LetterofAuthorizationDischargeandIndemnitybyThirdPartyAccountHolder(WithoutHyperlink)(ELCWL)-28-6-18(Cleaned).pdf){:target="_blank"}(325KB)
+*[With effect from 07 September 2019, Forms 15A and 15B/C are replaced by Form 15.]*
 
 List of Required Documents
 ---
 
 **In English**<br>
 
-[Non-Muslims - List of Required Documents](/files/AnnexB_Non-Muslims_ListofRequiredDocuments-19-12-18.pdf){:target="_blank"}(383KB)
+[Non-Muslims - List of Required Documents](/files/Annex_A_Muslims_Aug19.pdf){:target="_blank"}(361KB)
 
-[Muslims - List of Required Documents](/files/AnnexA_Muslims_ListofRequiredDocuments-19-12-18.pdf){:target="_blank"}(386KB)
+[Muslims - List of Required Documents](/files/Annex_B_Non-Muslims_Aug19.pdf){:target="_blank"}(370KB)
 
-[Funeral Reimbursement Claim - List of Required Documents](/files/AnnexC_FuneralClaim_ListofRequiredDocuments-19-12-18.pdf){:target="_blank"}(350KB)
+[Funeral Reimbursement Claim - List of Required Documents](/files/Annex_C_Funeral_Aug19.pdf){:target="_blank"}(337KB)
 
 **In Malay**<br>
 
-[Muslims - List of Required Documents (In Malay)](/files/Malay_AnnexA_Muslims_ListofRequiredDocuments_22Jun2018.pdf){:target="_blank"}(211 KB)
+[Muslims - List of Required Documents (In Malay)](/files/Malay_Muslims_Aug19.pdf){:target="_blank"}(367 KB)
 
-[Non-Muslims - List of Required Documents (In Malay)](/files/Malay_AnnexB_Non-Muslims_ListofRequiredDocuments_7Jun2018.pdf){:target="_blank"}(262 KB)
+[Non-Muslims - List of Required Documents (In Malay)](/files/Malay_Non-Muslims_Aug19.pdf){:target="_blank"}(443 KB)
 
-[Funeral Reimbursement Claim - List of Required Documents (In Malay)](/files/Malay_AnnexC_FuneralClaim_ListofRequiredDocuments_7-6-2018.pdf){:target="_blank"}(196 KB)
+[Funeral Reimbursement Claim - List of Required Documents (In Malay)](/files/Malay_Funeral_Aug19.pdf){:target="_blank"}(346 KB)
 
 **In Chinese**<br>
 
-[文件清单 (适用于已故回教徒)](/files/Chinese_AnnexA_Muslims_ListofRequiredDocuments_22Jun2018(Cleaned).pdf){:target="_blank"}(323 KB)
+[文件清单 (适用于已故回教徒)](/files/Chinese_Muslim_Aug 2019.pdf){:target="_blank"}(426 KB)
 
-[文件清单 (适用于非回教已故者)](/files/Chinese_AnnexB_Non-Muslims_ListofRequiredDocuments_22Jun2018doc(Cleaned).pdf){:target="_blank"}(335 KB)
+[文件清单 (适用于非回教已故者)](/files/Chinese_Non-Muslim_Aug 2019.pdf){:target="_blank"}(426 KB)
 
-[文件清单 (偿还殡殓费)](/files/Chinese_AnnexC_FuneralClaim_ListofRequiredDocuments_7Jun2018.pdf){:target="_blank"}(305 KB)
+[文件清单 (偿还殡殓费)](/files/Chinese_Funeral_Aug 2019.pdf){:target="_blank"}(383 KB)
 
 **In Tamil**<br>
 
-[Muslims - List of Required Documents (In Tamil)](/files/Tamil_AnnexA_Muslims_ListofRequiredDocuments_8Jun2018.pdf){:target="_blank"}(434 KB)
+[Muslims - List of Required Documents (In Tamil)](/files/Tamil_Muslim_Aug 2019.pdf){:target="_blank"}(938 KB)
 
-[Non-Muslims - List of Required Documents (In Tamil)](/files/Tamil_AnnexB_Non-Muslims_ListofRequiredDocuments_8Jun2018.pdf){:target="_blank"}(449 KB)
+[Non-Muslims - List of Required Documents (In Tamil)](/files/Tamil_Non-Muslim_Aug 2019.pdf){:target="_blank"}(1 MB)
 
-[Funeral Reimbursement Claim - List of Required Documents (In Tamil)](/files/Tamil_AnnexC_FuneralClaim_ListofRequiredDocuments_8Jun2018.pdf){:target="_blank"}(414 KB)
+[Funeral Reimbursement Claim - List of Required Documents (In Tamil)](/files/Tamil_Funeral_Aug 2019.pdf){:target="_blank"}(911 KB)
 
 Brochures
 ---
