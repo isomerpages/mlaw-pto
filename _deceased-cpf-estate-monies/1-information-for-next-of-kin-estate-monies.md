@@ -245,7 +245,7 @@ b. Child of Deceased – Birth Certificate of Child and Marriage Certificate of 
 c. Parent of Deceased – Birth Certificate of Deceased and Marriage Certificate of Parents<br>
 d. Sibling of Deceased – Birth Certificate of Deceased and Birth Certificate of Sibling<br>
 
-4) Original “Declaration Form (Estate monies) for funeral expenses” (Please return completed form by Post. Scanned and Faxed Copies are NOT allowed). You may obtain a softcopy of the “Declaration Form (Estate monies) for funeral expenses” at [https://mlaw-pto-staging.netlify.com/](/) > Deceased CPF / Estate monies > Forms.
+4) Original “Declaration Form (Estate monies) for funeral expenses” (Please return completed form by Post. Scanned and Faxed Copies are NOT allowed). You may obtain a softcopy of the “Declaration Form (Estate monies) for funeral expenses” at [https://www.mlaw.gov.sg/pto](/) > Deceased CPF / Estate monies > Forms.
 
 5) Front page of the bank passbook or bank statement. For a payment to a joint or third party bank account, both you and the account holder(s) must execute the indemnity form (Form 15) which is available at our website. For the other non-electronic modes of payment, you will bear all the charges imposed by the bank(s) which will be deducted directly from the inheritance.
 
