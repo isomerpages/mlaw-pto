@@ -140,10 +140,10 @@ You will need to log on to our eService through our website ([https://www.mlaw.g
 
 You will need to have your SingPass of ready in order to access our eService. If you do not have a Singpass, you may obtain one at [http://www.singpass.gov.sg](http://www.singpass.gov.sg).
 
-If you are not eligible to apply for a Singpass and above 21 years old, you may register for a Non-SingPass login ID through our website ([https://mlaw-pto-staging.netlify.com/](/)).<br>
+If you are not eligible to apply for a Singpass and above 21 years old, you may register for a Non-SingPass login ID through our website ([https://pto.mlaw.gov.sg/](/)).<br>
 
 **3. How do I navigate this new eService?**<br>
-You may refer to the training slides on our website at [https://mlaw-pto-staging.netlify.com/deceased-cpf-estate-monies/forms/](/deceased-cpf-estate-monies/forms/)<br>
+You may refer to the training slides on our website at [https://pto.mlaw.gov.sg/deceased-cpf-estate-monies/forms/](/deceased-cpf-estate-monies/forms/)<br>
 
 **4. Can I print or download the Statement of Account from our eService page?**<br>
 Yes, you may print or download the Statement of Account for your records.<br>
