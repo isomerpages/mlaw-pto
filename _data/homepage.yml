@@ -5,6 +5,13 @@ favicon: /images/favicon-isomer.ico
 # Agency logo
 agency-logo: /images/mlaw-logo.png
 
+
+# Google analytics
+
+google-analytics: UA-10405444-13
+
+
+
 # Hero Banner
 hero-title: Public Trustee
 hero-subtitle: Administration of deceased CPF / estate monies and compensation in motor accidents
