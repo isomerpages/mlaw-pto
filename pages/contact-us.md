@@ -38,7 +38,7 @@ You can send us your feedback and enquiries on the following issues:
 <div class="image">
   <a href="https://www.mlaw.gov.sg/eservices/enquiry/"><img src="/images/mlaw-contactus.png/" style="width: 300px">
   </a>
-</div>
+</div><br>
 
 
 <div class="row">
