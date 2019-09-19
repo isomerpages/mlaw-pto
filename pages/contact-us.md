@@ -6,7 +6,7 @@ breadcrumb: Contact Us
 ---
 
 <style>
-  .image {margin bottom="10px;"}
+  .image {margin-bottom: 1em;}
 </style>
 
 FAQ
