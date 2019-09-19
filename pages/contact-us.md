@@ -15,13 +15,11 @@ Have questions?
 </div><br>
 
 <div class="paragraphs">
- <div class="row">
    <a href="https://www.mlaw.gov.sg/eservices/enquiry/">
    <img style="float:left; width: 40px;" src="/images/enq.png/"></a>
    <div class="content-heading">
    <h3> Contact Us @ OneMinLaw</h3>
   </div>
-</div>
 </div>
 
 You can send us your feedback and enquiries on the following issues: 
