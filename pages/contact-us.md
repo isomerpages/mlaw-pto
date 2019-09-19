@@ -46,7 +46,7 @@ You can send us your feedback and enquiries on the following issues:
    <a href="https://www.mlaw.gov.sg/eservices/enquiry/">
    <img style="float:left; width: 40px;" src="/images/loc.png/"></a>
    <div class="content-heading">
-   <h3> Location</h3></div>
+   <h3> Location</h3>
   </div>
 </div>
 ---
@@ -69,7 +69,7 @@ Closed on Weekends & Public Holidays<br>
    <a href="https://www.mlaw.gov.sg/eservices/enquiry/">
    <img style="float:left; width: 40px;" src="/images/call.png/"></a>
    <div class="content-heading">
-   <h3> Call Us</h3></div>
+   <h3> Call Us</h3>
   </div>
 </div>
 
