@@ -14,12 +14,14 @@ Have questions?
   <a href="https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx"><img src="/images/mlaw-faq.png/" style="width: 300px; float: left;"></a>
 </div><br>
 
+<div class="paragraphs">
  <div class="row">
    <a href="https://www.mlaw.gov.sg/eservices/enquiry/">
    <img style="float:left; width: 40px;" src="/images/enq.png/"></a>
    <div class="content-heading">
    <h3> Contact Us @ OneMinLaw</h3>
   </div>
+</div>
 </div>
 
 You can send us your feedback and enquiries on the following issues: 
