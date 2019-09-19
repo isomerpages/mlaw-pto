@@ -5,7 +5,6 @@ permalink: /contact-us/
 breadcrumb: Contact Us
 ---
 
-
 FAQ
 ---
 
@@ -49,7 +48,6 @@ You can send us your feedback and enquiries on the following issues:
    <h3> Location</h3>
   </div>
 </div>
----
 
 **Ministry of Law Services Centre**
 
