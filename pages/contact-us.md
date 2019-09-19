@@ -14,13 +14,13 @@ Have questions?
 <div class="image">
   <a href="https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx"><img src="/images/mlaw-faq.png/" style="width: 300px">
   </a>
-</div>
+</div><br>
 
  <div class="row">
    <a href="https://www.mlaw.gov.sg/eservices/enquiry/">
    <img style="float:left; width: 40px;" src="/images/enq.png/"></a>
    <div class="content-heading">
-   <h3>&nbsp Contact Us @ OneMinLaw</h3></div>
+   <h3> Contact Us @ OneMinLaw</h3></div>
   </div>
 </div>
 
@@ -47,7 +47,7 @@ You can send us your feedback and enquiries on the following issues:
    <a href="https://www.mlaw.gov.sg/eservices/enquiry/">
    <img style="float:left; width: 40px;" src="/images/loc.png/"></a>
    <div class="content-heading">
-   <h3>&nbsp Location</h3></div>
+   <h3> Location</h3></div>
   </div>
 </div>
 ---
@@ -70,7 +70,7 @@ Closed on Weekends & Public Holidays<br>
    <a href="https://www.mlaw.gov.sg/eservices/enquiry/">
    <img style="float:left; width: 40px;" src="/images/call.png/"></a>
    <div class="content-heading">
-   <h3>Call Us</h3></div>
+   <h3> Call Us</h3></div>
   </div>
 </div>
 
