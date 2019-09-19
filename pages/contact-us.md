@@ -18,7 +18,7 @@ Have questions?
    <a href="https://www.mlaw.gov.sg/eservices/enquiry/">
    <img style="float:left; width: 40px;" src="/images/enq.png/"></a>
    <div class="content-heading">
-   <h3> Contact Us @ OneMinLaw</h3></div>
+   <h3> Contact Us @ OneMinLaw</h3>
   </div>
 </div>
 
