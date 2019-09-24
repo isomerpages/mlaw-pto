@@ -198,8 +198,8 @@ The fees we charge for administration of the estate are shown below:
 
 <table>
   <tr>
-    <td><b>Value of Estate</b></td>
-    <td><b>Charge</b></td>
+    <th>Value of Estate</th>
+    <th>Charge</th>
   </tr>
   <tr>
     <td>For the first $5,000</td>
