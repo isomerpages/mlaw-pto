@@ -55,7 +55,7 @@ You can make a claim only after the expiry of the waiting period stated in the t
 
 <table>
  <tr>
-  <td><b>Type of Estate</b></td>
+  <th>Type of Estate</th>
   <td><b>Waiting Period</b></td>
  </tr>
  <tr>
