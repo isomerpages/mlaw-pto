@@ -94,7 +94,7 @@ The fees charged by the PT are as follows:
 
 <table>
   <tr>
-    <td><b>Type of Fees</b></td>
+    <th>Type of Fees</th>
     <td><b>Amount<sup>1</sup></b></td>
   </tr>
   <tr>
@@ -113,7 +113,7 @@ The fees charged by the PT are as follows:
 
 <table>
   <tr>
-    <td><b>Type of Fees</b></td>
+    <th>Type of Fees</th>
     <td><b>Amount<sup>1</sup></b></td>
   </tr>
   <tr>
