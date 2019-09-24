@@ -56,7 +56,7 @@ You can make a claim only after the expiry of the waiting period stated in the t
 <table>
  <tr>
   <th>Type of Estate</th>
-  <td><b>Waiting Period</b></td>
+  <th><b>Waiting Period</b></th>
  </tr>
  <tr>
   <td>Estate <u>not</u> involving immovable property e.g. bank monies, CPF monies</td>
@@ -154,8 +154,8 @@ If the Public Trustee is also the administrator of the estate, we will charge an
 **Fees Charged for Administration of Bona Vacantia Cases (Estate)**<br>
 <table>
  <tr>
-  <td><b>Tier</b></td>
-  <td><b>Rates</b></td>
+  <th>Tier></th>
+  <th>Rates</th>
  </tr>
  <tr>
   <td>For the first $5,000</td>
@@ -198,8 +198,8 @@ If the Public Trustee is also the administrator of the estate, we will charge an
 **Fees Charged for Administration of Bona Vacantia Cases (CPF)**<br>
 <table>
  <tr>
-  <td><b>Scale</b></td>
-  <td><b>Rate</b></td>
+  <th>Scale</th>
+  <td>Rate</th>
  </tr>
  <tr>
   <td>For the first $1,000</td>
