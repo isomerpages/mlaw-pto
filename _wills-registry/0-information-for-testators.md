@@ -16,7 +16,7 @@ Our fees (including GST) are shown below.
 
 <table>
   <tr>
-    <td><b>Item</b></td>
+    <th>Item</th>
     <td><b>Fees</b></td>
   </tr>
   <tr>
