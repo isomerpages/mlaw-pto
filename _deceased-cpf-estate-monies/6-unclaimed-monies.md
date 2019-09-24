@@ -12,7 +12,7 @@ Unclaimed Monies
 #### **STEPS TO RECOVER UNCLAIMED MONIES FROM PTO**
 <table>
   <tr>
-    <td colspan="2">If you think you have monies held by the Public Trustee (for deceased estates):</td>
+    <th colspan="2">If you think you have monies held by the Public Trustee (for deceased estates):</th>
   </tr>
   <tr>
     <td><b>Step 1</b></td>
