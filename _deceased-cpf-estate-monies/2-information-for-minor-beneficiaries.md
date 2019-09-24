@@ -102,8 +102,8 @@ The statutory fees charged by the Public Trustee on the amount of interest earne
 
 <table>
   <tr>
-    <th>Amount of Interest Earned></th>
-    <th><b>Charge</b></th>
+    <th>Amount of Interest Earned</th>
+    <th>Charge</th>
   </tr>
   <tr>
     <td>For the first $1,000</td>
