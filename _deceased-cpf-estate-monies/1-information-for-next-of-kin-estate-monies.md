@@ -61,7 +61,7 @@ Kindly note that these Rules of Distribution apply only to a non-Muslim Deceased
 
 <table>
   <tr>
-    <td colspan="2"><b>Rules of Distribution (Non-Muslims)</b></td>
+    <th colspan="2">Rules of Distribution (Non-Muslims)</th>
   </tr>
   <tr>
     <td>
