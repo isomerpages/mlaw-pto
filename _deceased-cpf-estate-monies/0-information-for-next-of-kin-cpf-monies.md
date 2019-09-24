@@ -65,8 +65,8 @@ The fees we charge for dealing with CPF money are shown below:
 
 <table>
   <tr>
-   <td><b>Amount of CPF Monies</b></td>
-   <td><b>Charge</b></td>
+   <th>Amount of CPF Monies</th>
+   <th>Charge</th>
   </tr>
   <tr>
     <td>For the first $1,000</td>
@@ -263,8 +263,8 @@ The fees we charge for holding nominated CPF money in trust for a minor are show
 
 <table>
   <tr>
-   <td><b>Amount of CPF Money</b></td>
-   <td><b>Charge</b></td>
+   <th>Amount of CPF Money</th>
+   <th>Charge</th>
   </tr>
   <tr>
     <td>For the first $1,000</td>
@@ -294,8 +294,8 @@ The money held in trust for the minor is invested by the Public Trustee accordin
 
 <table>
   <tr>
-   <td><b>Amount of Interest Earned</b></td>
-   <td><b>Charge</b></td>
+   <th>Amount of Interest Earned</th>
+   <th>Charge</th>
   </tr>
   <tr>
     <td>For the first $1,000</td>
