@@ -12,7 +12,7 @@ Monies held-in-trust for Minors
 **1. When will the child be eligible to receive the money held-in-trust?**<br>
 <table>
   <tr>
-    <td><b>Nature of Money</b></td>
+    <th>Nature of Money</th>
     <td><b>Age</b></td>
   </tr>
   <tr>
@@ -102,7 +102,7 @@ The statutory fees charged by the Public Trustee on the amount of interest earne
 
 <table>
   <tr>
-    <td><b>Amount of Interest Earned</b></td>
+    <th>Amount of Interest Earned></th>
     <td><b>Charge</b></td>
   </tr>
   <tr>
