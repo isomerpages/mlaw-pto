@@ -13,7 +13,7 @@ Monies held-in-trust for Minors
 <table>
   <tr>
     <th>Nature of Money</th>
-    <td><b>Age</b></td>
+    <th>Age</th>
   </tr>
   <tr>
     <td>Nominated CPF Monies</td>
@@ -103,7 +103,7 @@ The statutory fees charged by the Public Trustee on the amount of interest earne
 <table>
   <tr>
     <th>Amount of Interest Earned></th>
-    <td><b>Charge</b></td>
+    <th><b>Charge</b></th>
   </tr>
   <tr>
     <td>For the first $1,000</td>
