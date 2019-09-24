@@ -154,7 +154,7 @@ If the Public Trustee is also the administrator of the estate, we will charge an
 **Fees Charged for Administration of Bona Vacantia Cases (Estate)**<br>
 <table>
  <tr>
-  <th>Tier></th>
+  <th>Tier</th>
   <th>Rates</th>
  </tr>
  <tr>
@@ -199,7 +199,7 @@ If the Public Trustee is also the administrator of the estate, we will charge an
 <table>
  <tr>
   <th>Scale</th>
-  <td>Rate</th>
+  <th>Rate</th>
  </tr>
  <tr>
   <td>For the first $1,000</td>
