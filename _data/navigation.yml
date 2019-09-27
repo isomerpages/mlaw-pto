@@ -4,18 +4,32 @@
 #                                #
 ##################################
 
-- title: Who We Are
-  url: /who-we-are/
-- title: Deceased CPF / Estate Monies
-  url: /deceased-cpf-estate-monies/next-of-kin-cpf/
+- title: About Us
+  url: https://mlaw.gov.sg/about-us/ourvision-mission-corevalues/
   sub-links:
-  - title: Information for Next-of-Kin (CPF Monies)
-    url: /deceased-cpf-estate-monies/next-of-kin-cpf/
-  - title: Information for Next-of-Kin (Estate Monies)
-    url: /deceased-cpf-estate-monies/next-of-kin-estate/
-  - title: Information for Minor Beneficiaries
-    url: /deceased-cpf-estate-monies/minor-beneficiaries/
-  - title: Administration of Claims against Bona Vacantia Estates
+  - title: Our Vision, Mission and Core Values
+    url: https://mlaw.gov.sg/about-us/ourvision-mission-corevalues/
+  - title: Our Management
+    url: https://mlaw.gov.sg/about-us/our-management/
+  - title: Organisation Structure
+    url: https://mlaw.gov.sg/about-us/ourvision-mission-corevalues/
+  - title: Our Legal System
+    url: https://mlaw.gov.sg/about-us/our-legal-system/
+  - title: What We Do
+    url: https://mlaw.gov.sg/about-us/what-we-do/
+  - title: Contact Us
+    url: https://mlaw.gov.sg/about-us/contact-us/
+
+- title: Deceased CPF Estate Monies
+  url: /deceased-cpf-estate-monies/information-for-next-of-kin-cpf-monies/
+  sub-links:
+  - title: CPF Monies
+    url: /deceased-cpf-estate-monies/information-for-next-of-kin-cpf-monies/
+  - title: Estate (Other Assets)
+    url: /deceased-cpf-estate-monies/information-for-next-of-kin-estate-monies/
+  - title: Monies held-in-trust for Minors
+    url: /deceased-cpf-estate-monies/information-for-minor-beneficiaries/
+  - title: Claims against Bona Vacantia Estate
     url: /deceased-cpf-estate-monies/claims-against-bona-vacantia-estates/
   - title: Forms
     url: /deceased-cpf-estate-monies/forms/
@@ -26,9 +40,12 @@
   - title: Statistics
     url: /deceased-cpf-estate-monies/statistics/
   - title: Announcements
-    url: /deceased-cpf-estate-monies/accouncements/
+    url: /deceased-cpf-estate-monies/announcements/
+  - title: Glossary
+    url: /deceased-cpf-estate-monies/common-terms/
 
-- title: Motor Accident Cases
+
+- title: Motor Accident 
   url: /motor-accident-cases/info-motor-accident-victims/
   sub-links:
   - title: Information for Motor Accident Victims
@@ -39,9 +56,11 @@
     url: /motor-accident-cases/practise-circulars/
   - title: Statistics
     url: /motor-accident-cases/statistics/
+  - title: Glossary
+    url: /motor-accident-cases/glossary/
 
-- title: Wills Registry
-  url: /wills-registry/sub-page-C/
+- title: Wills Registry 
+  url: /wills-registry/info-for-testators/
   sub-links:
   - title: Information for Testators
     url: /wills-registry/info-for-testators/
@@ -50,18 +69,7 @@
   - title: Practice Circulars
     url: /wills-registry/practise-circulars/
 
-- title: eServices
-  url: https://www.mlaw.gov.sg/content/pto/en/wills-registry/forms.html
+- title: e-Services
+  url: https://www.mlaw.gov.sg/eservices/pto/welcome.xhtml
 - title: News
-  url: /resource-room/
-  sub-links:
-  - title: All
-    url: /resource-room/
-  - title: Subcategory A
-    url: /resource-room/subcategory-A/
-  - title: Subcategory B
-    url: /resource-room/subcategory-B/
-  - title: Subcategory C
-    url: /resource-room/subcategory-C/
-- title: Join Us
-  url: https://www.mlaw.gov.sg/content/minlaw/en/join-us/why-join-minlaw.html
+  url: https://mlaw.gov.sg/news/
