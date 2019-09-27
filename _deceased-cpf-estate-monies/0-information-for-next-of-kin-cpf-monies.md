@@ -19,7 +19,7 @@ If the person who has died did not make a valid nomination, the CPF Board will s
 The CPF Board will also send us the CPF money of a person who has died if the person chosen to receive that money is under 18 years old (unless she is a widow).<br>
 
 **2.	What do I need to do for the CPF money to be distributed to me?**<br>
-You will need to make an online application "Administration of CPF / Babay Bonus / Edusave / PSEA Monies" at  [https://www.mlaw.gov.sg/eservices/pto/welcome.xhtml](https://www.mlaw.gov.sg/eservices/pto/welcome.xhtml) so that we can deal with the money.
+You will need to make an online application "Administration of CPF / Baby Bonus / Edusave / PSEA Monies" at  [https://www.mlaw.gov.sg/eservices/pto/welcome.xhtml](https://www.mlaw.gov.sg/eservices/pto/welcome.xhtml) so that we can deal with the money.
 
 You will need to have your Singpass ready in order to access our online application form. You may apply for your Singpass at [https://www.singpass.gov.sg](https://www.singpass.gov.sg) if you do not have one.
  
