@@ -2,7 +2,7 @@ title: Ministry of Law - Public Trustee's Office
 title-abbreviated: Title
 description: >- # this means to ignore newlines until "baseurl:"
   Description
-url: "https://pto.mlaw.gov.sg/"
+url: "https://pto.mlaw.gov.sg"
 
 # Build settings
 markdown: kramdown
