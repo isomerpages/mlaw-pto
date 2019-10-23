@@ -33,9 +33,9 @@ List of Required Documents
 
 **In English**<br>
 
-[Non-Muslims - List of Required Documents](/files/Annex_A_Muslims_Aug19.pdf){:target="_blank"}(361KB)
+[Muslims - List of Required Documents](/files/Annex_A_Muslims_Aug19.pdf){:target="_blank"}(361KB)
 
-[Muslims - List of Required Documents](/files/Annex_B_Non-Muslims_Aug19.pdf){:target="_blank"}(370KB)
+[Non-Muslims - List of Required Documents](/files/Annex_B_Non-Muslims_Aug19.pdf){:target="_blank"}(370KB)
 
 [Funeral Reimbursement Claim - List of Required Documents](/files/Annex_C_Funeral_Aug19.pdf){:target="_blank"}(337KB)
 
