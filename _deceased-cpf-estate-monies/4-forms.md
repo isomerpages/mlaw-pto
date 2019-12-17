@@ -22,7 +22,7 @@ Forms
 
 [Discrepancies in Documents](/files/Form7_DiscrepanciesinDocuments(WithHyperlink).pdf){:target="_blank"}{:target="_blank"} (78 KB)
 
-[Application for CPF Monies Less Than or Equal to $100](/files/Form10_ApplicationforCPFMoniesLessthanorEqual$100(WithoutHyperlink).pdf){:target="_blank"}(226KB)
+[Application for CPF Monies Less Than or Equal to $100](/files/Form10_ApplicationforCPFMoniesLessthanorEqual$100.pdf){:target="_blank"}(226KB)
 
 [Form 15-Letter of Authorisation & Indemnity for payment to Joint/Third party Bank Account](/files/Form_15.pdf){:target="_blank"}(337 KB)
 
