@@ -110,15 +110,15 @@ The statutory fees charged by the Public Trustee on the amount of interest earne
     <td>5.50%</td>
   </tr>
   <tr>
-    <td>For the first $1,000</td>
+    <td>For the next $1,000</td>
     <td>4.50%</td>
   </tr>
   <tr>
-    <td>For the first $1,000</td>
+    <td>For the next $1,000</td>
     <td>3.50%</td>
   </tr>
   <tr>
-    <td>For the first $1,000</td>
+    <td>For amounts in excess of $3,000</td>
     <td>2.25%</td>
   </tr>
 </table>
