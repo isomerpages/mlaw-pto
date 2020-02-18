@@ -61,11 +61,11 @@ In deciding the amount of the maintenance allowance, we will consider the follow
   4) The way in which the child is being or is expected to be educated or trained.<br>
 
 **3. How do I apply for a child’s maintenance allowance?**<br>
-You will need to make an online application at [https://www.mlaw.gov.sg/eservices/pto/welcome.xhtml](https://www.mlaw.gov.sg/eservices/pto/welcome.xhtml). Select "Application for Maintenance Allowance".
+You will need to make an online application at [https://eservices.mlaw.gov.sg/pto/welcome.xhtml](https://eservices.mlaw.gov.sg/pto/welcome.xhtml). Select "Application for Maintenance Allowance".
 
 You will also need to have your Singpass ready to access our online application form. You may apply for your Singpass at [https://www.singpass.gov.sg](https://www.singpass.gov.sg) if you do not have one.
 
-If you are not eligible for a Singpass, you may apply for a log-in ID and password through our website at [https://www.mlaw.gov.sg/eservices/pto/welcome.xhtml](https://www.mlaw.gov.sg/eservices/pto/welcome.xhtml).<br>
+If you are not eligible for a Singpass, you may apply for a log-in ID and password through our website at [https://eservices.mlaw.gov.sg/pto/welcome.xhtml](https://eservices.mlaw.gov.sg/pto/welcome.xhtml).<br>
 
 **4. What are the documents that I need to send to you?**<br>
 You will be required to provide proof that you are not able to support the child (for example, your monthly payslips) and documents relating to the child’s financial needs.
@@ -95,7 +95,7 @@ If we agree to pay for the expenses out of your child’s money, we will make pa
 **9. What do you do with the money held-in-trust?**<br>
 We will invest the money that is held in trust in safe financial instruments like fixed deposits and bonds. We will pay the money, plus interest earned (less our fees), to the child when they reach the age of majority (either 18 or 21).
 
-You can view the Statement of Accounts online through our eService ([https://www.mlaw.gov.sg/eservices/pto](https://www.mlaw.gov.sg/eservices/pto)).<br>
+You can view the Statement of Accounts online through our eService ([https://eservices.mlaw.gov.sg/pto/welcome.xhtml](https://eservices.mlaw.gov.sg/pto/welcome.xhtml)).<br>
 
 **10.	What are the fees charged by the Public Trustee for the investment of money held-in-trust?**<br>
 The statutory fees charged by the Public Trustee on the amount of interest earned for the investment of money held-in-trust are as follows:
@@ -136,7 +136,7 @@ The following persons can view the Statement of Account:<br>
 <sup>1</sup> The minimum age to apply for a SingPass is 15 years.<br>
 
 **2. How do I view the online Statement of Account?**<br>
-You will need to log on to our eService through our website ([https://www.mlaw.gov.sg/eservices/pto](https://www.mlaw.gov.sg/eservices/pto)) to be able to view the child’s Statement of Account.
+You will need to log on to our eService through our website ([https://eservices.mlaw.gov.sg/pto/welcome.xhtml](https://eservices.mlaw.gov.sg/pto/welcome.xhtml)) to be able to view the child’s Statement of Account.
 
 You will need to have your SingPass of ready in order to access our eService. If you do not have a Singpass, you may obtain one at [http://www.singpass.gov.sg](http://www.singpass.gov.sg).
 
@@ -149,7 +149,7 @@ You may refer to the training slides on our website at [https://pto.mlaw.gov.sg/
 Yes, you may print or download the Statement of Account for your records.<br>
 
 **5. Who can I contact if I have problems accessing the online Statement of Account?**<br>
-You may contact us at [Contact Us @ OneMinLaw](https://www.mlaw.gov.sg/eservices/enquiry/){:target="_blank"} or call us at 1800-2255-529. 
+You may contact us at [Contact Us @ OneMinLaw](https://eservices.mlaw.gov.sg/enquiry){:target="_blank"} or call us at 1800-2255-529. 
 
 Please provide us with the following information when you contact us:<br>
 (a) A screenprint of the error message<br>
@@ -162,14 +162,14 @@ Minor Beneficiaries Attaining Age of Majority
 **1. I will be turning 21 years old next month. When will I be notified to claim my trust money?**<br>
 We will send you a notification letter **2 weeks** before your 21st birthday with instructions on the steps and documents required to claim your trust money.
 
-If you do not receive our notification letter before your 21st birthday, please notify us at [Contact Us @ OneMinLaw](https://www.mlaw.gov.sg/eservices/enquiry/){:target="_blank"}, together with your particulars (i.e. name and NRIC), so that we may check and advise you accordingly.<br>
+If you do not receive our notification letter before your 21st birthday, please notify us at [Contact Us @ OneMinLaw](https://eservices.mlaw.gov.sg/enquiry){:target="_blank"}, together with your particulars (i.e. name and NRIC), so that we may check and advise you accordingly.<br>
 
 **2. What are the required documents to claim my trust money?**<br>
 **If you are living in Singapore**<br>
 
 With effect from 5 March 2018, all payments will be made electronically.
 
-In order for us to process the payment, please submit to us via [https://www.mlaw.gov.sg/eservices/pto/welcome.xhtml](https://www.mlaw.gov.sg/eservices/pto/welcome.xhtml) (Submission of Bank Account Details), a clear copy of:
+In order for us to process the payment, please submit to us via [https://eservices.mlaw.gov.sg/pto/welcome.xhtml](https://eservices.mlaw.gov.sg/pto/welcome.xhtml) (Submission of Bank Account Details), a clear copy of:
 
 1) your identity card (front and back); and<br>
 2) the front page of the bank passbook or bank statement. For the other non-electronic modes of payment, you will bear all the changes imposed by the banks(s) whcih will be deducted directly from the inheritance
@@ -177,7 +177,7 @@ In order for us to process the payment, please submit to us via [https://www.mla
 Please indicate our case reference number on your documents.
 
 **If you are living overseas**<br>
-For payment by telegraphic transfer, please send us by post or via [https://www.mlaw.gov.sg/eservices/pto/welcome.xhtml](https://www.mlaw.gov.sg/eservices/pto/welcome.xhtml) (Submission of Supporting Documents), a clear copy of:
+For payment by telegraphic transfer, please send us by post or via [https://eservices.mlaw.gov.sg/pto/welcome.xhtml](https://eservices.mlaw.gov.sg/pto/welcome.xhtml) (Submission of Supporting Documents), a clear copy of:
 
 1) the page of your passport which shows your name, passport number and other particulars; and<br>
 
