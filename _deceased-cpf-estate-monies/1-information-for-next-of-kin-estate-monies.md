@@ -29,7 +29,7 @@ We cannot act if:
 
 In these cases, you will need to apply to the court for Letters of Administration to deal with the person’s estate.
 
-If you qualify for legal aid, you may apply to the Legal Aid Bureau for assistance in obtaining a Letter of Administration. More information on the Legal Aid Bureau can be accessed at [lab.mlaw.gov.sg](https://mlaw-lab-staging.netlify.com/){:target="_blank"}. If you do not qualify for legal aid, you will need to engage the services of a lawyer.<br>
+If you qualify for legal aid, you may apply to the Legal Aid Bureau for assistance in obtaining a Letter of Administration. More information on the Legal Aid Bureau can be accessed at [lab.mlaw.gov.sg](https://mlaw-lab-staging.netlify.com/). If you do not qualify for legal aid, you will need to engage the services of a lawyer.<br>
 
 **3. What are the assets administered by the Public Trustee?**<br>
 The assets administered by the Public Trustee are:
