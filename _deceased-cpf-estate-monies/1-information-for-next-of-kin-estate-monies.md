@@ -43,11 +43,11 @@ The assets administered by the Public Trustee are:
 * Deceased's money from the Workfare Income Supplement Scheme.<br>
 
 **4. How do I apply to the Public Trustee to administer a Deceased’s Estate?**<br>
-You will need to make an online application via the eService at [https://www.mlaw.gov.sg/eservices/pto/welcome.xhtml](https://www.mlaw.gov.sg/eservices/pto/welcome.xhtml){:target="_blank"}  for the Public Trustee to administer the Deceased’s estate monies. Please note that you will be required to disclose information on the Deceased’s shares, bank savings account, death gratuity, insurance policies and vehicles owned (if any) in the online application.
+You will need to make an online application via the eService at [https://eservices.mlaw.gov.sg/pto/welcome.xhtml](https://eservices.mlaw.gov.sg/pto/welcome.xhtml){:target="_blank"}  for the Public Trustee to administer the Deceased’s estate monies. Please note that you will be required to disclose information on the Deceased’s shares, bank savings account, death gratuity, insurance policies and vehicles owned (if any) in the online application.
 
 You will need to have your Singpass ready in order to access our online application form. You may apply for your Singpass at [https://www.singpass.gov.sg](https://www.singpass.gov.sg){:target="_blank"} if you do not have one.
 
-If you are ineligible to apply for a Singpass, you may apply for a login ID and password through our website: [https://www.mlaw.gov.sg/eservices/pto/welcome.xhtml](https://www.mlaw.gov.sg/eservices/pto/welcome.xhtml).
+If you are ineligible to apply for a Singpass, you may apply for a login ID and password through our website: [https://eservices.mlaw.gov.sg/pto/welcome.xhtml](https://eservices.mlaw.gov.sg/pto/welcome.xhtml).
 
 **5. How would the Public Trustee distribute the estate of a non-Muslim?**<br>
 If the person who died was not a Muslim, we will distribute the estate in line with the Intestate Succession Act, which says that the distribution of any movable property (for example, money in the bank account) will be regulated by the law of the country in which the person was domiciled at the time of their death.
