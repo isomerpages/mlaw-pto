@@ -19,11 +19,11 @@ If the person who has died did not make a valid nomination, the CPF Board will s
 The CPF Board will also send us the CPF money of a person who has died if the person chosen to receive that money is under 18 years old (unless she is a widow).<br>
 
 **2.	What do I need to do for the CPF money to be distributed to me?**<br>
-You will need to make an online application "Administration of CPF / Baby Bonus / Edusave / PSEA Monies" at  [https://www.mlaw.gov.sg/eservices/pto/welcome.xhtml](https://www.mlaw.gov.sg/eservices/pto/welcome.xhtml) so that we can deal with the money.
+You will need to make an online application "Administration of CPF / Baby Bonus / Edusave / PSEA Monies" at  [https://eservices.mlaw.gov.sg/pto/welcome.xhtml](https://eservices.mlaw.gov.sg/pto/welcome.xhtml) so that we can deal with the money.
 
 You will need to have your Singpass ready in order to access our online application form. You may apply for your Singpass at [https://www.singpass.gov.sg](https://www.singpass.gov.sg) if you do not have one.
  
-If you are ineligible to apply for a Singpass, you may apply for a login ID and password through our website: [https://www.mlaw.gov.sg/eservices/pto/welcome.xhtml](https://www.mlaw.gov.sg/eservices/pto/welcome.xhtml).<br>
+If you are ineligible to apply for a Singpass, you may apply for a login ID and password through our website: [https://eservices.mlaw.gov.sg/pto/welcome.xhtml](https://eservices.mlaw.gov.sg/pto/welcome.xhtml).<br>
 
 **3.	What are the documents that need to be submitted?**<br>
 Annexes A (for Muslims) and B (for non-Muslims) set out the list of documents we need.
@@ -51,7 +51,7 @@ If the person who has died was a Muslim, you will need to apply for the Certific
 You will be assigned a case officer after you have filed your online application. Please inform your case officer if you do not possess some of the required documents. Your case officer will advise you on what to do after you have submitted your online application.<br>
 
 **4.	Whom do I submit the documents to?**<br>
-You may attach the required documents in your online submission, send via [e-services](https://www.mlaw.gov.sg/eservices/pto/welcome.xhtml) or post to us at the following address:
+You may attach the required documents in your online submission, send via [e-services](https://eservices.mlaw.gov.sg/pto/welcome.xhtml) or post to us at the following address:
 
 Public Trustee’s Office<br>
 The URA Centre (East Wing)<br>

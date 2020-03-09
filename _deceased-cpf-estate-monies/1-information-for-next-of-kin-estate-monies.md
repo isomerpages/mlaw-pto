@@ -29,7 +29,7 @@ We cannot act if:
 
 In these cases, you will need to apply to the court for Letters of Administration to deal with the person’s estate.
 
-If you qualify for legal aid, you may apply to the Legal Aid Bureau for assistance in obtaining a Letter of Administration. More information on the Legal Aid Bureau can be accessed at [lab.mlaw.gov.sg](https://mlaw-lab-staging.netlify.com/){:target="_blank"}. If you do not qualify for legal aid, you will need to engage the services of a lawyer.<br>
+If you qualify for legal aid, you may apply to the Legal Aid Bureau for assistance in obtaining a Letter of Administration. More information on the Legal Aid Bureau can be accessed at [lab.mlaw.gov.sg](https://mlaw-lab-staging.netlify.com/). If you do not qualify for legal aid, you will need to engage the services of a lawyer.<br>
 
 **3. What are the assets administered by the Public Trustee?**<br>
 The assets administered by the Public Trustee are:
@@ -43,11 +43,11 @@ The assets administered by the Public Trustee are:
 * Deceased's money from the Workfare Income Supplement Scheme.<br>
 
 **4. How do I apply to the Public Trustee to administer a Deceased’s Estate?**<br>
-You will need to make an online application via the eService at [https://www.mlaw.gov.sg/eservices/pto/welcome.xhtml](https://www.mlaw.gov.sg/eservices/pto/welcome.xhtml){:target="_blank"}  for the Public Trustee to administer the Deceased’s estate monies. Please note that you will be required to disclose information on the Deceased’s shares, bank savings account, death gratuity, insurance policies and vehicles owned (if any) in the online application.
+You will need to make an online application via the eService at [https://eservices.mlaw.gov.sg/pto/welcome.xhtml](https://eservices.mlaw.gov.sg/pto/welcome.xhtml){:target="_blank"}  for the Public Trustee to administer the Deceased’s estate monies. Please note that you will be required to disclose information on the Deceased’s shares, bank savings account, death gratuity, insurance policies and vehicles owned (if any) in the online application.
 
 You will need to have your Singpass ready in order to access our online application form. You may apply for your Singpass at [https://www.singpass.gov.sg](https://www.singpass.gov.sg){:target="_blank"} if you do not have one.
 
-If you are ineligible to apply for a Singpass, you may apply for a login ID and password through our website: [https://www.mlaw.gov.sg/eservices/pto/welcome.xhtml](https://www.mlaw.gov.sg/eservices/pto/welcome.xhtml).
+If you are ineligible to apply for a Singpass, you may apply for a login ID and password through our website: [https://eservices.mlaw.gov.sg/pto/welcome.xhtml](https://eservices.mlaw.gov.sg/pto/welcome.xhtml).
 
 **5. How would the Public Trustee distribute the estate of a non-Muslim?**<br>
 If the person who died was not a Muslim, we will distribute the estate in line with the Intestate Succession Act, which says that the distribution of any movable property (for example, money in the bank account) will be regulated by the law of the country in which the person was domiciled at the time of their death.
