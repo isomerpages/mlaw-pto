@@ -14,9 +14,9 @@ Forms
 
 [Renunciation & Indemnity Form](/files/RenunciationandIndemnity(Form18)Feb2020.pdf){:target="_blank"}(238KB)
 
-[Declaration Form (CPF monies) for funeral expenses](/files/Form12_Declarationform(CPFMonies)forfuneralexpenses(WithHyperlink).pdf){:target="_blank"}(220KB)
+[Declaration Form (CPF monies) for funeral expenses](/Declarationform(CPFMonies)forfuneralexpenses(Form12).pdf){:target="_blank"}(220KB)
 
-[Declaration Form (Estate monies) for funeral expenses](/files/Form13_Declarationform(EstateMonies)forfuneralexpenses(WithHyperlink).pdf){:target="_blank"}(218KB)
+[Declaration Form (Estate monies) for funeral expenses](/Declarationform(EstateMonies)forfuneralexpenses(Form13).pdf){:target="_blank"}(218KB)
 
 [Declaration of Services rendered to minor beneficiaries](/files/Form17_DeclarationofServicesrenderedtoMinor(WithHyperlink).pdf){:target="_blank"}(139 KB)
 
