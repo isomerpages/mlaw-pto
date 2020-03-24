@@ -18,13 +18,13 @@ Forms
 
 [Declaration Form (Estate monies) for funeral expenses](/Declarationform(EstateMonies)forfuneralexpenses(Form13).pdf){:target="_blank"}(218KB)
 
-[Declaration of Services rendered to minor beneficiaries](/files/Form17_DeclarationofServicesrenderedtoMinor(WithHyperlink).pdf){:target="_blank"}(139 KB)
+[Declaration of Services rendered to minor beneficiaries](/files/DeclarationofServicesrenderedtoMinor(Form17).pdf){:target="_blank"}(139 KB)
 
-[Discrepancies in Documents](/files/Form7_DiscrepanciesinDocuments(WithHyperlink).pdf){:target="_blank"}{:target="_blank"} (78 KB)
+[Discrepancies in Documents](/files/DiscrepanciesinDocuments(Form7).pdf){:target="_blank"}{:target="_blank"} (78 KB)
 
-[Application for CPF Monies Less Than or Equal to $100](/files/Form10_ApplicationforCPFMoniesLessthanorEqual$100.pdf){:target="_blank"}(226KB)
+[Application for CPF Monies Less Than or Equal to $100](/files/Form 10_LessThan100_Feb2020.pdf){:target="_blank"}(226KB)
 
-[Form 15-Letter of Authorisation & Indemnity for payment to Joint/Third party Bank Account](/files/Form_15.pdf){:target="_blank"}(337 KB)
+[Form 15-Letter of Authorisation & Indemnity for payment to Joint/Third party Bank Account](/files/Form 15_Feb2020.pdf){:target="_blank"}(337 KB)
 
 *[With effect from 07 September 2019, Forms 15A and 15B/C are replaced by Form 15.]*
 
@@ -33,27 +33,27 @@ List of Required Documents
 
 **In English**<br>
 
-[Muslims - List of Required Documents](/files/Annex_A_Muslims_Aug19.pdf){:target="_blank"}(361KB)
+[Muslims - List of Required Documents](/files/AnnexA_Muslims_Feb2020.pdf){:target="_blank"}(361KB)
 
-[Non-Muslims - List of Required Documents](/files/Annex_B_Non-Muslims_Aug19.pdf){:target="_blank"}(370KB)
+[Non-Muslims - List of Required Documents](/files/AnnexB_Non-Muslims_ListofRequiredDocuments_Feb2020.pdf){:target="_blank"}(370KB)
 
-[Funeral Reimbursement Claim - List of Required Documents](/files/Annex_C_Funeral_Aug19.pdf){:target="_blank"}(337KB)
+[Funeral Reimbursement Claim - List of Required Documents](/files/AnnexC_Funeral_Feb2020.pdf){:target="_blank"}(337KB)
 
 **In Malay**<br>
 
-[Muslims - List of Required Documents (In Malay)](/files/Malay_Muslims_Aug19.pdf){:target="_blank"}(367 KB)
+[Muslims - List of Required Documents (In Malay)](/files/Malay_Annex A_Muslims_ListofRequiredDocuments_Feb2020.pdf){:target="_blank"}(367 KB)
 
-[Non-Muslims - List of Required Documents (In Malay)](/files/Malay_Non-Muslims_Aug19.pdf){:target="_blank"}(443 KB)
+[Non-Muslims - List of Required Documents (In Malay)](/files/Malay_AnnexB_Non-Muslims_ListofRequiredDocuments_Feb2020.pdf){:target="_blank"}(443 KB)
 
-[Funeral Reimbursement Claim - List of Required Documents (In Malay)](/files/Malay_Funeral_Aug19.pdf){:target="_blank"}(346 KB)
+[Funeral Reimbursement Claim - List of Required Documents (In Malay)](/files/Malay_Annex C_FuneralClaim_ListofRequiredDocuments_Feb2020.pdf){:target="_blank"}(346 KB)
 
 **In Chinese**<br>
 
-[文件清单 (适用于已故回教徒)](/files/Chinese_Muslim_Aug 2019.pdf){:target="_blank"}(426 KB)
+[文件清单 (适用于已故回教徒)](/files/Chinese_AnnexA_Muslims_ListofRequiredDocuments_Feb2020.pdf){:target="_blank"}(426 KB)
 
-[文件清单 (适用于非回教已故者)](/files/Chinese_Non-Muslim_Aug 2019.pdf){:target="_blank"}(426 KB)
+[文件清单 (适用于非回教已故者)](/files/Chinese_AnnexB_Non-Muslims_ListofRequiredDocuments_Feb2020.pdf){:target="_blank"}(426 KB)
 
-[文件清单 (偿还殡殓费)](/files/Chinese_Funeral_Aug 2019.pdf){:target="_blank"}(383 KB)
+[文件清单 (偿还殡殓费)](/files/Chinese_AnnexC_FuneralClaim_ListofRequiredDocuments_Feb2020.pdf){:target="_blank"}(383 KB)
 
 **In Tamil**<br>
 
@@ -68,11 +68,11 @@ Brochures
 
 **In English**<br>
 
-[Dealing with the Central Provident Fund (CPF) money of someone who has died](/files/Eng_Brochure_1_CPF_Aug_2019.pdf){:target="_blank"}(543 KB)
+[Dealing with the Central Provident Fund (CPF) money of someone who has died](/files/Brochure1_CPFMonies_Feb2020.pdf){:target="_blank"}(543 KB)
 
-[Dealing with the deceased’s estate (assets)](/files/Eng_Brochure_2_Estate_Aug_2019.pdf){:target="_blank"}(363 KB)
+[Dealing with the deceased’s estate (assets)](/files/Brochure2_EstateMonies_Feb2020.pdf){:target="_blank"}(363 KB)
 
-[Dealing with money held in trust for a child](/files/Brochure3_Held-in-TrustCases_28Jul2017.pdf){:target="_blank"}(237 KB)
+[Dealing with money held in trust for a child](/files/Brochure3_Held-in-TrustCases_Feb2020.pdf){:target="_blank"}(237 KB)
 
 **In Malay**<br>
 
