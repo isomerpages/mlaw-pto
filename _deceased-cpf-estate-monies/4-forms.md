@@ -22,7 +22,7 @@ Forms
 
 [Discrepancies in Documents](/files/DiscrepanciesinDocuments(Form7).pdf){:target="_blank"}{:target="_blank"} (78 KB)
 
-[Application for CPF Monies Less Than or Equal to $100](/files/Form10_LessThan100_Feb2020.pdf){:target="_blank"}(226KB)
+[Application for CPF Monies Less Than or Equal to $100](/files/Form_10_feb2020.pdf){:target="_blank"}(226KB)
 
 [Form 15-Letter of Authorisation & Indemnity for payment to Joint/Third party Bank Account](/files/Form15_Feb2020.pdf){:target="_blank"}(337 KB)
 
@@ -86,13 +86,13 @@ Brochures
 
 [如何分配已故者的公积金存款](/files/Chinese_Brochure1_CPFMonies_Feb2020.pdf){:target="_blank"}(410 KB)
 
-[如何分配已故者的遗产 (资产)](/files/Chinese_Brochure2_EstateMonies_Feb2020.pdf){:target="_blank"}(363 KB)
+[如何分配已故者的遗产 (资产)](/files/ChineseBrochure2EstateMonies_Feb2020.pdf){:target="_blank"}(363 KB)
 
 [为孩童处理受托管的款项](/files/Chinese_Brochure3_Held-in-TrustCases_Feb2020.pdf){:target="_blank"}(456 KB)
 
 **In Tamil**<br>
 
-[இறந்த நபரின் மத்திய சேம நிதிக் கழகப் (மசேநி) பணத்தைக் கையாளுதல்](/files/Tamil_Brochure1_CPFMonies_Feb2020.pdf){:target="_blank}(1 MB)
+[இறந்த நபரின் மத்திய சேம நிதிக் கழகப் (மசேநி) பணத்தைக் கையாளுதல்](/files/Tamil_Brochure1_CPFMonies_Feb2020.pdf){:target="_blank"}(1 MB)
 
 [இறந்தவரின் சொத்தைக் (சொத்துக்கள்) கையாளுதல்](/files/Tamil_Brochure2_EstateMonies_Feb2020.pdf){:target="_blank"}(1 MB)
 
