@@ -25,9 +25,9 @@ Announcements
 
 7) Yip Kong Nam (Malaysian ID No. 63XXXX-XX-5581)  - Please click on the [link](/files/1130-2018_ADV.pdf){:target="_blank"}(90.1KB) for more information.
 
-8) Suhaimi Bin Mohamed Ibrahim (NRIC No. SXXXX984D)  - Please click on the [link](/files/Adv%20T4411-2019.pdf){:target="_blank"}(86.4KB) for more information.
+8) Sia Yop Seng (NRIC No. SXXXX398C)  - Please click on the [link](/AdvertisementT73582018.pdf){:target="_blank"}(86.4KB) for more information.
 
-9) Sia Yop Seng (NRIC No. SXXXX398C)  - Please click on the [link](/AdvertisementT73582018.pdf){:target="_blank"}(86.4KB) for more information.
+9) Siow Tian Lin (NRIC No. SXXXX038H)  - Please click on the [link](/AdvertisementT55282017.pdf){:target="_blank"}(86.4KB) for more information.
 
-10) Siow Tian Lin (NRIC No. SXXXX038H)  - Please click on the [link](/AdvertisementT55282017.pdf){:target="_blank"}(86.4KB) for more information.
+10) Suhaimi Bin Mohamed Ibrahim (NRIC No. SXXXX984D)  - Please click on the [link](/files/Adv%20T4411-2019.pdf){:target="_blank"}(86.4KB) for more information.
 
