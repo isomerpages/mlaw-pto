@@ -57,11 +57,11 @@ List of Required Documents
 
 **In Tamil**<br>
 
-[Muslims - List of Required Documents (In Tamil)](/files/Tamil_Muslim_Aug2019.pdf){:target="_blank"}(938 KB)
+[Muslims - List of Required Documents (In Tamil)](files/Tamil_AnnexA_Muslims_ListofRequiredDocuments-Feb2020.pdf){:target="_blank"}(938 KB)
 
-[Non-Muslims - List of Required Documents (In Tamil)](/files/Tamil_Non-Muslim_Aug2019.pdf){:target="_blank"}(1 MB)
+[Non-Muslims - List of Required Documents (In Tamil)](files/Tamil_AnnexB_Non-Muslims_ListofRequiredDocuments_Feb2020.pdf){:target="_blank"}(1 MB)
 
-[Funeral Reimbursement Claim - List of Required Documents (In Tamil)](/files/Tamil_Funeral_Aug2019.pdf){:target="_blank"}(911 KB)
+[Funeral Reimbursement Claim - List of Required Documents (In Tamil)](/files/Tamil_AnnexC_FuneralClaim_ListofRequiredDocuments_Feb2020.pdf){:target="_blank"}(911 KB)
 
 Brochures
 ---
@@ -80,7 +80,7 @@ Brochures
 
 [Menguruskan harta pusaka si mati (aset-aset)](/files/Malay_Brochure2_EstateMonies_Feb2020.pdf){:target="_blank"}(280 KB)
 
-[Menguruskan wang yang dipegang sebagai amanah untuk seorang kanak-kanak](/files/Malay_Brochure3_Held-in-TrustCases_Feb2020.pdf.pdf){:target="_blank"}(384 KB)
+[Menguruskan wang yang dipegang sebagai amanah untuk seorang kanak-kanak](/files/Malay_Brochure3_Held-in-TrustCases_Feb2020.pdf){:target="_blank"}(384 KB)
 
 **In Chinese**<br>
 
@@ -92,11 +92,11 @@ Brochures
 
 **In Tamil**<br>
 
-[இறந்த நபரின் மத்திய சேம நிதிக் கழகப் (மசேநி) பணத்தைக் கையாளுதல்](/files/Tamil_Brochure_1_CPF_Aug_2019.pdf){:target="_blank}(1 MB)
+[இறந்த நபரின் மத்திய சேம நிதிக் கழகப் (மசேநி) பணத்தைக் கையாளுதல்](/files/Tamil_Brochure1_CPFMonies_Feb2020.pdf){:target="_blank}(1 MB)
 
-[இறந்தவரின் சொத்தைக் (சொத்துக்கள்) கையாளுதல்](/files/Tamil_Brochure_2_Estate_Aug_2019.pdf){:target="_blank"}(1 MB)
+[இறந்தவரின் சொத்தைக் (சொத்துக்கள்) கையாளுதல்](/files/Tamil_Brochure2_EstateMonies_Feb2020.pdf){:target="_blank"}(1 MB)
 
-[ஒரு குழந்தைக்காக அறக்கட்டளையில் வைக்கப்பட்டிருக்கும் பணத்தைக் கையாளுதல்](/files/Tamil_Brochure3_Held-in-TrustCases_25Jul2017.pdf){:target="_blank"}(445 KB)
+[ஒரு குழந்தைக்காக அறக்கட்டளையில் வைக்கப்பட்டிருக்கும் பணத்தைக் கையாளுதல்](/files/Tamil_Brochure3_Held-in-TrustCases_Feb2020.pdf){:target="_blank"}(445 KB)
 
 Information Slides
 ---
