@@ -30,4 +30,4 @@ Announcements
 9) Yip Kong Nam (Malaysian ID No. 63XXXX-XX-5581)  - Please click on the [link](/files/1130-2018_ADV.pdf){:target="_blank"}(90.1KB) for more information.
 
 
-10) Suhaimi Bin Mohamed Ibrahim (NRIC No. SXXXX984D)  - Please click on the [link](/files/Adv T4411-2019.pdf){:target="_blank"}(86.4KB) for more information.
+10) Suhaimi Bin Mohamed Ibrahim (NRIC No. SXXXX984D)  - Please click on the [link](/files/Adv%20T4411-2019.pdf){:target="_blank"}(86.4KB) for more information.
