@@ -57,9 +57,9 @@ List of Required Documents
 
 **In Tamil**<br>
 
-[Muslims - List of Required Documents (In Tamil)](files/Tamil_AnnexA_Muslims_ListofRequiredDocuments-Feb2020.pdf){:target="_blank"}(938 KB)
+[Muslims - List of Required Documents (In Tamil)](/files/TamilAnnexAMuslimsListofRequiredDocumentsFeb2020.pdf){:target="_blank"}(938 KB)
 
-[Non-Muslims - List of Required Documents (In Tamil)](files/Tamil_AnnexB_Non-Muslims_ListofRequiredDocuments_Feb2020.pdf){:target="_blank"}(1 MB)
+[Non-Muslims - List of Required Documents (In Tamil)](/files/TamilAnnexBNonMuslimsListofRequiredDocuments_Feb2020.pdf){:target="_blank"}(1 MB)
 
 [Funeral Reimbursement Claim - List of Required Documents (In Tamil)](/files/Tamil_AnnexC_FuneralClaim_ListofRequiredDocuments_Feb2020.pdf){:target="_blank"}(911 KB)
 
