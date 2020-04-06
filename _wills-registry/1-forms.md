@@ -18,11 +18,11 @@ Guides and Forms
 Brochures
 ---
 
-[Wills Registry](/files/Brochure4_WillRegistry_25Jul2017.pdf){:target="_blank"}(261 KB)
+[Wills Registry](/files/Brochure4_WillRegistry_Feb2020.pdf){:target="_blank"}(261 KB)
 
-[Pejabat Pendaftaran Wasiat](/files/Malay_Brochure4_WillRegistry_25Jul2017.pdf){:target="_blank"}(201 KB)
+[Pejabat Pendaftaran Wasiat](/files/Malay_Brochure4_WillRegistry_Feb2020.pdf){:target="_blank"}(201 KB)
 
-[遗嘱登记处](/files/Chinese_Brochure4_WillRegistry_25Jul2017.pdf){:target="_blank"}(265 KB)
+[遗嘱登记处](/files/Chinese_Brochure4_WillRegistry_Feb2020.pdf){:target="_blank"}(265 KB)
 
-[உயில்கள் பதிவகம்](/files/Tamil_Brochure4_WillRegistry_25Jul2017.pdf){:target="_blank"}(339 KB)
+[உயில்கள் பதிவகம்](/files/Tamil_Brochure4_WillRegistry_Feb2020.pdf){:target="_blank"}(339 KB)
 
