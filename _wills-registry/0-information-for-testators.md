@@ -1,6 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Information for Testators
+Note: From 4 May 2020, the management of the Wills Registry will be transferred to the Singapore Academy of LAw (SAL).
 permalink: /wills-registry/info-for-testators/
 breadcrumb: Information for Testators
 collection_name: wills-registry
