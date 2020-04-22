@@ -26,7 +26,7 @@ Forms
 
 [Form 15-Letter of Authorisation & Indemnity for payment to Joint/Third party Bank Account](/files/latestForm15_feb2020.pdf){:target="_blank"}(337 KB)
 
-[Search for Information on Wills](/files/Form_6.pdf){:target="_blank"}(132KB)
+[Search for Information on Wills](/files/Form_6.docx){:target="_blank"}(54.5KB)
 
 *[With effect from 07 September 2019, Forms 15A and 15B/C are replaced by Form 15.]*
 
