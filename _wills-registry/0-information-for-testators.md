@@ -8,16 +8,17 @@ collection_name: wills-registry
 ---
 
 <table border="1.5">
-  <td><b>The search for Existing Will Registry and Deposit of New Will Record in the Will Registry service is no longer available.<br><br>
-    With effect from 4 May 2020, the management of the Wills Registry has been transferred to the Singapore Academy of Law ("SAL").<br><br>
-    If you wish to make a deposit of new will record, update your will record, or search for a will record, you can do so by visiting https://wills.sal.sg.<br><br>
-    If more information is required, please contact SAL at 6332 4388 or email wills@sal.org.sg.</b></td></table>
+  <td><b>The search for Existing Will Registry and Deposit of New Will Record in the Wills Registry service is no longer available.<br><br>
+    With effect from 4 May 2020, the management of the Wills Registry will be transferred to the Singapore Academy of Law ("SAL").<br><br>
+    If you wish to search for a will record between 22 April 2020 and 3 May 2020, you may submit the duly completed <a href = "/files/Form_6.docx" target = "_blank">Wills Search Form</a> and the necessary supporting documents via  <a href = "https://eservices.mlaw.gov.sg/enquiry/" target = "_blank">Contact Us @ OneMinLaw</a>. Search fees will be waived during this period.</b></td></table>
 
 **1. What is the Wills Registry?**<br>
 The Wills Registry, maintained by the Public Trustee, is a confidential registry where testators (people making a will) or their solicitors can deposit information on wills.
 
 **2. What are the fees you charge for depositing or searching for the will information?**<br>
-Our fees (including GST) are shown below.
+With effect from 4 May 2020, the management of the Wills Registry will be transferred to the Singapore Academy of Law (“SAL”). 
+ 
+The charges will remain unchanged after the transfer. The fees are as follow:
 
 
 <table>
@@ -35,10 +36,11 @@ Our fees (including GST) are shown below.
   </tr>
 </table>
 
-Payment for the deposit and search of will information must be made online via debit card, credit card or direct debit.
 
 **3. How long will my will information be kept in the Wills Registry?**<br>
-The will information will be kept in our system for 120 years from the date of birth of the person making the will.
+With effect from 4 May 2020, the management of the Wills Registry will be transferred to the Singapore Academy of Law (“SAL”). 
+ 
+The SAL will keep the wills information for up to 120 years from the date of birth of the person making the will (testator).
 
 **4. What type of information is kept by the Wills Registry?**<br>
 We keep the following information under the Wills Registry.
@@ -63,48 +65,22 @@ No, it is not compulsory to deposit your will information with us.
 No, the validity of your will does not depend on whether you have deposited your will information with us or not.
 
 **8. How do I deposit my will information with the Wills Registry?**<br>
-You will need to access our online deposit form at [pto.mlaw.gov.sg](/) under eServices to deposit your will information with the Wills Registry.
-
-The Wills Registry will no longer accept hardcopy forms for the deposit of will information after **1 Mar 2014**.
-
-You will need to have your SingPass ready to access our online deposit form. You may apply for your SingPass at [https://www.singpass.gov.sg](https://www.singpass.gov.sg) if you do not have one.
-
-If you are not eligible for a SingPass, you may apply for a log-in ID and password. You can refer to our guide available at [pto.mlaw.gov.sg](/) under “Guides and Forms” on how to apply for a log-in ID and password.
+With effect from 4 May 2020, the management of the Wills Registry will be transferred to the Singapore Academy of Law (“SAL”). You may deposit your will information at <a href = "https://wills.sal.sg" target = "_blank">https://wills.sal.sg</a> from 4 May 2020.
 
 **9. How do I deposit my client’s will information as a lawyer acting for them?**<br>
-Your law firm or company may apply for an organisation account with us. With an organisation account, your law firm or company will be able to authorise you to access the online deposit form.
+With effect from 4 May 2020, the management of the Wills Registry will be transferred to the Singapore Academy of Law (“SAL”). You may email them at wills@sal.org.sg for more clarification.
 
-You may refer to our guide available at [pto.mlaw.gov.sg](/){:target="_blank"} under “Guides and Forms” on how to apply for an organization account.
+**10. How do I update or amend my existing will record?**<br>
+You will have to deposit a new will record with the Wills Registry. However, with effect from 4 May 2020, the management of the Wills Registry will be transferred to the Singapore Academy of Law (“SAL”). 
+ 
+You will be able to do so at <a href = "https://wills.sal.sg" target = "_blank">https://wills.sal.sg</a> from 4 May 2020. 
 
-Your law firm or company need not apply for a new organisation account if it has an existing organisation account with us.
+**11. How do I delete my will record from the Wills Registry?**<br>
+You may request in writing either personally or through your lawyer, for a deletion of the information on your will, supported with a copy of your NRIC. Please send your request to the relevant office as indicated below:
+- Before the transfer, please write to the Public Trustee’s Office using the website <a href = "https://eservices.mlaw.gov.sg/enquiry/" target = "_blank">https://eservices.mlaw.gov.sg/enquiry/</a> or post your request to The URA Centre (East Wing), 45 Maxwell Road #07-01, Singapore 069118.
+- After the transfer, please write to Singapore Academy of Law at 1 Supreme Court Lane, Level 6, Singapore 178879.
 
-**10. How do I use the online system?**<br>
-You may refer to our step-by-step guide available at [pto.mlaw.gov.sg](/){:target="_blank"} under “Guides and Forms” on how to use the online system.
-
-**11. I have forgotten to print the receipt and/or transacton summary page. Are you able help to provide a copy of it?**<br>
-We are unable to provide a copy of the receipt / summary page. You may wish to do a Will search if you wish to verify your submitted information.  
-
-**12. How do I update or amend my existing will record?**<br>
-You will have to deposit a new will record with the Wills Registry. The $50 fee for new will deposit shall still apply.
-
-In order to protect the integrity of the information submitted and avoid disputes, we are not able to make any amendment to information on wills submitted to us. You will have to make a new submission of information on the will if you wish to amend any information in the record.
-
-**13. How do I delete my will record from the Wills Registry?**<br>
-You need to write in to request for a deletion of your will record. You may send in your request by email or post to:
-
-Public Trustee’s Office<br>
-The URA Centre (East Wing)<br>
-45 Maxwell Road<br>
-#07-11<br>
-Singapore 069118<br>
-Attention: <u>Wills Registry</u><br>
-**[Contact Us @ OneMinLaw](https://www.mlaw.gov.sg/about-us/contact-us/){:target="_blank"}**
-
-Please attach a copy of your identity card and indicate your contact number in your correspondence with us.
-
-There are no fees involved for the deletion of your will record.
-
-**14. Who will have access to the will information?**<br>
+**12. Who will have access to the will information?**<br>
 All information deposited with us is strictly confidential. Only the following people may make a search for information related to a will:
 
 a) The person who made the will (if they give us proof of identity) or his solicitor.
@@ -117,59 +93,37 @@ d) The donee of a Lasting Power of Attorney (LPA) or a deputy appointed or to be
 
 e) A person who appears to the Public Trustee to have a legitimate interest in the testator’s will or estate.
 
-**15. Why is the search results released to only selected persons?**<br>
+**13. Why is the search results released to only selected persons?**<br>
 The Wills Registry, maintained by the Public Trustee, is a confidential registry. The information deposited with the Wills Registry is protected. For this reason, information at the Registry will only be released to solicitors acting for the testator or his estate and to the next-of-kin upon the death of the testator.
 
-**16. How do I carry out a search on will information with the Wills Registry?**<br>
-You will need to access our online search form at [pto.mlaw.gov.sg](/) under eServices.
+**14. How do I carry out a search on will information with the Wills Registry?**<br>
+You may search for wills information via the following channels:
+ 
+·         From 22 April 2020 to 3 May 2020, please submit your duly completed Wills Search Form and the necessary supporting documents via <a href = "https://eservices.mlaw.gov.sg/enquiry/" target = "_blank">Contact Us @ OneMinLaw</a>. Search fees will be waived during this period. 
+ 
+·         From 4 May 2020, you may conduct a search using SAL’s online services at <a href = "https://wills.sal.sg" target = "_blank">https://wills.sal.sg</a>.
+ 
+Please note that you will need to submit a copy of the following documents when you submit an application to search for wills information:<br><br>
+a.     For the person making search on own will record, please submit a copy of your Identification document (e.g. NRIC or passport).<br><br>
+b.     For law firms, please submit a copy of:<br>
+              &nbsp;&nbsp;i.        The identification document of the person who made the will (testator); or<br>
+             &nbsp;&nbsp;ii.        The death certificate of the testator.<br><br> 
+c.     For the next-of-kin of deceased persons, please submit a copy of the:<br>
+              &nbsp;&nbsp;i.        Death certificate of the testator;<br>
+             &nbsp;&nbsp;ii.        Identification document(s) of the next-of-kin; and<br>
+            &nbsp;&nbsp;iii.        Proof of relation to the testator (e.g. marriage certificate, or birth certificate).<br><br>
+d.     For donee of a Lasting Power of Attorney (LPA), or a deputy appointed or to be appointed by the Court, please submit a copy of the:<br>
+              &nbsp;&nbsp;i.        Identification document of the donee, deputy, or deputy to be appointed by the Court; and<br>
+             &nbsp;&nbsp;ii.        LPA, Court Order or Application to appoint a deputy.<br><br>
+e.     For persons with a legitimate interest in the testator’s will or estate, please submit a copy of the:
+              &nbsp;&nbsp;i.        Identification document of the person with a legitimate interest in the testator’s will or estate;<br>
+             &nbsp;&nbsp;ii.        Proof of relationship to the testator; and<br>
+            &nbsp;&nbsp;iii.        Reason(s) for making the search on the testator’s will, together with relevant supporting documents.<br>  
 
-We will need the following supporting documents.
-
-a) For the person making search on own will record:
-
-* Your NRIC
-
-b) For law firms:
-
-* NRIC of the person who made the will or
-
-* Death certificate of the person who made the will        
-
-c) For next-of-kin:
-
-* Death certificate of the person who made the will and
-
-* NRIC of next-of-kin and
-
-* Proof of relationship to the person who made the will (for example, marriage certificate (for spouse) and birth certificate (for parents or children))
-
-d) For donee of a Lasting Power of Attorney (LPA) or a deputy appointed or to be appointed by the Court:
-
-* NRIC of donee or deputy or would-be deputy
-
-* Copy of LPA or Court Order / Application
-
-e) For person with a legitimate interest in the testator's will or estate (Please submit your search request using the next-of-kin option in our eService):
-
-* NRIC of person with a legitimate interest in the testator's will or estate
-
-* Proof of relationship to the person who made the will
-
-* Reasons for wanting to make a search on the testator's will together with the relevant supporting documents. (Please upload your written reasons and supporting documents under the attachment for Death Certificate in our eServices.)
-
-Please allow **3 - 5 working days** for us to process your form.
-
-You will need to have your SingPass ready to access our online deposit form. You may apply for your SingPass at [https://www.singpass.gov.sg](https://www.singpass.gov.sg/spauth/login/loginpage?URL=%2F&TAM_OP=login) if you do not have one.
-
-If you are not eligible for a SingPass, you may apply for a log-in ID and password. You can refer to our guide available at [pto.mlaw.gov.sg](/) under “Guides and Forms” on how to apply for a log-in ID and password.
-
-**17. Do you accept hardcopy forms?**<br>
-The Wills Registry no longer accepts hardcopy search forms after **15 April 2014**.
-
-**18. How long do I have to wait for the search results?**<br>
+**15. How long do I have to wait for the search results?**<br>
 The search results will be sent to you via email within **3 to 5 working days** after we have received your search request.
 
-**19. How will the results be sent to me?**<br>
+**16. How will the results be sent to me?**<br>
 The search results will be sent to you via **email** once we have verified your supporting documents.
 
 The search results will no longer be sent by post or fax.
