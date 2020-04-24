@@ -11,7 +11,7 @@ collection_name: wills-registry
   <td><b>The search for Existing Will Registry and Deposit of New Will Record in the Will Registry service is no longer available.<br><br>
     With effect from 4 May 2020, the management of the Wills Registry has been transferred to the Singapore Academy of Law ("SAL").<br><br>
     If you wish to make a deposit of new will record, update your will record, or search for a will record, you can do so by visiting https://wills.sal.sg.<br><br>
-    If more information is required, please contact SAL at 6332 4388 or email wills@sal.org.sg.</b><td></table><br>
+    If more information is required, please contact SAL at 6332 4388 or email wills@sal.org.sg.</b></td></table><br>
 
 **1. What is the Wills Registry?**<br>
 The Wills Registry, maintained by the Public Trustee, is a confidential registry where testators (people making a will) or their solicitors can deposit information on wills.
