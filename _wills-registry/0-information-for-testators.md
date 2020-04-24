@@ -68,7 +68,7 @@ No, the validity of your will does not depend on whether you have deposited your
 With effect from 4 May 2020, the management of the Wills Registry will be transferred to the Singapore Academy of Law (“SAL”). You may deposit your will information at <a href = "https://wills.sal.sg" target = "_blank">https://wills.sal.sg</a> from 4 May 2020.
 
 **9. How do I deposit my client’s will information as a lawyer acting for them?**<br>
-With effect from 4 May 2020, the management of the Wills Registry will be transferred to the Singapore Academy of Law (“SAL”). You may email them at wills@sal.org.sg for more clarification.
+With effect from 4 May 2020, the management of the Wills Registry will be transferred to the Singapore Academy of Law (“SAL”). You may email them at <a href="mailto:wills@sal.org.sg">wills@sal.org.sg</a> for more clarification.
 
 **10. How do I update or amend my existing will record?**<br>
 You will have to deposit a new will record with the Wills Registry. However, with effect from 4 May 2020, the management of the Wills Registry will be transferred to the Singapore Academy of Law (“SAL”). 
@@ -115,7 +115,7 @@ c.     For the next-of-kin of deceased persons, please submit a copy of the:<br>
 d.     For donee of a Lasting Power of Attorney (LPA), or a deputy appointed or to be appointed by the Court, please submit a copy of the:<br>
               &nbsp;&nbsp;i.        Identification document of the donee, deputy, or deputy to be appointed by the Court; and<br>
              &nbsp;&nbsp;ii.        LPA, Court Order or Application to appoint a deputy.<br><br>
-e.     For persons with a legitimate interest in the testator’s will or estate, please submit a copy of the:
+e.     For persons with a legitimate interest in the testator’s will or estate, please submit a copy of the:<br>
               &nbsp;&nbsp;i.        Identification document of the person with a legitimate interest in the testator’s will or estate;<br>
              &nbsp;&nbsp;ii.        Proof of relationship to the testator; and<br>
             &nbsp;&nbsp;iii.        Reason(s) for making the search on the testator’s will, together with relevant supporting documents.<br>  
