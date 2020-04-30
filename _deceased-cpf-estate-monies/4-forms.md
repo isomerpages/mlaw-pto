@@ -74,7 +74,7 @@ Brochures
 
 [Dealing with the deceased’s estate (assets)](/files/Brochure2_EstateMonies_Feb2020.pdf){:target="_blank"}(363 KB)
 
-[Dealing with money held in trust for a child](/files/Chinese_Brochure3_Held-in-TrustCases_Feb2020.pdf){:target="_blank"}(237 KB)
+[Dealing with money held in trust for a child](/files/Bro3_Held-in-TrustCases_Feb2020.pdf){:target="_blank"}(237 KB)
 
 **In Malay**<br>
 
