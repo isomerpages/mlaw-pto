@@ -65,7 +65,7 @@ No, it is not compulsory to deposit your will information with us.
 No, the validity of your will does not depend on whether you have deposited your will information with us or not.
 
 **8. How do I deposit my will information with the Wills Registry?**<br>
-With effect from 4 May 2020, the management of the Wills Registry will be transferred to the Singapore Academy of Law (“SAL”). You may deposit your will information at <a href = "https://wills.sal.sg" target = "_blank">https://wills.sal.sg</a> from 4 May 2020.
+With effect from 4 May 2020, the management of the Wills Registry will be transferred to the Singapore Academy of Law (“SAL”). You may email them at <a href="mailto:wills@sal.org.sg">wills@sal.org.sg</a> for more information.
 
 **9. How do I deposit my client’s will information as a lawyer acting for them?**<br>
 With effect from 4 May 2020, the management of the Wills Registry will be transferred to the Singapore Academy of Law (“SAL”). You may email them at <a href="mailto:wills@sal.org.sg">wills@sal.org.sg</a> for more clarification.
@@ -73,7 +73,7 @@ With effect from 4 May 2020, the management of the Wills Registry will be transf
 **10. How do I update or amend my existing will record?**<br>
 You will have to deposit a new will record with the Wills Registry. However, with effect from 4 May 2020, the management of the Wills Registry will be transferred to the Singapore Academy of Law (“SAL”). 
  
-You will be able to do so at <a href = "https://wills.sal.sg" target = "_blank">https://wills.sal.sg</a> from 4 May 2020. 
+You may email them at <a href="mailto:wills@sal.org.sg">wills@sal.org.sg</a> for more information.
 
 **11. How do I delete my will record from the Wills Registry?**<br>
 You may request in writing either personally or through your lawyer, for a deletion of the information on your will, supported with a copy of your NRIC. Please send your request to the relevant office as indicated below:
@@ -96,12 +96,9 @@ e) A person who appears to the Public Trustee to have a legitimate interest in t
 **13. Why is the search results released to only selected persons?**<br>
 The Wills Registry, maintained by the Public Trustee, is a confidential registry. The information deposited with the Wills Registry is protected. For this reason, information at the Registry will only be released to solicitors acting for the testator or his estate and to the next-of-kin upon the death of the testator.
 
-**14. How do I carry out a search on will information with the Wills Registry?**<br>
-You may search for wills information via the following channels:
+**14. How do I carry out a search on will information with the Wills Registry?**<b>
  
-·         From 22 April 2020 to 3 May 2020, please submit your duly completed Wills Search Form and the necessary supporting documents via <a href = "https://eservices.mlaw.gov.sg/enquiry/" target = "_blank">Contact Us @ OneMinLaw</a>. Search fees will be waived during this period. 
- 
-·         From 4 May 2020, you may conduct a search using SAL’s online services at <a href = "https://wills.sal.sg" target = "_blank">https://wills.sal.sg</a>.
+From 22 April 2020 to 3 May 2020, please submit your duly completed <a href = "/files/Form_6.docx" target = "_blank">Wills Search Form</a> and the necessary supporting documents via <a href = "https://eservices.mlaw.gov.sg/enquiry/" target = "_blank">Contact Us @ OneMinLaw</a>. Search fees will be waived during this period. 
  
 Please note that you will need to submit a copy of the following documents when you submit an application to search for wills information:<br><br>
 a.     For the person making search on own will record, please submit a copy of your Identification document (e.g. NRIC or passport).<br><br>
