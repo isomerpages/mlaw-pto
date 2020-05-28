@@ -47,7 +47,7 @@ You will need to make an online application via the eService at [https://eservic
 
 You will need to have your Singpass ready in order to access our online application form. You may apply for your Singpass at [https://www.singpass.gov.sg](https://www.singpass.gov.sg){:target="_blank"} if you do not have one.
 
-If you are ineligible to apply for a Singpass, you may apply for a login ID and password through our website: [https://eservices.mlaw.gov.sg/pto/welcome.xhtml](https://eservices.mlaw.gov.sg/pto/welcome.xhtml).
+If you are ineligible to apply for a Singpass, you may apply for a login ID and password through our website: [https://eservices.mlaw.gov.sg/pto/welcome.xhtml](https://eservices.mlaw.gov.sg/pto/welcome.xhtml){:target="_blank"}.
 
 **5. How would the Public Trustee distribute the estate of a non-Muslim?**<br>
 If the person who died was not a Muslim, we will distribute the estate in line with the Intestate Succession Act, which says that the distribution of any movable property (for example, money in the bank account) will be regulated by the law of the country in which the person was domiciled at the time of their death.
@@ -159,10 +159,9 @@ Kindly note that these Rules of Distribution apply only to a non-Muslim Deceased
     <td>Whole share to be shared equally among surviving uncles and aunts.</td>
   </tr>
 </table>
-
-\*Spouse refers to husband or wife.<br>
-
-\*Issue means a child (legitimate or legally adopted) and the descendants of a deceased’s child. Illegitimate children and transferred children are NOT entitled under the Intestacy Rules.<br>
+<br>
+<font size="3">*<b> Spouse</b> refers to husband or wife.<br>
+* <b>Issue</b>Issue means a child (legitimate or legally adopted) and the descendants of a deceased’s child. Illegitimate children and transferred children are NOT entitled under the Intestacy Rules.</font><br>
 
 **7. How would the Public Trustee distribute the estate of a Muslim?**<br>
 If the person who died was a Muslim, we will distribute the estate in line with Section 112 of the Administration of Muslim Law Act according to the school of the Muslim law the person observed.
@@ -170,11 +169,11 @@ If the person who died was a Muslim, we will distribute the estate in line with 
 The Certificate of Inheritance issued by Syariah Court will list down the beneficiaries and their share of inheritance.<br>
 
 **8. What are the documents that need to be submitted to the Public Trustee?**<br>
-Annexes A (for Muslims) and B (for non-Muslims) set out the list of documents we need.
+<a href = "/files/AnnexA_Muslims_Feb2020.pdf" target = "_blank">Annex A</a> (for Muslims) and <a href = "/files/AnnexB_Non-Muslims_ListofRequiredDocuments_Feb2020.pdf" target = "_blank">Annex B</a> (for non-Muslims) set out the list of documents we need. 
 
-For a reimbursement of funeral expenses, Annex C sets out the list of documents we need.
+For a reimbursement of funeral expenses, <a href = "/files/AnnexC_Funeral_Feb2020.pdf" target = "_blank">Annex C</a> sets out the list of documents we need.
 
-You may pick up a copy of Annexes A, B and C from our office or view them on our website under Deceased CPF / Estate Monies > Forms.
+You may pick up a copy of the Annexes from our office or view them from our website under <a href = "https://pto.mlaw.gov.sg/deceased-cpf-estate-monies/forms/" target = "_blank">Deceased CPF / Estate Monies > Forms</a>.
 
 Common types of documents required are:
 
@@ -189,7 +188,7 @@ Common types of documents required are:
   9) Death Certificate of Parent (if deceased)<br>
   10) Certificate of Inheritance (For Muslims only)<br>
   
-For Muslims, you may apply for the Certificate of Inheritance at [www.syariahcourt.gov.sg](https://www.syariahcourt.gov.sg/Syariah/front-end/Home.aspx){:target="_blank"}.
+For Muslims, you may apply for the Certificate of Inheritance at [www.syariahcourt.gov.sg](https://www.syariahcourt.gov.sg/){:target="_blank"}.
 
 You will be assigned a case officer after you have filed your online application. Please inform your case officer if you do not possess some of the required documents. Your case officer will advise you on what to do after you have submitted your online application.<br>
 
@@ -240,25 +239,25 @@ You will also have to submit the following supporting documents to us:
 2) Death Certificate of Deceased
 
 3) If Claimant is:<br>
-a. Spouse of Deceased – Marriage Certificate<br>
-b. Child of Deceased – Birth Certificate of Child and Marriage Certificate of Parents<br>
-c. Parent of Deceased – Birth Certificate of Deceased and Marriage Certificate of Parents<br>
-d. Sibling of Deceased – Birth Certificate of Deceased and Birth Certificate of Sibling<br>
+&nbsp;&nbsp;&nbsp;a. Spouse of Deceased – Marriage Certificate<br>
+&nbsp;&nbsp;&nbsp;b. Child of Deceased – Birth Certificate of Child and Marriage Certificate of Parents<br>
+&nbsp;&nbsp;&nbsp;c. Parent of Deceased – Birth Certificate of Deceased and Marriage Certificate of Parents<br>
+&nbsp;&nbsp;&nbsp;d. Sibling of Deceased – Birth Certificate of Deceased and Birth Certificate of Sibling<br>
 
-4) Original “Declaration Form (Estate monies) for funeral expenses” (Please return completed form by Post. Scanned and Faxed Copies are NOT allowed). You may obtain a softcopy of the “Declaration Form (Estate monies) for funeral expenses” at [https://pto.mlaw.gov.sg](/) < Deceased CPF / Estate monies > Forms.
+4) <a href = "/Declarationform(CPFMonies)forfuneralexpenses(Form12).pdf" target = "_blank">Declaration Form (CPF monies) for funeral expenses</a>. You may obtain a softcopy of the Form at <a href = "https://pto.mlaw.gov.sg/deceased-cpf-estate-monies/forms/" target = "_blank">Deceased CPF / Estate Monies > Forms</a>.
 
 5) Front page of the bank passbook or bank statement. For a payment to a joint or third party bank account, both you and the account holder(s) must execute the indemnity form (Form 15) which is available at our website. For the other non-electronic modes of payment, you will bear all the charges imposed by the bank(s) which will be deducted directly from the inheritance.
 
 6) Receipts incurred for Funeral Expenses (Compulsory for Non-Beneficiary Claimant)
 
-Please indicate the case reference number and NRIC of the deceased on your supporting documents. This case reference number is shown after you click the submit button of your online application.
-
-You may post the hardcopy of the “Declaration Form (Estate monies) for funeral expenses” to the following address: 
+You may attach the required documents in your online submission, send via [e-services](https://eservices.mlaw.gov.sg/pto/welcome.xhtml){:target="_blank"} or post to us at the following address:
 
 Public Trustee’s Office<br>
 The URA Centre (East Wing)<br>
 45 Maxwell Road, #07-11<br>
 Singapore 069118<br>
+
+Please indicate the case reference number and NRIC of the deceased on your supporting documents. This case reference number is shown after you click the submit button of your online application.
 
 **11.	When will the money be paid to me?**<br>
 As a general rule, we will distribute the money within 4 weeks from the date of receipt of the full set of documentation from the beneficiaries or the date of receipt of the deceased’s monies, whichever is later.
@@ -266,7 +265,7 @@ As a general rule, we will distribute the money within 4 weeks from the date of 
 **12. Can I get the Public Trustee’s assistance in resealing in Singapore, Letters of Administration / Grant of Probate that was obtained overseas?**<br>
 The Public Trustee does not assist in resealing in the Singapore Courts, Letters of Administration or Grants of Probate that were obtained overseas. You will have to engage a Singapore lawyer to do this.
 
-LSRA has an integrated online search function which lists all registered law practices (foreign or local), Singapore solicitors, foreign lawyers, and regulated non-practitioners. At present, you can search by name, practice area, and the type of law practice. We are working on further enhancements to the search function.
+<a href = "https://eservices.mlaw.gov.sg/lsra/lsra-home" target = "_blank">LSRA</a> has an integrated online search function which lists all registered law practices (foreign or local), Singapore solicitors, foreign lawyers, and regulated non-practitioners. At present, you can search by name, practice area, and the type of law practice. We are working on further enhancements to the search function.
 
 Please note that the search results are based on information provided by law practices and lawyers. The Ministry of Law does not make any warranty or representation as to their accuracy, completeness or reliability. <br>
 
