@@ -160,8 +160,9 @@ Kindly note that these Rules of Distribution apply only to a non-Muslim Deceased
   </tr>
 </table>
 
-<br><font size="3">*<b> Spouse</b> refers to husband or wife.<br>
-* <b>Issue</b> means a child (legitimate or legally adopted) and the descendants of a deceased’s child. Illegitimate children and transferred children are NOT entitled under the Intestacy Rules.</font>
+
+<p><font size="3">*<b> Spouse</b> refers to husband or wife.<br>
+*<b> Issue</b> means a child (legitimate or legally adopted) and the descendants of a deceased’s child. Illegitimate children and transferred children are NOT entitled under the Intestacy Rules.</font></p>
 
 **7. How would the Public Trustee distribute the estate of a Muslim?**<br>
 If the person who died was a Muslim, we will distribute the estate in line with Section 112 of the Administration of Muslim Law Act according to the school of the Muslim law the person observed.
@@ -244,7 +245,7 @@ c) If Claimant is:<br>
 &nbsp;&nbsp;&nbsp;iii. Parent of Deceased – Birth Certificate of Deceased and Marriage Certificate of Parents<br>
 &nbsp;&nbsp;&nbsp;iv. Sibling of Deceased – Birth Certificate of Deceased and Birth Certificate of Sibling<br>
 
-d) <a href = "/Declarationform(CPFMonies)forfuneralexpenses(Form12).pdf" target = "_blank">Declaration Form (CPF monies) for funeral expenses</a>. You may obtain a softcopy of the Form at <a href = "https://pto.mlaw.gov.sg/deceased-cpf-estate-monies/forms/" target = "_blank">Deceased CPF / Estate Monies > Forms</a>.
+d) <a href = "/Declarationform(CPFMonies)forfuneralexpenses(Form12).pdf" target = "_blank">Declaration Form (CPF monies) for funeral expenses</a>.
 
 e) Front page of the bank passbook or bank statement. For a payment to a joint or third party bank account, both you and the account holder(s) must execute the indemnity form (Form 15) which is available at our website. For the other non-electronic modes of payment, you will bear all the charges imposed by the bank(s) which will be deducted directly from the inheritance.
 
