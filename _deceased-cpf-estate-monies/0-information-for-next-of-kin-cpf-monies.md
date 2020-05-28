@@ -200,7 +200,6 @@ Kindly note that these Rules of Distribution apply only to a non-Muslim Deceased
     </td>
   </tr>
 </table>
-<br>
 <font size="3">*<b>Spouse</b> refers to husband or wife.<br>
 * <b>Issue</b> means a child (legitimate or legally adopted) and the descendants of a deceased’s child. Illegitimate children and transferred children are NOT entitled under the Intestacy Rules.</font>
 
@@ -228,7 +227,7 @@ c) If Claimant is:<br>
 &nbsp;&nbsp;&nbsp;iii. Parent of Deceased – Birth Certificate of Deceased and Marriage Certificate of Parents<br>
 &nbsp;&nbsp;&nbsp;iv. Sibling of Deceased – Birth Certificate of Deceased and Birth Certificate of Sibling<br>
 
-d) <a href = "/Declarationform(CPFMonies)forfuneralexpenses(Form12).pdf" target = "_blank">Declaration Form (CPF monies) for funeral expenses</a>. You may obtain a softcopy of the Form at <a href = "https://pto.mlaw.gov.sg/deceased-cpf-estate-monies/forms/" target = "_blank">Deceased CPF / Estate Monies > Forms</a>.
+d) <a href = "/Declarationform(CPFMonies)forfuneralexpenses(Form12).pdf" target = "_blank">Declaration Form (CPF monies) for funeral expenses</a>.
 
 e) Front Page of Bank Passbook or Bank Statement indicating account number (for GIRO payment)
 
