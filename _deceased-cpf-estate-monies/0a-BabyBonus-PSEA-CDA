@@ -20,18 +20,18 @@ If you are ineligible to apply for a Singpass, you may apply for a login ID and 
 
 Common types of documents we need are shown below:<br><br>
 
-  &nbsp;&nbsp;1) Death certificate of the person who has died (the deceased)<br>
-  &nbsp;&nbsp;2) Birth certificate of the deceased<br>
-  &nbsp;&nbsp;3) Marriage certificate of the deceased<br>
-  &nbsp;&nbsp;4) Decree nisi absolute (if the deceased was divorced)<br>
-  &nbsp;&nbsp;5) Birth certificate of beneficiary<br>
-  &nbsp;&nbsp;6) NRIC of beneficiary<br>
-  &nbsp;&nbsp;7) Death certificate of beneficiary (if the beneficiary has died)<br>
-  &nbsp;&nbsp;8) Marriage certificate of the deceased’s parents<br>
-  &nbsp;&nbsp;9) Death certificate of parents (if they have died)<br>
-  &nbsp;&nbsp;10) Certificate of inheritance (for Muslims only)<br><br>
+  &nbsp;&nbsp;&nbsp;1) Death certificate of the person who has died (the deceased)<br>
+  &nbsp;&nbsp;&nbsp;2) Birth certificate of the deceased<br>
+  &nbsp;&nbsp;&nbsp;3) Marriage certificate of the deceased<br>
+  &nbsp;&nbsp;&nbsp;4) Decree nisi absolute (if the deceased was divorced)<br>
+  &nbsp;&nbsp;&nbsp;5) Birth certificate of beneficiary<br>
+  &nbsp;&nbsp;&nbsp;6) NRIC of beneficiary<br>
+  &nbsp;&nbsp;&nbsp;7) Death certificate of beneficiary (if the beneficiary has died)<br>
+  &nbsp;&nbsp;&nbsp;8) Marriage certificate of the deceased’s parents<br>
+  &nbsp;&nbsp;&nbsp;9) Death certificate of parents (if they have died)<br>
+  &nbsp;&nbsp;&nbsp;10) Certificate of inheritance (for Muslims only)<br><br>
   
-If the person who has died was a Muslim, you will need to apply for the Certificate of inheritance at <a href = "https://www.syariahcourt.gov.sg/Syariah/front-end/Home.aspx" target= "_blank">www.syariahcourt.gov.sg</a>.<br><br>
+If the person who has died was a Muslim, you will need to apply for the Certificate of inheritance at <a href = "https://www.syariahcourt.gov.sg" target= "_blank">www.syariahcourt.gov.sg</a>.<br><br>
 
 You will be assigned a case officer after you have filed your online application. Please inform your case officer if you do not possess some of the required documents. Your case officer will advise you on what to do after you have submitted your online application.<br><br>
 
@@ -47,18 +47,8 @@ Please indicate the case reference number and NRIC of the deceased on your suppo
 
 <b>4.	What are the fees charged by the Public Trustee for the administration of Baby Bonus / Edusave / PSEA / CDA money?</b><br><br>
 The fees we charge for dealing with Baby Bonus / Edusave / PSEA / CDA money are shown below:</font><br><br>
-<style>
-table, th, td {
- border: 1px solid black;
- border-collapse: separate;
-}
-th, td {
-  padding: 5px;
-  text-align: left;
-}
-</style>
 
-<table style="width:40%">
+<table>
   <tr>
    <th>Amount of Baby Bonus / Edusave / PSEA / CDA money</th>
    <th>Charge</th>
@@ -83,7 +73,7 @@ th, td {
     <td>For amounts in excess of $500,000</td>
     <td>0.300%</td>
   </tr>
-</table><br>
+</table><br><br>
 
 <font size="4">These fees, which we will take from the Baby Bonus / Edusave / PSEA / CDA money, include GST and cannot be waived. You will have to pay a minimum fee of $15.<br><br>
 
@@ -98,19 +88,8 @@ If the person who died was domiciled in Singapore at the time of their death, we
 <b>6.	What are the Rules of Distribution under the Intestate Succession Act (Cap. 146)?</b><br><br>
 Kindly note that these Rules of Distribution apply only to a non-Muslim Deceased domiciled in Singapore.</font><br><br>
 
-<style>
-table, th, td {
- border: 1px solid black;
- border-collapse: separate;
-}
-th, td {
-  padding: 5px;
-  text-align: left;
-}
-</style>
-
-<table style="width:70%">
-  <caption>Rules of Distribution (Non-Muslims)</caption>
+<table>
+  <th colspan="2">Rules of Distribution (Non-Muslims)</th>
   <tr>
     <th><b>Deceased Die<br>
       Intestate Leaving</b></th>
@@ -201,7 +180,7 @@ th, td {
       Whole share to be shared equally among surviving uncles and aunts.
     </td>
   </tr>
-</table>
+</table><hr><br>
 
 * Spouse refers to husband or wife.<br>
 * Issue means a child (legitimate or legally adopted) and the descendants of a deceased’s child. Illegitimate children and transferred children are NOT entitled under the Intestacy Rules.<br><br>
