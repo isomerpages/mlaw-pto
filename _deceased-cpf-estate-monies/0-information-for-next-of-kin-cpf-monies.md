@@ -26,11 +26,11 @@ You will need to have your Singpass ready in order to access our online applicat
 If you are ineligible to apply for a Singpass, you may apply for a login ID and password through our website: [https://eservices.mlaw.gov.sg/pto/welcome.xhtml](https://eservices.mlaw.gov.sg/pto/welcome.xhtml).<br>
 
 **3.	What are the documents that need to be submitted?**<br>
-Annexes A (for Muslims) and B (for non-Muslims) set out the list of documents we need.
+<a href = "/files/AnnexA_Muslims_Feb2020.pdf" target = "_blank">Annex A</a> (for Muslims) and <a href = "/files/AnnexB_Non-Muslims_ListofRequiredDocuments_Feb2020.pdf" target = "_blank">Annex B</a> (for non-Muslims) set out the list of documents we need. 
 
-For a reimbursement of funeral expenses, Annex C sets out the list of documents we need.
+For a reimbursement of funeral expenses, <a href = "/files/AnnexC_Funeral_Feb2020.pdf" target = "_blank">Annex C</a> sets out the list of documents we need.
 
-You may pick up a copy of Annexes A, B and C from our office or view them from our website under Deceased CPF / Estate Monies > Forms.
+You may pick up a copy of the Annexes from our office or view them from our website under <a href = "https://pto.mlaw.gov.sg/deceased-cpf-estate-monies/forms/" target = "_blank">Deceased CPF / Estate Monies > Forms</a>.
 
 Common types of documents we need are shown below.
 
@@ -45,13 +45,13 @@ Common types of documents we need are shown below.
   9) Death certificate of parents (if they have died)<br>
   10) Certificate of inheritance (for Muslims only)<br>
   
-If the person who has died was a Muslim, you will need to apply for the Certificate of inheritance at [www.syariahcourt.gov.sg](https://www.syariahcourt.gov.sg/Syariah/front-end/Home.aspx).
+If the person who has died was a Muslim, you will need to apply for the Certificate of inheritance at [www.syariahcourt.gov.sg](https://www.syariahcourt.gov.sg){:target="_blank"}.
 
 
 You will be assigned a case officer after you have filed your online application. Please inform your case officer if you do not possess some of the required documents. Your case officer will advise you on what to do after you have submitted your online application.<br>
 
 **4.	Whom do I submit the documents to?**<br>
-You may attach the required documents in your online submission, send via [e-services](https://eservices.mlaw.gov.sg/pto/welcome.xhtml) or post to us at the following address:
+You may attach the required documents in your online submission, send via [e-services](https://eservices.mlaw.gov.sg/pto/welcome.xhtml){:target="_blank"} or post to us at the following address:
 
 Public Trustee’s Office<br>
 The URA Centre (East Wing)<br>
@@ -93,7 +93,7 @@ The fees we charge for dealing with CPF money are shown below:
 These fees, which we will take from the CPF money, include GST and cannot be waived. You will have to pay a minimum fee of $15.<br>
 
 **6.	How would the Public Trustee distribute the CPF money of a non-Muslim?**<br>
-If the person who died was not a Muslim, we will distribute the CPF money in line with the Intestate Succession Act. The Act states that the movable property (for example, money in a bank account) will be distributed according to the law of the country in which the person was domiciled at the time of his death. (When we refer to where the person was domiciled, we mean where they intended their permanent home to be. It does not refer to their nationality or address.)
+If the person who died was not a Muslim, we will distribute the CPF money in line with the Intestate Succession Act. The Act states that the movable property (for example, money in a bank account) will be distributed according to the law of the country in which the person was domiciled at the time of his death. 
 
 If the person who died was domiciled in Singapore at the time of their death, we will distribute the CPF money in line with the rules of distribution in the Intestate Succession Act.
 
@@ -229,21 +229,20 @@ b. Child of Deceased – Birth Certificate of Child and Marriage Certificate of 
 c. Parent of Deceased – Birth Certificate of Deceased and Marriage Certificate of Parents<br>
 d. Sibling of Deceased – Birth Certificate of Deceased and Birth Certificate of Sibling<br>
 
-4) Original “Declaration Form (CPF monies) for funeral expenses” (Please return completed form by Post. Scanned and Faxed Copies are NOT allowed). You may obtain a softcopy of the “Declaration Form (CPF monies) for funeral expenses” at [pto.mlaw.gov.sg](/) > Deceased CPF / Estate monies > Forms.
+4) <a href = "/Declarationform(CPFMonies)forfuneralexpenses(Form12).pdf" target = "_blank">Declaration Form (CPF monies) for funeral expenses. You may obtain a softcopy of the Form at <a href = "https://pto.mlaw.gov.sg/deceased-cpf-estate-monies/forms/" target = "_blank">Deceased CPF / Estate Monies > Forms</a>.
 
-5) Front Page of Bank Passbook or Bank Statement indicating account number (For GIRO payment)
+5) Front Page of Bank Passbook or Bank Statement indicating account number (for GIRO payment)
 
-6) Relevant receipts incurred for Funeral Expenses (Not compulsory)
+6) Relevant receipts incurred for funeral expenses (not compulsory)
 
-Please indicate the case reference number and NRIC of the deceased on your supporting documents. This case reference number is shown after you click the submit button of your online application.
-
-You may post the original hardcopy of the “Declaration Form (CPF monies) for funeral expenses” to the following address:  
-
+You may attach the required documents in your online submission, submit via <a href = "https://eservices.mlaw.gov.sg/pto/welcome.xhtml" target = "_blank">e-services</a> or post to us at the following address:
 
 Public Trustee’s Office<br>
 The URA Centre (East Wing)<br>
 45 Maxwell Road, #07-11<br>
 Singapore 069118<br>
+
+For documents send via post, please indicate the case reference number and NRIC of the deceased on your supporting documents. 
 
 **10.	When will the CPF money be paid to me?**<br>
 As a general rule, we will distribute the money within 4 weeks from the date of receipt of the full set of documentation from the beneficiaries.<br>
@@ -256,7 +255,7 @@ If CPF money was nominated in favour of a person ( “the nominee”) who has pa
 
 If the deceased nominee’s estate does not qualify for administration by the Public Trustee, you will need to apply to court for Letters of Administration or Grant of Probate to deal with the nominee’s estate, including the CPF money payable to the nominee. If you qualify for legal aid, you may apply to the Legal Aid Bureau for help in getting Letters of Administration. If you do not qualify for legal aid, you will need to hire a lawyer. Where the Public Trustee does not act for the deceased nominee’s estate, the CPF money payable to the nominee will be paid to the administrator of their estate or the executor of their will.
 
-Please refer to our online FAQ under “Information for Next-of-Kin (Estate Monies)” on the situations where the Public Trustee would be able to assist to administer an estate, and on how to make an online application to the Public Trustee for the administration of a deceased estate.<br>
+Please refer to our online FAQ under <a href = “https://pto.mlaw.gov.sg/deceased-cpf-estate-monies/information-for-next-of-kin-estate-monies" target = "_blank">Information for Next-of-Kin (Estate Monies)</a> on the situations where the Public Trustee would be able to assist to administer an estate, and on how to make an online application to the Public Trustee for the administration of a deceased estate.<br>
 
 **2. What fees do you charge for holding nominated CPF money in trust for a minor?**<br>
 The fees we charge for holding nominated CPF money in trust for a minor are shown below.
