@@ -160,8 +160,8 @@ Kindly note that these Rules of Distribution apply only to a non-Muslim Deceased
   </tr>
 </table>
 
-<font size="3">*<b> Spouse</b> refers to husband or wife.<br>
-* <b>Issue</b>Issue means a child (legitimate or legally adopted) and the descendants of a deceased’s child. Illegitimate children and transferred children are NOT entitled under the Intestacy Rules.</font>
+<br><font size="3">*<b> Spouse</b> refers to husband or wife.<br>
+* <b>Issue</b> means a child (legitimate or legally adopted) and the descendants of a deceased’s child. Illegitimate children and transferred children are NOT entitled under the Intestacy Rules.</font>
 
 **7. How would the Public Trustee distribute the estate of a Muslim?**<br>
 If the person who died was a Muslim, we will distribute the estate in line with Section 112 of the Administration of Muslim Law Act according to the school of the Muslim law the person observed.
@@ -234,21 +234,21 @@ Both beneficiaries and non-beneficiaries are eligible to claim a reimbursement o
 
 You will also have to submit the following supporting documents to us:
 
-1) NRIC/Passport/Social Security Card (for US Nationals)/Election Card (for Indian Nationals) of Claimant and Applicant who submitted the Online Application Form
+a) NRIC/Passport/Social Security Card (for US Nationals)/Election Card (for Indian Nationals) of Claimant and Applicant who submitted the Online Application Form
 
-2) Death Certificate of Deceased
+b) Death Certificate of Deceased
 
-3) If Claimant is:<br>
-&nbsp;&nbsp;&nbsp;a. Spouse of Deceased – Marriage Certificate<br>
-&nbsp;&nbsp;&nbsp;b. Child of Deceased – Birth Certificate of Child and Marriage Certificate of Parents<br>
-&nbsp;&nbsp;&nbsp;c. Parent of Deceased – Birth Certificate of Deceased and Marriage Certificate of Parents<br>
-&nbsp;&nbsp;&nbsp;d. Sibling of Deceased – Birth Certificate of Deceased and Birth Certificate of Sibling<br>
+c) If Claimant is:<br>
+&nbsp;&nbsp;&nbsp;i. Spouse of Deceased – Marriage Certificate<br>
+&nbsp;&nbsp;&nbsp;ii. Child of Deceased – Birth Certificate of Child and Marriage Certificate of Parents<br>
+&nbsp;&nbsp;&nbsp;iii. Parent of Deceased – Birth Certificate of Deceased and Marriage Certificate of Parents<br>
+&nbsp;&nbsp;&nbsp;iv. Sibling of Deceased – Birth Certificate of Deceased and Birth Certificate of Sibling<br>
 
-4) <a href = "/Declarationform(CPFMonies)forfuneralexpenses(Form12).pdf" target = "_blank">Declaration Form (CPF monies) for funeral expenses</a>. You may obtain a softcopy of the Form at <a href = "https://pto.mlaw.gov.sg/deceased-cpf-estate-monies/forms/" target = "_blank">Deceased CPF / Estate Monies > Forms</a>.
+d) <a href = "/Declarationform(CPFMonies)forfuneralexpenses(Form12).pdf" target = "_blank">Declaration Form (CPF monies) for funeral expenses</a>. You may obtain a softcopy of the Form at <a href = "https://pto.mlaw.gov.sg/deceased-cpf-estate-monies/forms/" target = "_blank">Deceased CPF / Estate Monies > Forms</a>.
 
-5) Front page of the bank passbook or bank statement. For a payment to a joint or third party bank account, both you and the account holder(s) must execute the indemnity form (Form 15) which is available at our website. For the other non-electronic modes of payment, you will bear all the charges imposed by the bank(s) which will be deducted directly from the inheritance.
+e) Front page of the bank passbook or bank statement. For a payment to a joint or third party bank account, both you and the account holder(s) must execute the indemnity form (Form 15) which is available at our website. For the other non-electronic modes of payment, you will bear all the charges imposed by the bank(s) which will be deducted directly from the inheritance.
 
-6) Receipts incurred for Funeral Expenses (Compulsory for Non-Beneficiary Claimant)
+f) Receipts incurred for Funeral Expenses (Compulsory for Non-Beneficiary Claimant)
 
 You may attach the required documents in your online submission, send via [e-services](https://eservices.mlaw.gov.sg/pto/welcome.xhtml){:target="_blank"} or post to us at the following address:
 
