@@ -159,9 +159,9 @@ Kindly note that these Rules of Distribution apply only to a non-Muslim Deceased
     <td>Whole share to be shared equally among surviving uncles and aunts.</td>
   </tr>
 </table>
-<br>
+
 <font size="3">*<b> Spouse</b> refers to husband or wife.<br>
-* <b>Issue</b>Issue means a child (legitimate or legally adopted) and the descendants of a deceased’s child. Illegitimate children and transferred children are NOT entitled under the Intestacy Rules.</font><br>
+* <b>Issue</b>Issue means a child (legitimate or legally adopted) and the descendants of a deceased’s child. Illegitimate children and transferred children are NOT entitled under the Intestacy Rules.</font>
 
 **7. How would the Public Trustee distribute the estate of a Muslim?**<br>
 If the person who died was a Muslim, we will distribute the estate in line with Section 112 of the Administration of Muslim Law Act according to the school of the Muslim law the person observed.
@@ -265,7 +265,7 @@ As a general rule, we will distribute the money within 4 weeks from the date of 
 **12. Can I get the Public Trustee’s assistance in resealing in Singapore, Letters of Administration / Grant of Probate that was obtained overseas?**<br>
 The Public Trustee does not assist in resealing in the Singapore Courts, Letters of Administration or Grants of Probate that were obtained overseas. You will have to engage a Singapore lawyer to do this.
 
-<a href = "https://eservices.mlaw.gov.sg/lsra/lsra-home" target = "_blank">LSRA</a> has an integrated online search function which lists all registered law practices (foreign or local), Singapore solicitors, foreign lawyers, and regulated non-practitioners. At present, you can search by name, practice area, and the type of law practice. We are working on further enhancements to the search function.
+<a href = "https://eservices.mlaw.gov.sg/lsra/search-lawyer-or-law-firm/" target = "_blank">LSRA</a> has an integrated online search function which lists all registered law practices (foreign or local), Singapore solicitors, foreign lawyers, and regulated non-practitioners. At present, you can search by name, practice area, and the type of law practice. We are working on further enhancements to the search function.
 
 Please note that the search results are based on information provided by law practices and lawyers. The Ministry of Law does not make any warranty or representation as to their accuracy, completeness or reliability. <br>
 
