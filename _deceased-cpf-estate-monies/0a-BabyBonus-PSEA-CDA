@@ -16,7 +16,7 @@ You will need to have your Singpass ready in order to access our online applicat
 If you are ineligible to apply for a Singpass, you may apply for a login ID and password through our website: <a href = "https://eservices.mlaw.gov.sg/pto/welcome.xhtml" target = "_blank">https://eservices.mlaw.gov.sg/pto/welcome.xhtml</a>.<br><br>
 
 <b>2.	What are the documents that need to be submitted?</b><br><br>
-<a href = "/files/AnnexA_Muslims_Feb2020.pdf" target = "_blank">Annex A</a> (for Muslims) and <a href = "/files/AnnexB_Non-Muslims_ListofRequiredDocuments_Feb2020.pdf" target = "_blank">B</a> (for non-Muslims) set out the list of documents we need. You may pick up a copy of the Annexes from our office or view them from our website under <a href = "https://pto.mlaw.gov.sg/deceased-cpf-estate-monies/forms/" target = "_blank">Deceased CPF / Estate Monies > Forms</a>.<br><br>
+<a href = "/files/AnnexA_Muslims_Feb2020.pdf" target = "_blank">Annex A</a> (for Muslims) and <a href = "/files/AnnexB_Non-Muslims_ListofRequiredDocuments_Feb2020.pdf" target = "_blank">Annex B</a> (for non-Muslims) set out the list of documents we need. You may pick up a copy of the Annexes from our office or view them from our website under <a href = "https://pto.mlaw.gov.sg/deceased-cpf-estate-monies/forms/" target = "_blank">Deceased CPF / Estate Monies > Forms</a>.<br><br>
 
 Common types of documents we need are shown below:<br><br>
 
@@ -31,7 +31,7 @@ Common types of documents we need are shown below:<br><br>
   &nbsp;&nbsp;9) Death certificate of parents (if they have died)<br>
   &nbsp;&nbsp;10) Certificate of inheritance (for Muslims only)<br><br>
   
-If the person who has died was a Muslim, you will need to apply for the Certificate of inheritance at <a href = "https://www.syariahcourt.gov.sg/Syariah/front-end/Home.aspx" target= "_blank">]www.syariahcourt.gov.sg</a>.<br><br>
+If the person who has died was a Muslim, you will need to apply for the Certificate of inheritance at <a href = "https://www.syariahcourt.gov.sg/Syariah/front-end/Home.aspx" target= "_blank">www.syariahcourt.gov.sg</a>.<br><br>
 
 You will be assigned a case officer after you have filed your online application. Please inform your case officer if you do not possess some of the required documents. Your case officer will advise you on what to do after you have submitted your online application.<br><br>
 
@@ -50,7 +50,7 @@ The fees we charge for dealing with Baby Bonus / Edusave / PSEA / CDA money are 
 <style>
 table, th, td {
  border: 1px solid black;
- border-collapse: collapse;
+ border-collapse: separate;
 }
 th, td {
   padding: 5px;
@@ -83,7 +83,7 @@ th, td {
     <td>For amounts in excess of $500,000</td>
     <td>0.300%</td>
   </tr>
-</table><br><br>
+</table><br>
 
 <font size="4">These fees, which we will take from the Baby Bonus / Edusave / PSEA / CDA money, include GST and cannot be waived. You will have to pay a minimum fee of $15.<br><br>
 
@@ -101,7 +101,7 @@ Kindly note that these Rules of Distribution apply only to a non-Muslim Deceased
 <style>
 table, th, td {
  border: 1px solid black;
- border-collapse: collapse;
+ border-collapse: separate;
 }
 th, td {
   padding: 5px;
@@ -201,7 +201,7 @@ th, td {
       Whole share to be shared equally among surviving uncles and aunts.
     </td>
   </tr>
-</table><br><br>
+</table>
 
 * Spouse refers to husband or wife.<br>
 * Issue means a child (legitimate or legally adopted) and the descendants of a deceased’s child. Illegitimate children and transferred children are NOT entitled under the Intestacy Rules.<br><br>
@@ -211,5 +211,5 @@ th, td {
 If the person who died was a Muslim, we will distribute the money in line with Section 112 of the Administration of Muslim Law Act according to the school of the Muslim law they observed.<br><br>
 
 The Certificate of Inheritance issued by Syariah Court will list down the beneficiaries and their share of inheritance.</font><br>
-<br><br><br>
+<br><br>
 <b>With effect from 5 Mar 2018, all payments will be made electronically.</b>
