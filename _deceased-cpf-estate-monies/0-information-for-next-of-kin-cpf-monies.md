@@ -201,7 +201,7 @@ Kindly note that these Rules of Distribution apply only to a non-Muslim Deceased
   </tr>
 </table>
 
-\<font size="2">* <b>Spouse</b> refers to husband or wife.<br>
+\* <font size="2"><b>Spouse</b> refers to husband or wife.<br>
 \* <b>Issue</b> means a child (legitimate or legally adopted) and the descendants of a deceased’s child. Illegitimate children and transferred children are NOT entitled under the Intestacy Rules.</font><br>
 
 
@@ -219,21 +219,21 @@ Only a beneficiary is eligible to claim a reimbursement of funeral expenses from
 
 You will also have to submit the following supporting documents to us:
 
-1) NRIC/Passport/Social Security Card (for US Nationals)/Election Card (for Indian Nationals) of Claimant and Applicant who submitted the Online Application Form 
+a) NRIC/Passport/Social Security Card (for US Nationals)/Election Card (for Indian Nationals) of Claimant and Applicant who submitted the Online Application Form 
 
-2) Death Certificate of Deceased
+b) Death Certificate of Deceased
 
-3) If Claimant is:<br>
-&nbsp;&nbsp;&nbsp;a. Spouse of Deceased – Marriage Certificate<br>
-&nbsp;&nbsp;&nbsp;b. Child of Deceased – Birth Certificate of Child and Marriage Certificate of Parents<br>
-&nbsp;&nbsp;&nbsp;c. Parent of Deceased – Birth Certificate of Deceased and Marriage Certificate of Parents<br>
-&nbsp;&nbsp;&nbsp;d. Sibling of Deceased – Birth Certificate of Deceased and Birth Certificate of Sibling<br>
+c) If Claimant is:<br>
+&nbsp;&nbsp;&nbsp;i. Spouse of Deceased – Marriage Certificate<br>
+&nbsp;&nbsp;&nbsp;ii. Child of Deceased – Birth Certificate of Child and Marriage Certificate of Parents<br>
+&nbsp;&nbsp;&nbsp;iii. Parent of Deceased – Birth Certificate of Deceased and Marriage Certificate of Parents<br>
+&nbsp;&nbsp;&nbsp;iv. Sibling of Deceased – Birth Certificate of Deceased and Birth Certificate of Sibling<br>
 
-4) <a href = "/Declarationform(CPFMonies)forfuneralexpenses(Form12).pdf" target = "_blank">Declaration Form (CPF monies) for funeral expenses</a>. You may obtain a softcopy of the Form at <a href = "https://pto.mlaw.gov.sg/deceased-cpf-estate-monies/forms/" target = "_blank">Deceased CPF / Estate Monies > Forms</a>.
+d) <a href = "/Declarationform(CPFMonies)forfuneralexpenses(Form12).pdf" target = "_blank">Declaration Form (CPF monies) for funeral expenses</a>. You may obtain a softcopy of the Form at <a href = "https://pto.mlaw.gov.sg/deceased-cpf-estate-monies/forms/" target = "_blank">Deceased CPF / Estate Monies > Forms</a>.
 
-5) Front Page of Bank Passbook or Bank Statement indicating account number (for GIRO payment)
+e) Front Page of Bank Passbook or Bank Statement indicating account number (for GIRO payment)
 
-6) Relevant receipts incurred for funeral expenses (not compulsory)
+f) Relevant receipts incurred for funeral expenses (not compulsory)
 
 
 **10.	When will the CPF money be paid to me?**<br>
@@ -247,7 +247,7 @@ If CPF money was nominated in favour of a person ( “the nominee”) who has pa
 
 If the deceased nominee’s estate does not qualify for administration by the Public Trustee, you will need to apply to court for Letters of Administration or Grant of Probate to deal with the nominee’s estate, including the CPF money payable to the nominee. If you qualify for legal aid, you may apply to the Legal Aid Bureau for help in getting Letters of Administration. If you do not qualify for legal aid, you will need to hire a lawyer. Where the Public Trustee does not act for the deceased nominee’s estate, the CPF money payable to the nominee will be paid to the administrator of their estate or the executor of their will.
 
-Please refer to our online FAQ under <a href = “https://pto.mlaw.gov.sg/deceased-cpf-estate-monies/information-for-next-of-kin-estate-monies/" target = "_blank">Information for Next-of-Kin (Estate Monies)</a> on the situations where the Public Trustee would be able to assist to administer an estate, and on how to make an online application to the Public Trustee for the administration of a deceased estate.<br>
+Please refer to our online FAQ under <a href = "https://pto.mlaw.gov.sg/deceased-cpf-estate-monies/information-for-next-of-kin-estate-monies/" target = "_blank">Information for Next-of-Kin (Estate Monies)</a> on the situations where the Public Trustee would be able to assist to administer an estate, and on how to make an online application to the Public Trustee for the administration of a deceased estate.<br>
 
 **2. What fees do you charge for holding nominated CPF money in trust for a minor?**<br>
 The fees we charge for holding nominated CPF money in trust for a minor are shown below.
