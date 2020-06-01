@@ -61,7 +61,7 @@ Kindly note that these Rules of Distribution apply only to a non-Muslim Deceased
 
 <style>
   table, th, td {
-  border: 1px solid black;
+  border: 1px solid black; cellspacing = "2"
 }
   </style>
   <table>
@@ -246,10 +246,10 @@ b) Death Certificate of Deceased
 
 c) If Claimant is:
 <ul>
-  &nbsp;&nbsp;&nbsp;<li>Spouse of Deceased – Marriage Certificate</li>
-&nbsp;&nbsp;&nbsp;<li>Child of Deceased – Birth Certificate of Child and Marriage Certificate of Parents</li>
-&nbsp;&nbsp;&nbsp;<li>Parent of Deceased – Birth Certificate of Deceased and Marriage Certificate of Parents</li>
-&nbsp;&nbsp;&nbsp;<li>Sibling of Deceased – Birth Certificate of Deceased and Birth Certificate of Sibling</li>
+  <li>Spouse of Deceased – Marriage Certificate</li>
+  <li>Child of Deceased – Birth Certificate of Child and Marriage Certificate of Parents</li>
+  <li>Parent of Deceased – Birth Certificate of Deceased and Marriage Certificate of Parents</li>
+  <li>Sibling of Deceased – Birth Certificate of Deceased and Birth Certificate of Sibling</li>
 </ul>
 d) <a href = "/Declarationform(CPFMonies)forfuneralexpenses(Form12).pdf" target = "_blank">Declaration Form (CPF monies) for funeral expenses</a>.
 
