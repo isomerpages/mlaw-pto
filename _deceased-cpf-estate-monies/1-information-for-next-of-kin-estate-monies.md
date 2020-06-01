@@ -59,96 +59,97 @@ If the person who died was domiciled in Singapore at the time of their death, we
 **6. What are the Rules of Distribution under the Intestate Succession Act (Cap. 146)?**<br>
 Kindly note that these Rules of Distribution apply only to a non-Muslim Deceased domiciled in Singapore.
 
-<table style="border:1px solid black;>
+<table>
     <tr>
     <th colspan="2">Rules of Distribution (Non-Muslims)</th>
   </tr>
+  <table style="border:1px solid black;>
   <tr>
     <td style="border:1px solid black>
       <b>Deceased Die</b><br>
       <b>Intestate Leaving</b>
     </td>
-    <td="border:1px solid black>
+    <td style="border:1px solid black>
       <b>Distribution</b>
     </td>
   </tr>
   <tr>
-    <td="border:1px solid black>
+    <td style="border:1px solid black>
       <b>Spouse</b><br>
       No Issue<br>
       No Parent
     </td>
-    <td="border:1px solid black>
+    <td style="border:1px solid black>
       Whole share to surviving spouse
     </td>
   </tr>
   <tr>
-    <td="border:1px solid black>
+    <td style="border:1px solid black>
       <b>Spouse</b><br>
       <b>Issue</b>
     </td>
-    <td="border:1px solid black>
+    <td style="border:1px solid black>
       ½ share to surviving spouse.<br>
       ½ share to be shared equally among issue and, where they have already died, their children.<br>
       Parents are not entitled.
     </td>
   </tr>
   <tr>
-    <td="border:1px solid black>
+    <td style="border:1px solid black>
       <b>Issue</b><br>
       No Spouse
     </td>
-    <td="border:1px solid black>
+    <td style="border:1px solid black>
       Whole share to be shared equally among issue and, where they have already died, their children.<br>
       Parents are not entitled.
     </td>
   </tr>
   <tr>
-    <td="border:1px solid black>
+    <td style="border:1px solid black>
       <b>Spouse</b><br>
         <b>Parent</b><br>
       No Issue
     </td>
-    <td="border:1px solid black>
+    <td style="border:1px solid black>
       ½ share to surviving spouse.<br>
       ½ share to be shared equally among surviving parents.
     </td>
   </tr>
   <tr>
-    <td="border:1px solid black>
+    <td style="border:1px solid black>
       <b>Parents</b><br>
       No Spouse<br>
       No Issue
     </td>
-    <td="border:1px solid black>
+    <td style="border:1px solid black>
       Whole share to be shaved equally among surviving parents.
     </td>
   </tr>
   <tr>
-    <td="border:1px solid black>
+    <td style="border:1px solid black>
       <b>Siblings</b><br>
       No Spouse<br>
       No Issue<br>
       No Parents
     </td>
-    <td="border:1px solid black>
+    <td style="border:1px solid black>
       Whole share to be shared equally among deceased’s siblings and, where they have already died, their children.
     </td>
   </tr>
   <tr>
-    <td="border:1px solid black>
+    <td style="border:1px solid black>
       <b>Grandparents</b><br>
       No Spouse<br>
       No Issue<br>
       No Parents<br>
       No Siblings and their children
     </td>
-    <td="border:1px solid black>
+    <td style="border:1px solid black>
       Whole share to be shared equally among surviving grandparents.
     </td>
   </tr>
   <tr>
-    <td="border:1px solid black>
+    <td style="border:1px solid black>
       <b>Uncles and Aunts</b><br>
       No Spouse<br>
       No Issue<br>
@@ -156,7 +157,7 @@ Kindly note that these Rules of Distribution apply only to a non-Muslim Deceased
       No Siblings and their children<br>
       No Grandparents
     </td>
-    <td="border:1px solid black>Whole share to be shared equally among surviving uncles and aunts.</td>
+    <td style="border:1px solid black>Whole share to be shared equally among surviving uncles and aunts.</td>
   </tr>
 </table>
 
