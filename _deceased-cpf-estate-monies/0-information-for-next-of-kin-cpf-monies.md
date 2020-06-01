@@ -1,12 +1,12 @@
 ---
 layout: leftnav-page-content
-title: CPF Monies
+title: CPF Money
 permalink: /deceased-cpf-estate-monies/information-for-next-of-kin-cpf-monies/
-breadcrumb: CPF Monies
+breadcrumb: CPF Money
 collection_name: deceased-cpf-estate-monies
 ---
 
-CPF Monies
+CPF Money
 ---
 
 **1.	How do I know if my loved one has any CPF money and if they had made a valid nomination?**<br> 
@@ -60,12 +60,12 @@ Singapore 069118
 
 Please indicate the case reference number and NRIC of the deceased on your supporting documents. This case reference number is shown after you click the submit button of your online application.
 
-**5.	What are the fees charged by the Public Trustee for the administration of un-nominated CPF monies?**<br>
+**5.	What are the fees charged by the Public Trustee for the administration of un-nominated CPF money?**<br>
 The fees we charge for dealing with CPF money are shown below:
 
 <table>
   <tr>
-   <th>Amount of CPF Monies</th>
+   <th>Amount of CPF Money</th>
    <th>Charge</th>
   </tr>
   <tr>
@@ -199,10 +199,7 @@ Kindly note that these Rules of Distribution apply only to a non-Muslim Deceased
       Whole share to be shared equally among surviving uncles and aunts.
     </td>
   </tr>
-</table>
-
-
-<font size="3">*<b>Spouse</b> refers to husband or wife.<br>
+</table><br><font size="3">*<b>Spouse</b> refers to husband or wife.<br>
 *<b>Issue</b> means a child (legitimate or legally adopted) and the descendants of a deceased’s child. Illegitimate children and transferred children are NOT entitled under the Intestacy Rules.</font>
 
 **8.	How would the Public Trustee distribute the CPF money of a Muslim?**<br>
@@ -211,11 +208,11 @@ If the person who died was a Muslim, we will distribute the money in line with S
 The Certificate of Inheritance issued by Syariah Court will list down the beneficiaries and their share of inheritance.<br>
 
 **9.	How can I claim a reimbursement of funeral expenses out of the Deceased’s CPF money?**<br>
-You can indicate the amount of funeral expenses which you would like to claim from the Deceased’s un-nominated CPF monies in the online application form. 
+You can indicate the amount of funeral expenses which you would like to claim from the Deceased’s un-nominated CPF money in the online application form. 
 
 Please note that the maximum amount of funeral reimbursement claim allowable for a Deceased is $6,000.
 
-Only a beneficiary is eligible to claim a reimbursement of funeral expenses from the Deceased’s un-nominated CPF monies. 
+Only a beneficiary is eligible to claim a reimbursement of funeral expenses from the Deceased’s un-nominated CPF money. 
 
 You will also have to submit the following supporting documents to us:
 
@@ -239,7 +236,7 @@ f) Relevant receipts incurred for funeral expenses (not compulsory)
 **10.	When will the CPF money be paid to me?**<br>
 As a general rule, we will distribute the money within 4 weeks from the date of receipt of the full set of documentation from the beneficiaries.<br>
 
-Nominated CPF Monies
+Nominated CPF Money
 ---
 
 **1. The deceased had nominated his CPF money to a person (i.e. nominee) who has passed on. What should I do?**<br>
@@ -247,7 +244,7 @@ If CPF money was nominated in favour of a person ( “the nominee”) who has pa
 
 If the deceased nominee’s estate does not qualify for administration by the Public Trustee, you will need to apply to court for Letters of Administration or Grant of Probate to deal with the nominee’s estate, including the CPF money payable to the nominee. If you qualify for legal aid, you may apply to the Legal Aid Bureau for help in getting Letters of Administration. If you do not qualify for legal aid, you will need to hire a lawyer. Where the Public Trustee does not act for the deceased nominee’s estate, the CPF money payable to the nominee will be paid to the administrator of their estate or the executor of their will.
 
-Please refer to our online FAQ under <a href = "https://pto.mlaw.gov.sg/deceased-cpf-estate-monies/information-for-next-of-kin-estate-monies/" target = "_blank">Information for Next-of-Kin (Estate Monies)</a> on the situations where the Public Trustee would be able to assist to administer an estate, and on how to make an online application to the Public Trustee for the administration of a deceased estate.<br>
+Please refer to our online FAQ under <a href = "https://pto.mlaw.gov.sg/deceased-cpf-estate-monies/information-for-next-of-kin-estate-monies/" target = "_blank">Estate (Other Assets)</a> on the situations where the Public Trustee would be able to assist to administer an estate, and on how to make an online application to the Public Trustee for the administration of a deceased estate.<br>
 
 **2. What fees do you charge for holding nominated CPF money in trust for a minor?**<br>
 The fees we charge for holding nominated CPF money in trust for a minor are shown below.
