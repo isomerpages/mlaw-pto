@@ -200,8 +200,8 @@ Kindly note that these Rules of Distribution apply only to a non-Muslim Deceased
   </tr>
 </table>
 
-<p><font size="3">*<b>Spouse</b> refers to husband or wife.<br>
-*<b>Issue</b> means a child (legitimate or legally adopted) and the descendants of a deceased’s child. Illegitimate children and transferred children are NOT entitled under the Intestacy Rules.</font></p>
+<p><font size="2"><i>*<b>Spouse</b> refers to husband or wife.<br>
+*<b>Issue</b> means a child (legitimate or legally adopted) and the descendants of a deceased’s child. Illegitimate children and transferred children are NOT entitled under the Intestacy Rules.</font></i></p>
 
 **8.	How would the Public Trustee distribute the CPF money of a Muslim?**<br>
 If the person who died was a Muslim, we will distribute the money in line with Section 112 of the Administration of Muslim Law Act according to the school of the Muslim law they observed.
