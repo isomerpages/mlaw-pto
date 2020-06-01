@@ -33,18 +33,18 @@ For a reimbursement of funeral expenses, <a href = "/files/AnnexC_Funeral_Feb202
 You may pick up a copy of the Annexes from our office or view them from our website under <a href = "https://pto.mlaw.gov.sg/deceased-cpf-estate-monies/forms/" target = "_blank">Deceased CPF / Estate Monies > Forms</a>.
 
 Common types of documents we need are shown below.
-
-  1) Death certificate of the person who has died (the deceased)<br>
-  2) Birth certificate of the deceased<br>
-  3) Marriage certificate of the deceased<br>
-  4) Decree nisi absolute (if the deceased was divorced)<br>
-  5) Birth certificate of beneficiary<br>
-  6) NRIC of beneficiary<br>
-  7) Death certificate of beneficiary (if the beneficiary has died)<br>
-  8) Marriage certificate of the deceased’s parents<br>
-  9) Death certificate of parents (if they have died)<br>
-  10) Certificate of inheritance (for Muslims only)<br>
-  
+<ul>
+  <li>Death certificate of the person who has died (the deceased)</li>
+  <li>Birth certificate of the deceased</li>
+  <li>Marriage certificate of the deceased</li>
+  <li>Decree nisi absolute (if the deceased was divorced)</li>
+  <li>Birth certificate of beneficiary</li>
+  <li>NRIC of beneficiary</li>
+  <li>Death certificate of beneficiary (if the beneficiary has died)</li>
+  <li>Marriage certificate of the deceased’s parents</li>
+  <li>Death certificate of parents (if they have died)</li>
+  <li>Certificate of inheritance (for Muslims only)</li>
+  </ul>
 If the person who has died was a Muslim, you will need to apply for the Certificate of inheritance at [www.syariahcourt.gov.sg](https://www.syariahcourt.gov.sg){:target="_blank"}.
 
 
@@ -102,7 +102,7 @@ If the person who died was domiciled in Singapore at the time of their death, we
 
 **7.	What are the Rules of Distribution under the Intestate Succession Act (Cap. 146)?**<br>
 Kindly note that these Rules of Distribution apply only to a non-Muslim Deceased domiciled in Singapore.
-
+<div>
 <table>
   <tr>
     <th colspan="2">Rules of Distribution (Non-Muslims)</th>
@@ -199,7 +199,9 @@ Kindly note that these Rules of Distribution apply only to a non-Muslim Deceased
       Whole share to be shared equally among surviving uncles and aunts.
     </td>
   </tr>
-</table><br><font size="3">*<b>Spouse</b> refers to husband or wife.<br>
+</table>
+</div>
+<font size="3">*<b>Spouse</b> refers to husband or wife.<br>
 *<b>Issue</b> means a child (legitimate or legally adopted) and the descendants of a deceased’s child. Illegitimate children and transferred children are NOT entitled under the Intestacy Rules.</font>
 
 **8.	How would the Public Trustee distribute the CPF money of a Muslim?**<br>
@@ -220,12 +222,13 @@ a) NRIC/Passport/Social Security Card (for US Nationals)/Election Card (for Indi
 
 b) Death Certificate of Deceased
 
-c) If Claimant is:<br>
-&nbsp;&nbsp;&nbsp;i. Spouse of Deceased – Marriage Certificate<br>
-&nbsp;&nbsp;&nbsp;ii. Child of Deceased – Birth Certificate of Child and Marriage Certificate of Parents<br>
-&nbsp;&nbsp;&nbsp;iii. Parent of Deceased – Birth Certificate of Deceased and Marriage Certificate of Parents<br>
-&nbsp;&nbsp;&nbsp;iv. Sibling of Deceased – Birth Certificate of Deceased and Birth Certificate of Sibling<br>
-
+c) If Claimant is:
+<ul>
+<li>Spouse of Deceased – Marriage Certificate</li>
+<li>Child of Deceased – Birth Certificate of Child and Marriage Certificate of Parents</li>
+<li>Parent of Deceased – Birth Certificate of Deceased and Marriage Certificate of Parents</li>
+<li>Sibling of Deceased – Birth Certificate of Deceased and Birth Certificate of Sibling</li>
+</ul>
 d) <a href = "/Declarationform(CPFMonies)forfuneralexpenses(Form12).pdf" target = "_blank">Declaration Form (CPF monies) for funeral expenses</a>.
 
 e) Front Page of Bank Passbook or Bank Statement indicating account number (for GIRO payment)
