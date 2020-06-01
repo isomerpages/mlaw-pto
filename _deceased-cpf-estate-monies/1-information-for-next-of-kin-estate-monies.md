@@ -59,10 +59,12 @@ If the person who died was domiciled in Singapore at the time of their death, we
 **6. What are the Rules of Distribution under the Intestate Succession Act (Cap. 146)?**<br>
 Kindly note that these Rules of Distribution apply only to a non-Muslim Deceased domiciled in Singapore.
 
-<table>
+<style>
   table, th, td {
   border: 1px solid black;
 }
+  </style>
+  <table>
   <tr>
     <th colspan="2">Rules of Distribution (Non-Muslims)</th>
   </tr>
