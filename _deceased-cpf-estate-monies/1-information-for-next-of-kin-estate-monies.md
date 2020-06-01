@@ -66,7 +66,7 @@ Kindly note that these Rules of Distribution apply only to a non-Muslim Deceased
       <b>Deceased Die</b><br>
       <b>Intestate Leaving</b>
     </td>
-    <td style>
+    <td>
       <b>Distribution</b>
     </td>
   </tr>
@@ -219,7 +219,7 @@ The fees we charge for administration of the estate are shown below:
     <td>For the next $30,000</td>
     <td>2.25%</td>
   </tr>
-</table>These fees, which we will take from the estate money, include GST and cannot be waived. You will have to pay a minimum fee of $15.<br>
+</table><p>These fees, which we will take from the estate money, include GST and cannot be waived. You will have to pay a minimum fee of $15.</p><br>
 
 **10. How can I claim a reimbursement of funeral expenses out of the Deceased’s Estate monies?**<br>
 You can indicate the amount of funeral expenses which you would like to claim from the Deceased’s Estate monies in the online application form.
