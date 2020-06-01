@@ -89,7 +89,6 @@ The fees we charge for dealing with CPF money are shown below:
     <td>0.300%</td>
   </tr>
 </table>
-
 These fees, which we will take from the CPF money, include GST and cannot be waived. You will have to pay a minimum fee of $15.<br>
 
 **6.	How would the Public Trustee distribute the CPF money of a non-Muslim?**<br>
@@ -102,7 +101,7 @@ If the person who died was domiciled in Singapore at the time of their death, we
 
 **7.	What are the Rules of Distribution under the Intestate Succession Act (Cap. 146)?**<br>
 Kindly note that these Rules of Distribution apply only to a non-Muslim Deceased domiciled in Singapore.
-<div>
+
 <table>
   <tr>
     <th colspan="2">Rules of Distribution (Non-Muslims)</th>
@@ -200,9 +199,9 @@ Kindly note that these Rules of Distribution apply only to a non-Muslim Deceased
     </td>
   </tr>
 </table>
-</div>
-<font size="3">*<b>Spouse</b> refers to husband or wife.<br>
-*<b>Issue</b> means a child (legitimate or legally adopted) and the descendants of a deceased’s child. Illegitimate children and transferred children are NOT entitled under the Intestacy Rules.</font>
+
+<p><font size="3">*<b>Spouse</b> refers to husband or wife.<br>
+*<b>Issue</b> means a child (legitimate or legally adopted) and the descendants of a deceased’s child. Illegitimate children and transferred children are NOT entitled under the Intestacy Rules.</font></p>
 
 **8.	How would the Public Trustee distribute the CPF money of a Muslim?**<br>
 If the person who died was a Muslim, we will distribute the money in line with Section 112 of the Administration of Muslim Law Act according to the school of the Muslim law they observed.
