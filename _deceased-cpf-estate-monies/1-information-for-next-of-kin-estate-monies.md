@@ -58,99 +58,95 @@ If the person who died was domiciled in Singapore at the time of their death, we
 
 **6. What are the Rules of Distribution under the Intestate Succession Act (Cap. 146)?**<br>
 Kindly note that these Rules of Distribution apply only to a non-Muslim Deceased domiciled in Singapore.
-<style>
-    table, th, td {
-      border: 1px solid black;
-}
-</style>    
+    
    <table>
     <th colspan="2">Rules of Distribution (Non-Muslims)</th>
     <tr>
-    <td style="border:1px solid black>
+    <td>
       <b>Deceased Die</b><br>
       <b>Intestate Leaving</b>
     </td>
-    <td style="border:1px solid black>
+    <td style>
       <b>Distribution</b>
     </td>
   </tr>
   <tr>
-    <td style="border:1px solid black>
+    <td>
       <b>Spouse</b><br>
       No Issue<br>
       No Parent
     </td>
-    <td style="border:1px solid black>
+    <td>
       Whole share to surviving spouse
     </td>
   </tr>
   <tr>
-    <td style="border:1px solid black>
+    <td>
       <b>Spouse</b><br>
       <b>Issue</b>
     </td>
-    <td style="border:1px solid black>
+    <td>
       ½ share to surviving spouse.<br>
       ½ share to be shared equally among issue and, where they have already died, their children.<br>
       Parents are not entitled.
     </td>
   </tr>
   <tr>
-    <td style="border:1px solid black>
+    <td>
       <b>Issue</b><br>
       No Spouse
     </td>
-    <td style="border:1px solid black>
+    <td>
       Whole share to be shared equally among issue and, where they have already died, their children.<br>
       Parents are not entitled.
     </td>
   </tr>
   <tr>
-    <td style="border:1px solid black>
+    <td>
       <b>Spouse</b><br>
         <b>Parent</b><br>
       No Issue
     </td>
-    <td style="border:1px solid black>
+    <td>
       ½ share to surviving spouse.<br>
       ½ share to be shared equally among surviving parents.
     </td>
   </tr>
   <tr>
-    <td style="border:1px solid black>
+    <td>
       <b>Parents</b><br>
       No Spouse<br>
       No Issue
     </td>
-    <td style="border:1px solid black>
+    <td>
       Whole share to be shaved equally among surviving parents.
     </td>
   </tr>
   <tr>
-    <td style="border:1px solid black>
+    <td>
       <b>Siblings</b><br>
       No Spouse<br>
       No Issue<br>
       No Parents
     </td>
-    <td style="border:1px solid black>
+    <td>
       Whole share to be shared equally among deceased’s siblings and, where they have already died, their children.
     </td>
   </tr>
   <tr>
-    <td style="border:1px solid black>
+    <td>
       <b>Grandparents</b><br>
       No Spouse<br>
       No Issue<br>
       No Parents<br>
       No Siblings and their children
     </td>
-    <td style="border:1px solid black>
+    <td>
       Whole share to be shared equally among surviving grandparents.
     </td>
   </tr>
   <tr>
-    <td style="border:1px solid black>
+    <td>
       <b>Uncles and Aunts</b><br>
       No Spouse<br>
       No Issue<br>
@@ -158,9 +154,10 @@ Kindly note that these Rules of Distribution apply only to a non-Muslim Deceased
       No Siblings and their children<br>
       No Grandparents
     </td>
-    <td style="border:1px solid black>Whole share to be shared equally among surviving uncles and aunts.</td>
+    <td>Whole share to be shared equally among surviving uncles and aunts.</td>
   </tr>
 </table>
+
 
 <p><font size="3">*<b> Spouse</b> refers to husband or wife.<br>
 *<b> Issue</b> means a child (legitimate or legally adopted) and the descendants of a deceased’s child. Illegitimate children and transferred children are NOT entitled under the Intestacy Rules.</font></p>
@@ -222,9 +219,7 @@ The fees we charge for administration of the estate are shown below:
     <td>For the next $30,000</td>
     <td>2.25%</td>
   </tr>
-</table>
-
-These fees, which we will take from the estate money, include GST and cannot be waived. You will have to pay a minimum fee of $15.<br>
+</table>These fees, which we will take from the estate money, include GST and cannot be waived. You will have to pay a minimum fee of $15.<br>
 
 **10. How can I claim a reimbursement of funeral expenses out of the Deceased’s Estate monies?**<br>
 You can indicate the amount of funeral expenses which you would like to claim from the Deceased’s Estate monies in the online application form.
