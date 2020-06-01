@@ -37,7 +37,7 @@ The assets administered by the Public Trustee are:
 * Deceased's money in banks or other financial institutions in Singapore;
 * Deceased's shares which are listed on the Singapore Exchange;
 * Deceased's fully paid-up vehicles, apart from commercial vehicles like taxis (we will only transfer the vehicles);
-* salary the Deceased was owed but not yet paid;
+* Salary the Deceased was owed but not yet paid;
 * Deceased's items in a safe-deposit box;
 * Deceased's money paid as government compensation; and
 * Deceased's money from the Workfare Income Supplement Scheme.<br>
@@ -60,6 +60,9 @@ If the person who died was domiciled in Singapore at the time of their death, we
 Kindly note that these Rules of Distribution apply only to a non-Muslim Deceased domiciled in Singapore.
 
 <table>
+  table, th, td {
+  border: 1px solid black;
+}
   <tr>
     <th colspan="2">Rules of Distribution (Non-Muslims)</th>
   </tr>
@@ -188,7 +191,7 @@ Common types of documents required are:
   <li>Marriage Certificate of Deceased’s Parents</li>
   <li>Death Certificate of Parent (if deceased)</li>
   <li>Certificate of Inheritance (For Muslims only)</li>
-  
+  </ul>
 For Muslims, you may apply for the Certificate of Inheritance at [www.syariahcourt.gov.sg](https://www.syariahcourt.gov.sg/){:target="_blank"}.
 
 You will be assigned a case officer after you have filed your online application. Please inform your case officer if you do not possess some of the required documents. Your case officer will advise you on what to do after you have submitted your online application.<br>
