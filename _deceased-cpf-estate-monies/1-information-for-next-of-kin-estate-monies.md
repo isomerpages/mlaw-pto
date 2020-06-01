@@ -240,11 +240,12 @@ a) NRIC/Passport/Social Security Card (for US Nationals)/Election Card (for Indi
 b) Death Certificate of Deceased
 
 c) If Claimant is:<br>
-&nbsp;&nbsp;&nbsp;i. Spouse of Deceased – Marriage Certificate<br>
-&nbsp;&nbsp;&nbsp;ii. Child of Deceased – Birth Certificate of Child and Marriage Certificate of Parents<br>
-&nbsp;&nbsp;&nbsp;iii. Parent of Deceased – Birth Certificate of Deceased and Marriage Certificate of Parents<br>
-&nbsp;&nbsp;&nbsp;iv. Sibling of Deceased – Birth Certificate of Deceased and Birth Certificate of Sibling<br>
-
+<ul>
+  &nbsp;&nbsp;&nbsp;<li>Spouse of Deceased – Marriage Certificate</li><br>
+&nbsp;&nbsp;&nbsp;<li>Child of Deceased – Birth Certificate of Child and Marriage Certificate of Parents</li><br>
+&nbsp;&nbsp;&nbsp;<li>Parent of Deceased – Birth Certificate of Deceased and Marriage Certificate of Parents</li><br>
+&nbsp;&nbsp;&nbsp;<li>Sibling of Deceased – Birth Certificate of Deceased and Birth Certificate of Sibling</li><br>
+</ul>
 d) <a href = "/Declarationform(CPFMonies)forfuneralexpenses(Form12).pdf" target = "_blank">Declaration Form (CPF monies) for funeral expenses</a>.
 
 e) Front page of the bank passbook or bank statement. For a payment to a joint or third party bank account, both you and the account holder(s) must execute the indemnity form (Form 15) which is available at our website. For the other non-electronic modes of payment, you will bear all the charges imposed by the bank(s) which will be deducted directly from the inheritance.
