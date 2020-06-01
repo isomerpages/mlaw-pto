@@ -177,17 +177,17 @@ For a reimbursement of funeral expenses, <a href = "/files/AnnexC_Funeral_Feb202
 You may pick up a copy of the Annexes from our office or view them from our website under <a href = "https://pto.mlaw.gov.sg/deceased-cpf-estate-monies/forms/" target = "_blank">Deceased CPF / Estate Monies > Forms</a>.
 
 Common types of documents required are:
-
-  1) Death Certificate of Deceased<br>
-  2) Birth Certificate of Deceased<br>
-  3) Marriage Certificate of Deceased<br>
-  4) Decree Nisi Absolute (if the Deceased was divorced)<br>
-  5) Birth Certificate of Beneficiary<br>
-  6) NRIC of Beneficiary<br>
-  7) Death Certificate of Beneficiary (if deceased)<br>
-  8) Marriage Certificate of Deceased’s Parents<br>
-  9) Death Certificate of Parent (if deceased)<br>
-  10) Certificate of Inheritance (For Muslims only)<br>
+<ul>
+  <li>Death Certificate of Deceased</li>
+  <li>Birth Certificate of Deceased</li>
+  <li>Marriage Certificate of Deceased</li>
+  <li>Decree Nisi Absolute (if the Deceased was divorced)</li>
+  <li>Birth Certificate of Beneficiary</li>
+  <li>NRIC of Beneficiary</li>
+  <li>Death Certificate of Beneficiary (if deceased)</li>
+  <li>Marriage Certificate of Deceased’s Parents</li>
+  <li>Death Certificate of Parent (if deceased)</li>
+  <li>Certificate of Inheritance (For Muslims only)</li>
   
 For Muslims, you may apply for the Certificate of Inheritance at [www.syariahcourt.gov.sg](https://www.syariahcourt.gov.sg/){:target="_blank"}.
 
@@ -239,12 +239,12 @@ a) NRIC/Passport/Social Security Card (for US Nationals)/Election Card (for Indi
 
 b) Death Certificate of Deceased
 
-c) If Claimant is:<br>
+c) If Claimant is:
 <ul>
-  &nbsp;&nbsp;&nbsp;<li>Spouse of Deceased – Marriage Certificate</li><br>
-&nbsp;&nbsp;&nbsp;<li>Child of Deceased – Birth Certificate of Child and Marriage Certificate of Parents</li><br>
-&nbsp;&nbsp;&nbsp;<li>Parent of Deceased – Birth Certificate of Deceased and Marriage Certificate of Parents</li><br>
-&nbsp;&nbsp;&nbsp;<li>Sibling of Deceased – Birth Certificate of Deceased and Birth Certificate of Sibling</li><br>
+  &nbsp;&nbsp;&nbsp;<li>Spouse of Deceased – Marriage Certificate</li>
+&nbsp;&nbsp;&nbsp;<li>Child of Deceased – Birth Certificate of Child and Marriage Certificate of Parents</li>
+&nbsp;&nbsp;&nbsp;<li>Parent of Deceased – Birth Certificate of Deceased and Marriage Certificate of Parents</li>
+&nbsp;&nbsp;&nbsp;<li>Sibling of Deceased – Birth Certificate of Deceased and Birth Certificate of Sibling</li>
 </ul>
 d) <a href = "/Declarationform(CPFMonies)forfuneralexpenses(Form12).pdf" target = "_blank">Declaration Form (CPF monies) for funeral expenses</a>.
 
