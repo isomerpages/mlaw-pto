@@ -37,7 +37,7 @@ The assets administered by the Public Trustee are:
 * Deceased's money in banks or other financial institutions in Singapore;
 * Deceased's shares which are listed on the Singapore Exchange;
 * Deceased's fully paid-up vehicles, apart from commercial vehicles like taxis (we will only transfer the vehicles);
-* salary the Deceased was owed but not yet paid;
+* Salary the Deceased was owed but not yet paid;
 * Deceased's items in a safe-deposit box;
 * Deceased's money paid as government compensation; and
 * Deceased's money from the Workfare Income Supplement Scheme.<br>
@@ -47,7 +47,7 @@ You will need to make an online application via the eService at [https://eservic
 
 You will need to have your Singpass ready in order to access our online application form. You may apply for your Singpass at [https://www.singpass.gov.sg](https://www.singpass.gov.sg){:target="_blank"} if you do not have one.
 
-If you are ineligible to apply for a Singpass, you may apply for a login ID and password through our website: [https://eservices.mlaw.gov.sg/pto/welcome.xhtml](https://eservices.mlaw.gov.sg/pto/welcome.xhtml).
+If you are ineligible to apply for a Singpass, you may apply for a login ID and password through our website: [https://eservices.mlaw.gov.sg/pto/welcome.xhtml](https://eservices.mlaw.gov.sg/pto/welcome.xhtml){:target="_blank"}.
 
 **5. How would the Public Trustee distribute the estate of a non-Muslim?**<br>
 If the person who died was not a Muslim, we will distribute the estate in line with the Intestate Succession Act, which says that the distribution of any movable property (for example, money in the bank account) will be regulated by the law of the country in which the person was domiciled at the time of their death.
@@ -58,12 +58,10 @@ If the person who died was domiciled in Singapore at the time of their death, we
 
 **6. What are the Rules of Distribution under the Intestate Succession Act (Cap. 146)?**<br>
 Kindly note that these Rules of Distribution apply only to a non-Muslim Deceased domiciled in Singapore.
-
-<table>
-  <tr>
+    
+   <table>
     <th colspan="2">Rules of Distribution (Non-Muslims)</th>
-  </tr>
-  <tr>
+    <tr>
     <td>
       <b>Deceased Die</b><br>
       <b>Intestate Leaving</b>
@@ -160,9 +158,8 @@ Kindly note that these Rules of Distribution apply only to a non-Muslim Deceased
   </tr>
 </table>
 
-\*Spouse refers to husband or wife.<br>
-
-\*Issue means a child (legitimate or legally adopted) and the descendants of a deceased’s child. Illegitimate children and transferred children are NOT entitled under the Intestacy Rules.<br>
+<font size="2"><i>*<b> Spouse</b> refers to husband or wife.<br>
+*<b> Issue</b> means a child (legitimate or legally adopted) and the descendants of a deceased’s child. Illegitimate children and transferred children are NOT entitled under the Intestacy Rules.</i></font> 
 
 **7. How would the Public Trustee distribute the estate of a Muslim?**<br>
 If the person who died was a Muslim, we will distribute the estate in line with Section 112 of the Administration of Muslim Law Act according to the school of the Muslim law the person observed.
@@ -170,26 +167,26 @@ If the person who died was a Muslim, we will distribute the estate in line with 
 The Certificate of Inheritance issued by Syariah Court will list down the beneficiaries and their share of inheritance.<br>
 
 **8. What are the documents that need to be submitted to the Public Trustee?**<br>
-Annexes A (for Muslims) and B (for non-Muslims) set out the list of documents we need.
+<a href = "/files/AnnexA_Muslims_Feb2020.pdf" target = "_blank">Annex A</a> (for Muslims) and <a href = "/files/AnnexB_Non-Muslims_ListofRequiredDocuments_Feb2020.pdf" target = "_blank">Annex B</a> (for non-Muslims) set out the list of documents we need. 
 
-For a reimbursement of funeral expenses, Annex C sets out the list of documents we need.
+For a reimbursement of funeral expenses, <a href = "/files/AnnexC_Funeral_Feb2020.pdf" target = "_blank">Annex C</a> sets out the list of documents we need.
 
-You may pick up a copy of Annexes A, B and C from our office or view them on our website under Deceased CPF / Estate Monies > Forms.
+You may pick up a copy of the Annexes from our office or view them from our website under <a href = "https://pto.mlaw.gov.sg/deceased-cpf-estate-monies/forms/" target = "_blank">Deceased CPF / Estate Monies > Forms</a>.
 
 Common types of documents required are:
-
-  1) Death Certificate of Deceased<br>
-  2) Birth Certificate of Deceased<br>
-  3) Marriage Certificate of Deceased<br>
-  4) Decree Nisi Absolute (if the Deceased was divorced)<br>
-  5) Birth Certificate of Beneficiary<br>
-  6) NRIC of Beneficiary<br>
-  7) Death Certificate of Beneficiary (if deceased)<br>
-  8) Marriage Certificate of Deceased’s Parents<br>
-  9) Death Certificate of Parent (if deceased)<br>
-  10) Certificate of Inheritance (For Muslims only)<br>
-  
-For Muslims, you may apply for the Certificate of Inheritance at [www.syariahcourt.gov.sg](https://www.syariahcourt.gov.sg/Syariah/front-end/Home.aspx){:target="_blank"}.
+<ul>
+  <li>Death Certificate of Deceased</li>
+  <li>Birth Certificate of Deceased</li>
+  <li>Marriage Certificate of Deceased</li>
+  <li>Decree Nisi Absolute (if the Deceased was divorced)</li>
+  <li>Birth Certificate of Beneficiary</li>
+  <li>NRIC of Beneficiary</li>
+  <li>Death Certificate of Beneficiary (if deceased)</li>
+  <li>Marriage Certificate of Deceased’s Parents</li>
+  <li>Death Certificate of Parent (if deceased)</li>
+  <li>Certificate of Inheritance (For Muslims only)</li>
+  </ul>
+For Muslims, you may apply for the Certificate of Inheritance at [www.syariahcourt.gov.sg](https://www.syariahcourt.gov.sg/){:target="_blank"}.
 
 You will be assigned a case officer after you have filed your online application. Please inform your case officer if you do not possess some of the required documents. Your case officer will advise you on what to do after you have submitted your online application.<br>
 
@@ -221,10 +218,7 @@ The fees we charge for administration of the estate are shown below:
     <td>For the next $30,000</td>
     <td>2.25%</td>
   </tr>
-</table>
-
-
-These fees, which we will take from the estate money, include GST and cannot be waived. You will have to pay a minimum fee of $15.<br>
+</table>These fees, which we will take from the estate money, include GST and cannot be waived. You will have to pay a minimum fee of $15.
 
 **10. How can I claim a reimbursement of funeral expenses out of the Deceased’s Estate monies?**<br>
 You can indicate the amount of funeral expenses which you would like to claim from the Deceased’s Estate monies in the online application form.
@@ -235,30 +229,31 @@ Both beneficiaries and non-beneficiaries are eligible to claim a reimbursement o
 
 You will also have to submit the following supporting documents to us:
 
-1) NRIC/Passport/Social Security Card (for US Nationals)/Election Card (for Indian Nationals) of Claimant and Applicant who submitted the Online Application Form
+a) NRIC/Passport/Social Security Card (for US Nationals)/Election Card (for Indian Nationals) of Claimant and Applicant who submitted the Online Application Form
 
-2) Death Certificate of Deceased
+b) Death Certificate of Deceased
 
-3) If Claimant is:<br>
-a. Spouse of Deceased – Marriage Certificate<br>
-b. Child of Deceased – Birth Certificate of Child and Marriage Certificate of Parents<br>
-c. Parent of Deceased – Birth Certificate of Deceased and Marriage Certificate of Parents<br>
-d. Sibling of Deceased – Birth Certificate of Deceased and Birth Certificate of Sibling<br>
+c) If Claimant is:
+<ul>
+  <li>Spouse of Deceased – Marriage Certificate</li>
+  <li>Child of Deceased – Birth Certificate of Child and Marriage Certificate of Parents</li>
+  <li>Parent of Deceased – Birth Certificate of Deceased and Marriage Certificate of Parents</li>
+  <li>Sibling of Deceased – Birth Certificate of Deceased and Birth Certificate of Sibling</li>
+</ul>
+d) <a href = "/Declarationform(CPFMonies)forfuneralexpenses(Form12).pdf" target = "_blank">Declaration Form (CPF monies) for funeral expenses</a>.
 
-4) Original “Declaration Form (Estate monies) for funeral expenses” (Please return completed form by Post. Scanned and Faxed Copies are NOT allowed). You may obtain a softcopy of the “Declaration Form (Estate monies) for funeral expenses” at [https://pto.mlaw.gov.sg](/) < Deceased CPF / Estate monies > Forms.
+e) Front page of the bank passbook or bank statement. For a payment to a joint or third party bank account, both you and the account holder(s) must execute the indemnity form (Form 15) which is available at our website. For the other non-electronic modes of payment, you will bear all the charges imposed by the bank(s) which will be deducted directly from the inheritance.
 
-5) Front page of the bank passbook or bank statement. For a payment to a joint or third party bank account, both you and the account holder(s) must execute the indemnity form (Form 15) which is available at our website. For the other non-electronic modes of payment, you will bear all the charges imposed by the bank(s) which will be deducted directly from the inheritance.
+f) Receipts incurred for Funeral Expenses (Compulsory for Non-Beneficiary Claimant)
 
-6) Receipts incurred for Funeral Expenses (Compulsory for Non-Beneficiary Claimant)
-
-Please indicate the case reference number and NRIC of the deceased on your supporting documents. This case reference number is shown after you click the submit button of your online application.
-
-You may post the hardcopy of the “Declaration Form (Estate monies) for funeral expenses” to the following address: 
+You may attach the required documents in your online submission, send via [e-services](https://eservices.mlaw.gov.sg/pto/welcome.xhtml){:target="_blank"} or post to us at the following address:
 
 Public Trustee’s Office<br>
 The URA Centre (East Wing)<br>
 45 Maxwell Road, #07-11<br>
 Singapore 069118<br>
+
+Please indicate the case reference number and NRIC of the deceased on your supporting documents. This case reference number is shown after you click the submit button of your online application.
 
 **11.	When will the money be paid to me?**<br>
 As a general rule, we will distribute the money within 4 weeks from the date of receipt of the full set of documentation from the beneficiaries or the date of receipt of the deceased’s monies, whichever is later.
@@ -266,7 +261,7 @@ As a general rule, we will distribute the money within 4 weeks from the date of 
 **12. Can I get the Public Trustee’s assistance in resealing in Singapore, Letters of Administration / Grant of Probate that was obtained overseas?**<br>
 The Public Trustee does not assist in resealing in the Singapore Courts, Letters of Administration or Grants of Probate that were obtained overseas. You will have to engage a Singapore lawyer to do this.
 
-LSRA has an integrated online search function which lists all registered law practices (foreign or local), Singapore solicitors, foreign lawyers, and regulated non-practitioners. At present, you can search by name, practice area, and the type of law practice. We are working on further enhancements to the search function.
+<a href = "https://eservices.mlaw.gov.sg/lsra/search-lawyer-or-law-firm/" target = "_blank">LSRA</a> has an integrated online search function which lists all registered law practices (foreign or local), Singapore solicitors, foreign lawyers, and regulated non-practitioners. At present, you can search by name, practice area, and the type of law practice. We are working on further enhancements to the search function.
 
 Please note that the search results are based on information provided by law practices and lawyers. The Ministry of Law does not make any warranty or representation as to their accuracy, completeness or reliability. <br>
 
