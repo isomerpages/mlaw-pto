@@ -242,7 +242,7 @@ c) If Claimant is:
 </ul>
 d) <a href = "/Declarationform(CPFMonies)forfuneralexpenses(Form12).pdf" target = "_blank">Declaration Form (CPF monies) for funeral expenses</a>.
 
-e) Front page of the bank passbook or bank statement. For a payment to a joint or third party bank account, both you and the account holder(s) must execute the indemnity form (Form 15) which is available at our website. For the other non-electronic modes of payment, you will bear all the charges imposed by the bank(s) which will be deducted directly from the inheritance.
+e) Payments will be made to the Claimant via PayNow (which has to be registered with your NRIC) or Direct Credit to the bank account. For Direct Credit, you will need to submit a copy of the front page of the bank passbook or bank statement. For a payment request via Direct Credit to a joint or third party bank account, both you and the account holder(s) must execute the indemnity form (Form 15) which is available at our website. For the other non-electronic modes of payment, you will bear all the charges imposed by the bank(s) which will be deducted directly from the inheritance.
 
 f) Receipts incurred for Funeral Expenses (Compulsory for Non-Beneficiary Claimant)
 
