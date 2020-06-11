@@ -169,9 +169,9 @@ If you do not receive our notification letter before your 21st birthday, please 
 
 With effect from 5 March 2018, all payments will be made electronically.
 
-Please submit your preferred payment mode via https://eservices.mlaw.gov.sg/pto/welcome.xhtml (Submission of Bank Account / PayNow Details).
-•	For PayNow, the account has to be registered with your NRIC) 
-•	For Direct Credit, you will need to submit a copy a clear copy of your identity card (front and back) and the front page of the bank passbook or bank statement. For the other non-electronic modes of payment, you will bear all the changes imposed by the banks(s) which will be deducted directly from the inheritance.
+Please submit your preferred payment mode via https://eservices.mlaw.gov.sg/pto/welcome.xhtml (Submission of Bank Account / PayNow Details).<br>
+•	For PayNow, the account has to be registered with your NRIC)<br> 
+•	For Direct Credit, you will need to submit a copy a clear copy of your identity card (front and back) and the front page of the bank passbook or bank statement.<br><br> For the other non-electronic modes of payment, you will bear all the changes imposed by the banks(s) which will be deducted directly from the inheritance.
 
 **If you are living overseas**<br>
 For payment by telegraphic transfer, please send us by post or via [https://eservices.mlaw.gov.sg/pto/welcome.xhtml](https://eservices.mlaw.gov.sg/pto/welcome.xhtml) (Submission of Supporting Documents), a clear copy of:
