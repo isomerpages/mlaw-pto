@@ -86,7 +86,7 @@ Brochures
 
 [如何分配已故者的公积金存款](/files/Chinese_Brochure 1_CPF Monies_8Jun20.pdf){:target="_blank"}(414 KB)
 
-[如何分配已故者的遗产 (资产)](/files/CChinese_Brochure 2_Estate Monies_8Jun20.pdf){:target="_blank"}(369 KB)
+[如何分配已故者的遗产 (资产)](/files/Chinese_Brochure 2_Estate Monies_8Jun20.pdf){:target="_blank"}(369 KB)
 
 [为孩童处理受托管的款项](/files/Chinese_Brochure3_Held-in-TrustCases_Feb2020.pdf){:target="_blank"}(456 KB)
 
