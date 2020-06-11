@@ -145,7 +145,7 @@ If you are not eligible to apply for a Singpass and above 21 years old, you may 
 **3. How do I navigate this new eService?**<br>
 You may refer to the training slides on our website at [https://pto.mlaw.gov.sg/deceased-cpf-estate-monies/forms/](/deceased-cpf-estate-monies/forms/)<br>
 
-**4. Can I print or download the Statement of Account from our eService page?**<br>
+**4. Can I print or download the Statement of Account from the eService page?**<br>
 Yes, you may print or download the Statement of Account for your records.<br>
 
 **5. Who can I contact if I have problems accessing the online Statement of Account?**<br>
@@ -169,12 +169,9 @@ If you do not receive our notification letter before your 21st birthday, please 
 
 With effect from 5 March 2018, all payments will be made electronically.
 
-In order for us to process the payment, please submit to us via [https://eservices.mlaw.gov.sg/pto/welcome.xhtml](https://eservices.mlaw.gov.sg/pto/welcome.xhtml) (Submission of Bank Account Details), a clear copy of:
-
-1) your identity card (front and back); and<br>
-2) the front page of the bank passbook or bank statement. For the other non-electronic modes of payment, you will bear all the changes imposed by the banks(s) whcih will be deducted directly from the inheritance
-
-Please indicate our case reference number on your documents.
+Please submit your preferred payment mode via https://eservices.mlaw.gov.sg/pto/welcome.xhtml (Submission of Bank Account / PayNow Details).
+•	For PayNow, the account has to be registered with your NRIC) 
+•	For Direct Credit, you will need to submit a copy a clear copy of your identity card (front and back) and the front page of the bank passbook or bank statement. For the other non-electronic modes of payment, you will bear all the changes imposed by the banks(s) which will be deducted directly from the inheritance.
 
 **If you are living overseas**<br>
 For payment by telegraphic transfer, please send us by post or via [https://eservices.mlaw.gov.sg/pto/welcome.xhtml](https://eservices.mlaw.gov.sg/pto/welcome.xhtml) (Submission of Supporting Documents), a clear copy of:
