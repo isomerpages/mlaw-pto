@@ -26,7 +26,7 @@ You will need to have your Singpass ready in order to access our online applicat
 If you are ineligible to apply for a Singpass, you may apply for a login ID and password through our website: [https://eservices.mlaw.gov.sg/pto/welcome.xhtml](https://eservices.mlaw.gov.sg/pto/welcome.xhtml).<br>
 
 **3.	What are the documents that need to be submitted?**<br>
-<a href = "/files/Annex%20A_Muslims_8Jun20.pdf" target = "_blank">Annex A</a> (for Muslims) and <a href = "/files/Annex%20B_Non-Muslims_Jun20.pdf" target = "_blank">Annex B</a> (for non-Muslims) set out the list of documents we need. 
+<a href = "/files/Annex%20A_Muslims_8Jun20.pdf" target = "_blank">Annex A</a> (for Muslims) and <a href = "/files/Annex%20B_Non-Muslims_8Jun20.pdf" target = "_blank">Annex B</a> (for non-Muslims) set out the list of documents we need. 
 
 For a reimbursement of funeral expenses, <a href = "/files/Annex%20C_Funeral_8Jun20.pdf" target = "_blank">Annex C</a> sets out the list of documents we need.
 
