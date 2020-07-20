@@ -167,9 +167,9 @@ If the person who died was a Muslim, we will distribute the estate in line with 
 The Certificate of Inheritance issued by Syariah Court will list down the beneficiaries and their share of inheritance.<br>
 
 **8. What are the documents that need to be submitted to the Public Trustee?**<br>
-<a href = "/files/AnnexA_Muslims_Feb2020.pdf" target = "_blank">Annex A</a> (for Muslims) and <a href = "/files/AnnexB_Non-Muslims_ListofRequiredDocuments_Feb2020.pdf" target = "_blank">Annex B</a> (for non-Muslims) set out the list of documents we need. 
+<a href = "/files/Annex%20A_Muslims_8Jun20.pdf" target = "_blank">Annex A</a> (for Muslims) and <a href = "/files/Annex%20B_Non-Muslims_8Jun20.pdf" target = "_blank">Annex B</a> (for non-Muslims) set out the list of documents we need. 
 
-For a reimbursement of funeral expenses, <a href = "/files/AnnexC_Funeral_Feb2020.pdf" target = "_blank">Annex C</a> sets out the list of documents we need.
+For a reimbursement of funeral expenses, <a href = "/files/Annex%20C_Funeral_8Jun20.pdf" target = "_blank">Annex C</a> sets out the list of documents we need.
 
 You may pick up a copy of the Annexes from our office or view them from our website under <a href = "https://pto.mlaw.gov.sg/deceased-cpf-estate-monies/forms/" target = "_blank">Deceased CPF / Estate Monies > Forms</a>.
 
