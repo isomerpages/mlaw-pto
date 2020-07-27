@@ -46,6 +46,8 @@ Brochures
 
 **In English**<br>
 
+[Intestacy Brochure](/files/intestacybrochure.pdf){:target="_blank"}(587 KB)
+
 [Dealing with the Central Provident Fund (CPF) money of someone who has died](/files/Brochure 1_CPF Monies_8Jun20.pdf){:target="_blank"}(587 KB)
 
 [Dealing with the deceased’s estate (assets)](/files/Brochure 2_Estate Monies_8Jun20.pdf){:target="_blank"}(366 KB)
