@@ -16,3 +16,5 @@ Notices
 2) Liew Kwan Foo (Malaysian Identity No. 53XXXX-XX-5077)  - Please click on the [link](/T6611-2018.pdf){:target="_blank"}(90.2KB) for more information.
 
 3) Lai Yuen Thim (NRIC No. SXXXX065B)  - Please click on the [link](/files/Advert-T2882019.pdf){:target="_blank"}(63.5KB) for more information.
+
+4) Soh Hay (NRIC No. SXXXX260A) - Please click on the [link](/files/advT2037-2018.pdf){:target="_blank"}(63.5KB) for more information.
