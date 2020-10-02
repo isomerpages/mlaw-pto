@@ -19,7 +19,7 @@ links:
     - title: 'Deceased CPF / Estate Monies'
       collection: deceased-cpf-estate-monies
     - title: 'Motor Accident'
-      collection: motor-accident
+      collection: motor-accident-cases
     - title: e-Services
       url: 'https://eservices.mlaw.gov.sg/pto/welcome.xhtml'
     - title: News
