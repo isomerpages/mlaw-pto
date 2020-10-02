@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Statistics
 permalink: /motor-accident-cases/statistics/
 breadcrumb: Statistics
-collection_name: motor-accident-cases
+
 ---
+
  
 Statistics
 ---
