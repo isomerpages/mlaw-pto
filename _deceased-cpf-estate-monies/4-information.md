@@ -1,11 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Information
 permalink: /deceased-cpf-estate-monies/information/
 breadcrumb: Information
-collection_name: deceased-cpf-estate-monies
 
 ---
+
 List of Required Documents
 ---
 
