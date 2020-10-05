@@ -1,5 +1,4 @@
 ---
-layout: leftnav-page-content
 title: 'Baby Bonus/ Edusave / PSEA / CDA'
 permalink: /deceased-cpf-estate-monies/Edusave-PSEA-CDA/
 breadcrumb: 'Baby Bonus / Edusave / PSEA / CDA'
