@@ -1,11 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Forms
 permalink: /deceased-cpf-estate-monies/forms/
 breadcrumb: Forms
-collection_name: deceased-cpf-estate-monies
 
 ---
+
 
 Forms
 ---

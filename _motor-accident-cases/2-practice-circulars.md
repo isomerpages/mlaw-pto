@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Practice Circulars
+title: 'Practice Circulars'
 permalink: /motor-accident-cases/practise-circulars/
-breadcrumb: Practice Circulars
-collection_name: motor-accident-cases
+breadcrumb: 'Practice Circulars'
+
 ---
+
 
 Practice Circulars
 ---

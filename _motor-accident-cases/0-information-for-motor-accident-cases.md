@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Information for Motor Accident Victims
+title: 'Information for Motor Accident Victims'
 permalink: /motor-accident-cases/info-motor-accident-victims/
-breadcrumb: Information for Motor Accident Victims
-collection_name: motor-accident-cases
+breadcrumb: 'Information for Motor Accident Victims'
+
 ---
+
 
 Information for Motor Accident Victims
 ---

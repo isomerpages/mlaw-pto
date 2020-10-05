@@ -1,8 +1,7 @@
 ---
-layout: leftnav-page-content
-title: Baby Bonus / Edusave / PSEA / CDA
+title: 'Baby Bonus/ Edusave / PSEA / CDA'
 permalink: /deceased-cpf-estate-monies/Edusave-PSEA-CDA/
-breadcrumb: Baby Bonus / Edusave / PSEA / CDA
+breadcrumb: 'Baby Bonus / Edusave / PSEA / CDA'
 collection_name: deceased-cpf-estate-monies
 ---
 <font size="8" color="DarkRed">Baby Bonus / Edusave / Post Secondary Education Account (“PSEA”) / Child Development Account (“CDA”)</font>
