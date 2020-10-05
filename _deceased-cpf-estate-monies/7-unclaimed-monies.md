@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Unclaimed Monies
+title: 'Unclaimed Monies'
 permalink: /deceased-cpf-estate-monies/unclaimed-monies/
-breadcrumb: Unclaimed Monies
-collection_name: deceased-cpf-estate-monies
+breadcrumb: 'Unclaimed Monies'
+
 ---
+
 
 Unclaimed Monies
 ---

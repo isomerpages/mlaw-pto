@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Guide for Payment to PT
+title: 'Guide for Payment to PT'
 permalink: /deceased-cpf-estate-monies/guide-for-payment-pt/
-breadcrumb: Guide for Payment to PT
-collection_name: deceased-cpf-estate-monies
+breadcrumb: 'Guide for Payment to PT'
+
 ---
+
 
 Guide for Payment to PT
 ---

@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: CPF Money
+title: 'CPF Money'
 permalink: /deceased-cpf-estate-monies/information-for-next-of-kin-cpf-monies/
-breadcrumb: CPF Money
-collection_name: deceased-cpf-estate-monies
+breadcrumb: 'CPF Money'
+
 ---
+
 
 CPF Money
 ---

@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Forms / Guides
+title: 'Forms / Guides'
 permalink: /motor-accident-cases/forms-guides/
-breadcrumb: Forms / Guides
-collection_name: motor-accident-cases
+breadcrumb: 'Forms / Guides'
+
 ---
+
 
 Forms / Guides 
 ---

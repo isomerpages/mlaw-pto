@@ -1,11 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Search for Next-of-Kin
+title: 'Search for Next-of-Kin'
 permalink: /deceased-cpf-estate-monies/searchNOK/
-breadcrumb: Search for Next-of-Kin
-collection_name: deceased-cpf-estate-monies
+breadcrumb: 'Search for Next-of-Kin'
 
 ---
+
 
 Notices
 ---
