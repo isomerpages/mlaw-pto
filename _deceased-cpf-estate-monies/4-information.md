@@ -10,27 +10,27 @@ List of Required Documents
 
 **In English**<br>
 
-[Muslims - List of Required Documents](/files/Annex A_Muslims_8Jun20.pdf){:target="_blank"}(431KB)
+[Muslims - List of Required Documents](/files/AnnexA_Muslims_Oct20.pdf){:target="_blank"}(430KB)
 
-[Non-Muslims - List of Required Documents](/files/Annex B_Non-Muslims_8Jun20.pdf){:target="_blank"}(441KB)
+[Non-Muslims - List of Required Documents](/files/AnnexB_NonMuslims_Oct20.pdf){:target="_blank"}(440KB)
 
-[Funeral Reimbursement Claim - List of Required Documents](/files/Annex C_Funeral_8Jun20.pdf){:target="_blank"}(408KB)
+[Funeral Reimbursement Claim - List of Required Documents](/files/AnnexC_Funeral_Oct20.pdf){:target="_blank"}(407KB)
 
 **In Malay**<br>
 
-[Muslims - List of Required Documents (In Malay)](/files/Malay_Annex A_Muslims_Jun2020.pdf){:target="_blank"}(440 KB)
+[Muslims - List of Required Documents (In Malay)](/files/Malay_Annex A_Muslims_17Oct20.pdf){:target="_blank"}(439 KB)
 
-[Non-Muslims - List of Required Documents (In Malay)](/files/Malay_Annex B_Non-Muslims_Jun2020.pdf){:target="_blank"}(513 KB)
+[Non-Muslims - List of Required Documents (In Malay)](/files/Malay_Annex B_Non-Muslims_17Oct20.pdf){:target="_blank"}(513 KB)
 
-[Funeral Reimbursement Claim - List of Required Documents (In Malay)](/files/Malay_Annex C_Funeral Claim_Jun2020.pdf){:target="_blank"}(418 KB)
+[Funeral Reimbursement Claim - List of Required Documents (In Malay)](/files/Malay_Annex C_Funeral Claim_17Oct20.pdf){:target="_blank"}(419 KB)
 
 **In Chinese**<br>
 
-[文件清单 (适用于已故回教徒)](/files/Chinese_Annex A_Muslims_Jun20.pdf){:target="_blank"}(487 KB)
+[文件清单 (适用于已故回教徒)](/files/Chinese_AnnexA_Muslims_17Oct20.pdf){:target="_blank"}(486 KB)
 
-[文件清单 (适用于非回教已故者)](/files/Chinese_Annex B_Non-Muslims_Jun20.pdf){:target="_blank"}(488 KB)
+[文件清单 (适用于非回教已故者)](/files/Chinese_AnnexB_NonMuslims_17Oct20_.pdf){:target="_blank"}(488 KB)
 
-[文件清单 (偿还殡殓费)](/files/Chinese_Annex C_Funeral Claim_Jun20.pdf){:target="_blank"}(457 KB)
+[文件清单 (偿还殡殓费)](/files/Chinese_AnnexC_Funeral_17Oct20.pdf){:target="_blank"}(456 KB)
 
 **In Tamil**<br>
 
@@ -47,25 +47,25 @@ Brochures
 
 [Intestacy Brochure](/files/intestacybrochure.pdf){:target="_blank"}(587 KB)
 
-[Dealing with the Central Provident Fund (CPF) money of someone who has died](/files/Brochure 1_CPF Monies_8Jun20.pdf){:target="_blank"}(587 KB)
+[Dealing with the Central Provident Fund (CPF) money of someone who has died](/files/Brochure1_CPF_Oct20.pdf){:target="_blank"}(586 KB)
 
-[Dealing with the deceased’s estate (assets)](/files/Brochure 2_Estate Monies_8Jun20.pdf){:target="_blank"}(366 KB)
+[Dealing with the deceased’s estate (assets)](/files/Brochure2_Estate_Oct20.pdf){:target="_blank"}(365 KB)
 
 [Dealing with money held in trust for a child](/files/Bro3_Held-in-TrustCases_Feb2020.pdf){:target="_blank"}(237 KB)
 
 **In Malay**<br>
 
-[Menguruskan wang Tabung Simpanan Pekerja (CPF) seseorang yang telah meninggal dunia](/files/Malay_Brochure 1_CPF Monies_Jun2020.pdf){:target="_blank"}(478 KB)
+[Menguruskan wang Tabung Simpanan Pekerja (CPF) seseorang yang telah meninggal dunia](/files/Malay_Brochure 1_CPF_17Oct20.pdf){:target="_blank"}(477 KB)
 
-[Menguruskan harta pusaka si mati (aset-aset)](/files/Malay_Brochure 2_Estate Monies_Jun2020.pdf){:target="_blank"}(284 KB)
+[Menguruskan harta pusaka si mati (aset-aset)](/files/Malay_Brochure 2_Estate_17Oct20.pdf){:target="_blank"}(283 KB)
 
 [Menguruskan wang yang dipegang sebagai amanah untuk seorang kanak-kanak](/files/Malay_Brochure3_Held-in-TrustCases_Feb2020.pdf){:target="_blank"}(384 KB)
 
 **In Chinese**<br>
 
-[如何分配已故者的公积金存款](/files/Chinese_Brochure 1_CPF Monies_8Jun20.pdf){:target="_blank"}(414 KB)
+[如何分配已故者的公积金存款](/files/Chinese_Brochure1_CPF_17Oct20_.pdf){:target="_blank"}(414 KB)
 
-[如何分配已故者的遗产 (资产)](/files/Chinese_Brochure 2_Estate Monies_8Jun20.pdf){:target="_blank"}(369 KB)
+[如何分配已故者的遗产 (资产)](/files/Chinese_Brochure2_Estate_17Oct20.pdf){:target="_blank"}(369 KB)
 
 [为孩童处理受托管的款项](/files/Chinese_Brochure3_Held-in-TrustCases_Feb2020.pdf){:target="_blank"}(456 KB)
 
