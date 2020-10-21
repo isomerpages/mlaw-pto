@@ -71,7 +71,7 @@ Brochures
 
 **In Tamil**<br>
 
-[இறந்த நபரின் மத்திய சேம நிதிக் கழகப் (மசேநி) பணத்தைக் கையாளுதல்](/files/Tamil_Brochure1_CPF_Oct200.pdf){:target="_blank"}(1.54 MB)
+[இறந்த நபரின் மத்திய சேம நிதிக் கழகப் (மசேநி) பணத்தைக் கையாளுதல்](/files/Tamil_Brochure1_CPF_Oct20.pdf){:target="_blank"}(1.54 MB)
 
 [இறந்தவரின் சொத்தைக் (சொத்துக்கள்) கையாளுதல்](/files/Tamil_Brochure2_Estate_Oct20.pdf){:target="_blank"}(1.09 MB)
 
