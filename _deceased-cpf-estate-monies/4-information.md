@@ -34,11 +34,11 @@ List of Required Documents
 
 **In Tamil**<br>
 
-[Muslims - List of Required Documents (In Tamil)](/files/TamilAnnexAMuslimsListofRequiredDocumentsFeb2020.pdf){:target="_blank"}(938 KB)
+[Muslims - List of Required Documents (In Tamil)](/files/Tamil_AnnexA_Oct20.pdf){:target="_blank"}(1.19 MB)
 
-[Non-Muslims - List of Required Documents (In Tamil)](/files/TamilAnnexBNonMuslimsListofRequiredDocuments_Feb2020.pdf){:target="_blank"}(1 MB)
+[Non-Muslims - List of Required Documents (In Tamil)](/files/Tamil_AnnexB_Non-Muslim_Oct20.pdf){:target="_blank"}(1.19 MB)
 
-[Funeral Reimbursement Claim - List of Required Documents (In Tamil)](/files/Tamil_AnnexC_FuneralClaim_ListofRequiredDocuments_Feb2020.pdf){:target="_blank"}(911 KB)
+[Funeral Reimbursement Claim - List of Required Documents (In Tamil)](/files/Tamil_AnnexC_Funeral_Oct20.pdf){:target="_blank"}(1.1 MB)
 
 Brochures
 ---
@@ -71,9 +71,9 @@ Brochures
 
 **In Tamil**<br>
 
-[இறந்த நபரின் மத்திய சேம நிதிக் கழகப் (மசேநி) பணத்தைக் கையாளுதல்](/files/Tamil_Brochure1_CPFMonies_Feb2020.pdf){:target="_blank"}(1 MB)
+[இறந்த நபரின் மத்திய சேம நிதிக் கழகப் (மசேநி) பணத்தைக் கையாளுதல்](/files/Tamil_Brochure1_CPF_Oct20.pdf){:target="_blank"}(1.54 MB)
 
-[இறந்தவரின் சொத்தைக் (சொத்துக்கள்) கையாளுதல்](/files/Tamil_Brochure2_EstateMonies_Feb2020.pdf){:target="_blank"}(1 MB)
+[இறந்தவரின் சொத்தைக் (சொத்துக்கள்) கையாளுதல்](/files/Tamil_Brochure2_Estate_Oct20.pdf){:target="_blank"}(1.09 MB)
 
 [ஒரு குழந்தைக்காக அறக்கட்டளையில் வைக்கப்பட்டிருக்கும் பணத்தைக் கையாளுதல்](/files/Tamil_Brochure3_Held-in-TrustCases_Feb2020.pdf){:target="_blank"}(445 KB)
 
