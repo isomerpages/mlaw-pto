@@ -39,7 +39,7 @@ Unclaimed Monies
   <tr>
     <td><b>Step 4</b></td>
     <td>
-      Produce the necessary documents according to each of the categories set out below. Please provide information on the “Payee Name”, “Year Paid” and “Remarks” or "Reference No." when making the claim. The list of required documents can be found <a href="/deceased-cpf-estate-monies/forms/">here</a>. 
+      Produce the necessary documents according to each of the categories set out below. Please provide information on the “Payee Name”, “Year Paid” and “Remarks” or "Reference No." when making the claim. The list of required documents can be found <a href="/deceased-cpf-estate-monies/information/">here</a>. 
     </td>
   </tr>
   <tr>
@@ -48,6 +48,6 @@ Unclaimed Monies
 </table>
 **Unclaimed Monies Held By:** <br>
 Public Trustee<br>
-[Deceased Estates(Unclaimed Monies)](/files/PT_unclaimed_Mar20.pdf){:target="_blank"}(3.32MB)<br>
-[Deceased Estates (Bona Vacantia)](/files/PTBona_Mar20.pdf){:target="_blank"}(200KB)<br> 
-[Motor Accident Compensations](/files/AC_unclaimed_Mar20.pdf){:target="_blank"}(31.2KB)
+[Deceased Estates(Unclaimed Monies)](/files/PT.pdf){:target="_blank"}(3.37MB)<br>
+[Deceased Estates (Bona Vacantia)](/files/PT%20Bona.pdf){:target="_blank"}(181KB)<br> 
+[Motor Accident Compensations](/files/AC.pdf){:target="_blank"}(23.5KB)
