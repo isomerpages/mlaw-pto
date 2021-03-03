@@ -49,7 +49,7 @@ Brochures
 
 [Dealing with the Central Provident Fund (CPF) money of someone who has died](/files/Brochure1_CPF_Oct20.pdf){:target="_blank"}(586 KB)
 
-[Dealing with the deceased’s estate (assets)](/files/Brochure2_Estate_Oct20.pdf){:target="_blank"}(365 KB)
+[Dealing with the deceased’s estate (assets)](/files/Brochure 2_Estate Monies_22Feb21.pdf){:target="_blank"}(201 KB)
 
 [Dealing with money held in trust for a child](/files/Bro3_Held-in-TrustCases_Feb2020.pdf){:target="_blank"}(237 KB)
 
@@ -65,7 +65,7 @@ Brochures
 
 [如何分配已故者的公积金存款](/files/Chinese_Brochure1_CPF_17Oct20_.pdf){:target="_blank"}(414 KB)
 
-[如何分配已故者的遗产 (资产)](/files/Chinese_Brochure2_Estate_17Oct20.pdf){:target="_blank"}(369 KB)
+[如何分配已故者的遗产 (资产)](/files/Chinese_Brochure2_Estate_22Feb21.pdf){:target="_blank"}(239 KB)
 
 [为孩童处理受托管的款项](/files/Chinese_Brochure3_Held-in-TrustCases_Feb2020.pdf){:target="_blank"}(456 KB)
 
