@@ -1,6 +1,6 @@
 ---
 title: Videos
-permalink: /pto-resources/videos/
+permalink: /resources/videos/
 breadcrumb: Videos
 
 ---
