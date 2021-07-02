@@ -29,6 +29,8 @@ collections:
         output: true
     motor-accident-cases:
         output: true
+    resources:
+        output: true
     wills-registry:
         output: true
 favicon: /images/favicon-minlaw.ico

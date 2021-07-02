@@ -23,6 +23,6 @@ links:
     - title: e-Services
       url: 'https://eservices.mlaw.gov.sg/pto/welcome.xhtml'
     - title: 'Resources'
-      collection: PTO-Resources
+      collection: resources
     - title: News
       url: 'https://www.mlaw.gov.sg/news/'
