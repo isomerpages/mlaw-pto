@@ -30,7 +30,7 @@ If you are ineligible to apply for a Singpass, you may apply for a login ID and 
 
 For a reimbursement of funeral expenses, <a href = "/files/AnnexC_Funeral_Oct20.pdf" target = "_blank">Annex C</a> sets out the list of documents we need.
 
-You may pick up a copy of the Annexes from our office or view them from our website under <a href = "https://pto.mlaw.gov.sg/deceased-cpf-estate-monies/forms/" target = "_blank">Deceased CPF / Estate Monies > Forms</a>.
+You may pick up a copy of the Annexes from our office or view them from our website under <a href = "https://pto.mlaw.gov.sg/deceased-cpf-estate-monies/information/" target = "_blank">Deceased CPF / Estate Monies > Information</a>.
 
 Common types of documents we need are shown below.
 <ul>
@@ -230,7 +230,7 @@ c) If Claimant is:
 </ul>
 d) <a href = "/Declarationform(CPFMonies)forfuneralexpenses(Form12).pdf" target = "_blank">Declaration Form (CPF monies) for funeral expenses</a>.
 
-e) Payments will be made to the Claimant via PayNow (which has to be registered with your NRIC) or Direct Credit to the bank account. For Direct Credit, you will need to submit a copy of the front page of the bank passbook or bank statement. For a payment request via Direct Credit to a third party bank account, both you and the account holder(s) must execute the indemnity form (Form 15) which is available at our website. For the other non-electronic modes of payment, you will bear all the charges imposed by the bank(s) which will be deducted directly from the inheritance.
+e) Payments will be made to the Claimant via PayNow (which has to be registered with your NRIC) or Direct Credit to the bank account. For Direct Credit, you will need to submit a copy of the front page of the bank passbook or bank statement. For a payment request via Direct Credit to a third party bank account, both you and the account holder(s) must execute the indemnity form (Form 15) which is available at our <a href = "https://pto.mlaw.gov.sg/deceased-cpf-estate-monies/forms/" target = "_blank">website</a>. For the other non-electronic modes of payment, you will bear all the charges imposed by the bank(s) which will be deducted directly from the inheritance.
 
 f) Relevant receipts incurred for funeral expenses (not compulsory)
 
