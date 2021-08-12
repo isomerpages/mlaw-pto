@@ -17,6 +17,8 @@ Forms
 
 [Declaration Form (Estate monies) for funeral expenses](/Declarationform(EstateMonies)forfuneralexpenses(Form13).pdf){:target="_blank"}(218KB)
 
+[Form 19-Letter of Declaration for funeral receipts](/files/Form%2019_Letter%20of%20Declaration%20for%20Funeral%20Receipts.pdf){:target="_blank"}(122 KB)
+
 [Declaration of Services rendered to minor beneficiaries](/files/DeclarationofServicesrenderedtoMinor(Form17).pdf){:target="_blank"}(139 KB)
 
 [Discrepancies in Documents](/files/DiscrepanciesinDocuments(Form7).pdf){:target="_blank"}{:target="_blank"} (78 KB)
