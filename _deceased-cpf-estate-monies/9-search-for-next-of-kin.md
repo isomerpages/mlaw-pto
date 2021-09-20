@@ -17,3 +17,9 @@ Notices
 3) Lai Yuen Thim (NRIC No. SXXXX065B)  - Please click on the [link](/files/Advert-T2882019.pdf){:target="_blank"}(63.5KB) for more information.
 
 4) Soh Hay (NRIC No. SXXXX260A) - Please click on the [link](/files/advT2037-2018.pdf){:target="_blank"}(63.5KB) for more information.
+
+5) Lim Kuan Peng (NRIC No. Sxxxx894D) - Please click on the [link](/files/PTnotice15092021.pdf){:target="_blank"}(63.5KB) for more information.
+
+6) Low Guan Keng (NRIC No. Sxxxx383D) - Please click on the [link](/files/PTnotice15092021.pdf){:target="_blank"}(63.5KB) for more information.
+
+7) Yong Nget Yuen (NRIC No. Sxxxx802D) - Please click on the [link](/files/PTnotice15092021.pdf){:target="_blank"}(63.5KB) for more information.
