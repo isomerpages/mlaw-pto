@@ -7,6 +7,12 @@ breadcrumb: Media
 Media
 ---
 <font size="6"><b>Video</b><br>
+ 
+<font size="4"><b>CPF Board Video  - "Have you made a CPF nomination?"</b>
+<div class="bp-youtube">
+ 
+ <<iframe width="200" height="80" src="https://www.youtube.com/watch?v=cj6w1hjQSGs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
 <font size="4"><b>Mothership Video  - Find out what happens to all your money when you die</b>
 <div class="bp-youtube">
   
