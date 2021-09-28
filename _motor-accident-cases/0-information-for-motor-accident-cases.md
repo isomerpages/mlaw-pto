@@ -165,10 +165,11 @@ Lawyers will be required to liaise directly with the respective insurer(s) on th
 **18.	What are some of the documents that must be submitted in an application to the PT for the assessment of adequacy of out-of-court compensation for unrepresented victims?**<br>
 The documents commonly required for the assessment of adequacy of out-of-court compensation for un-represented victims are:
 
-(a)           A copy of the settlement agreement;<br>
+(a)          A copy of the settlement agreement;<br>
 (b)          A copy of the medical report(s) detailing the injuries suffered as a result of the motor accident;<br>
-(c)           A copy of the identification document of the person entitled to the payment of the compensation;<br>
-(d)          Lodgment form for deduction of compensation moneys from the  insurer; and<br>
-(e)           A copy of the bank passbook for making payment to the person entitled to the payment of the compensation.<br><br>
+(c)          A copy of the Case Authorities in respect of the injuries cited;<br>
+(d)          A copy of the identification document of the person entitled to the payment of the compensation;<br>
+(e)          Lodgment form for deduction of compensation moneys from the  insurer; and<br>
+(f)          A copy of the bank passbook for making payment to the person entitled to the payment of the compensation.<br><br>
 
 **With effect from 5 Mar 2018, all payments will be made electronically.**
