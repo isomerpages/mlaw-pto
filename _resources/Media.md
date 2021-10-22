@@ -8,6 +8,13 @@ Media
 ---
 <font size="6"><b>Videos</b><br>
  
+<font size="4"><b>Estate Planning Forum 2021</b>
+<div class="bp-youtube">
+ 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MvXFWWmiju8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div><br> 
+
+
 <font size="4"><b>CPF Board - "Have you made a CPF nomination?"</b>
 <div class="bp-youtube">
  
