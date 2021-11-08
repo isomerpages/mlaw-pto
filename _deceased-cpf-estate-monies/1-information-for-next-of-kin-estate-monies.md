@@ -15,7 +15,7 @@ You will need to ensure that the estate does not fall under one of the situation
 **2. What are the situations where the Public Trustee cannot act?**<br>
 We cannot act if:
 
-* the estate is worth more than $50,000;
+* the estate is worth more than $50,000 (excluding Dependants' Protection Scheme (DPS));
 * a court application for Letters of Administration or Grant of Probate has been filed;
 * there are conflicting claims to the estate or disputes among the beneficiaries;
 * the estate has outstanding debts or liabilities;
