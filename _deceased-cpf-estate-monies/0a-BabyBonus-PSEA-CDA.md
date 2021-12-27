@@ -8,11 +8,11 @@ collection_name: deceased-cpf-estate-monies
 <br><br>
 
 <font size="4"><b>1.	What do I need to do for the Baby Bonus / Edusave / PSEA / CDA money to be distributed to me?</b><br><br>
-You will need to make an online application <a href = "https://eservices.mlaw.gov.sg/pto/welcome.xhtml" target = "_blank">"Administration of CPF / Baby Bonus / Edusave / PSEA Monies"</a> so that we can deal with the money.<br><br>
+You will need to make an online application <a href = "https://eservices.mlaw.gov.sg/pto" target = "_blank">"Administration of CPF / Baby Bonus / Edusave / PSEA Monies"</a> so that we can deal with the money.<br><br>
 
 You will need to have your Singpass ready in order to access our online application form. You may apply for your Singpass at <a href = "https://www.singpass.gov.sg" target = "_blank">https://www.singpass.gov.sg</a> if you do not have one.<br><br>
  
-If you are ineligible to apply for a Singpass, you may apply for a login ID and password through our website: <a href = "https://eservices.mlaw.gov.sg/pto/welcome.xhtml" target = "_blank">https://eservices.mlaw.gov.sg/pto/welcome.xhtml</a>.<br><br>
+If you are ineligible to apply for a Singpass, you may apply for a login ID and password through our website: <a href = "https://eservices.mlaw.gov.sg/pto" target = "_blank">https://eservices.mlaw.gov.sg/pto</a>.<br><br>
 
 <b>2.	What are the documents that need to be submitted?</b><br><br>
 <a href = "/files/AnnexA_Muslims_Oct20.pdf" target = "_blank">Annex A</a> (for Muslims) and <a href = "/files/AnnexB_NonMuslims_Oct20.pdf" target = "_blank">Annex B</a> (for non-Muslims) set out the list of documents we need. You may pick up a copy of the Annexes from our office or view them from our website under <a href = "https://pto.mlaw.gov.sg/deceased-cpf-estate-monies/information/" target = "_blank">Deceased CPF / Estate Monies > Information</a>.<br><br>
@@ -35,7 +35,7 @@ If the person who has died was a Muslim, you will need to apply for the Certific
 You will be assigned a case officer after you have filed your online application. Please inform your case officer if you do not possess some of the required documents. Your case officer will advise you on what to do after you have submitted your online application.<br><br>
 
 <b>3.	Whom do I submit the documents to?</b><br><br>
-You may attach the required documents in your online submission, send via <a href = "https://eservices.mlaw.gov.sg/pto/welcome.xhtml" target = "_blank">e-services</a> or post to us at the following address:<br><br>
+You may attach the required documents in your online submission, send via <a href = "https://eservices.mlaw.gov.sg/pto" target = "_blank">e-services</a> or post to us at the following address:<br><br>
 
 Public Trustee’s Office<br>
 The URA Centre (East Wing)<br>
