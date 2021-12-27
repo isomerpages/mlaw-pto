@@ -61,11 +61,11 @@ In deciding the amount of the maintenance allowance, we will consider the follow
   4) The way in which the child is being or is expected to be educated or trained.<br>
 
 **3. How do I apply for a child’s maintenance allowance?**<br>
-You will need to make an online application at [https://eservices.mlaw.gov.sg/pto/welcome.xhtml](https://eservices.mlaw.gov.sg/pto/welcome.xhtml). Select "Application for Maintenance Allowance".
+You will need to make an online application at [https://eservices.mlaw.gov.sg/pto](https://eservices.mlaw.gov.sg/pto). Select "Application for Maintenance Allowance".
 
 You will also need to have your Singpass ready to access our online application form. You may apply for your Singpass at [https://www.singpass.gov.sg](https://www.singpass.gov.sg) if you do not have one.
 
-If you are not eligible for a Singpass, you may apply for a log-in ID and password through our website at [https://eservices.mlaw.gov.sg/pto/welcome.xhtml](https://eservices.mlaw.gov.sg/pto/welcome.xhtml).<br>
+If you are not eligible for a Singpass, you may apply for a log-in ID and password through our website at [https://eservices.mlaw.gov.sg/pto](https://eservices.mlaw.gov.sg/pto).<br>
 
 **4. What are the documents that I need to send to you?**<br>
 You will be required to provide proof that you are not able to support the child (for example, your monthly payslips) and documents relating to the child’s financial needs.
@@ -95,7 +95,7 @@ If we agree to pay for the expenses out of your child’s money, we will make pa
 **9. What do you do with the money held-in-trust?**<br>
 We will invest the money that is held in trust in safe financial instruments like fixed deposits and bonds. We will pay the money, plus interest earned (less our fees), to the child when they reach the age of majority (either 18 or 21).
 
-You can view the Statement of Accounts online through our eService ([https://eservices.mlaw.gov.sg/pto/welcome.xhtml](https://eservices.mlaw.gov.sg/pto/welcome.xhtml)).<br>
+You can view the Statement of Accounts online through our eService ([https://eservices.mlaw.gov.sg/pto](https://eservices.mlaw.gov.sg/pto)).<br>
 
 **10.	What are the fees charged by the Public Trustee for the investment of money held-in-trust?**<br>
 The statutory fees charged by the Public Trustee on the amount of interest earned for the investment of money held-in-trust are as follows:
@@ -136,11 +136,11 @@ The following persons can view the Statement of Account:<br>
 <sup>1</sup> The minimum age to apply for a SingPass is 15 years.<br>
 
 **2. How do I view the online Statement of Account?**<br>
-You will need to log on to our eService through our website ([https://eservices.mlaw.gov.sg/pto/welcome.xhtml](https://eservices.mlaw.gov.sg/pto/welcome.xhtml)) to be able to view the child’s Statement of Account.
+You will need to log on to our eService through our website ([https://eservices.mlaw.gov.sg/pto](https://eservices.mlaw.gov.sg/pto)) to be able to view the child’s Statement of Account.
 
 You will need to have your SingPass of ready in order to access our eService. If you do not have a Singpass, you may obtain one at [http://www.singpass.gov.sg](http://www.singpass.gov.sg).
 
-If you are not eligible to apply for a Singpass and above 21 years old, you may register for a Non-SingPass login ID through our website ([https://pto.mlaw.gov.sg/](/)).<br>
+If you are not eligible to apply for a Singpass and above 21 years old, you may register for a Non-SingPass login ID through our website ([https://eservices.mlaw.gov.sg/pto](/)).<br>
 
 **3. How do I navigate this new eService?**<br>
 You may refer to the training slides on our website at [https://pto.mlaw.gov.sg/deceased-cpf-estate-monies/information/](/deceased-cpf-estate-monies/information/).<br> There are available <a href = "https://pto.mlaw.gov.sg/deceased-cpf-estate-monies/eservices-guides/" target = "_blank">eService guides</a> too.
@@ -169,12 +169,12 @@ If you do not receive our notification letter before your 21st birthday, please 
 
 With effect from 5 March 2018, all payments will be made electronically.
 
-Please submit your preferred payment mode via <a href = "https://eservices.mlaw.gov.sg/pto/welcome.xhtml" target = "_blank">https://eservices.mlaw.gov.sg/pto/welcome.xhtml</a> (Submission of Bank Account / PayNow Details).<br>
+Please submit your preferred payment mode via <a href = "https://eservices.mlaw.gov.sg/pto" target = "_blank">https://eservices.mlaw.gov.sg/pto</a> (Submission of Bank Account / PayNow Details).<br>
 •	For PayNow, the account has to be registered with your NRIC)<br> 
 •	For Direct Credit, you will need to submit a clear copy of your identity card (front and back) and the front page of the bank passbook or bank statement.<br><br> For the other non-electronic modes of payment, you will bear all the charges imposed by the banks(s) which will be deducted directly from the inheritance.
 
 **If you are living overseas**<br>
-For payment by telegraphic transfer, please send us by post or via [https://eservices.mlaw.gov.sg/pto/welcome.xhtml](https://eservices.mlaw.gov.sg/pto/welcome.xhtml) (Submission of Supporting Documents), a clear copy of:
+For payment by telegraphic transfer, please send us by post or via [https://eservices.mlaw.gov.sg/pto](https://eservices.mlaw.gov.sg/pto) (Submission of Supporting Documents), a clear copy of:
 
 1) the page of your passport which shows your name, passport number and other particulars; and<br>
 
