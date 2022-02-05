@@ -13,7 +13,7 @@ Statistics
 
 Public Trustee
 
-[Cases Administered](/files/TrustCasesAdministeredMay2021.pdf){:target="_blank"}(PDF File - 226KB)
+[Cases Administered](/files/Trust_Cases_Administered.pdf){:target="_blank"}(PDF File - 143KB)
 
 [Amount of Unclaimed Monies Held by IPTO (as of 31 Dec 2020)](/files/IPTOUnclaimedMonies_31Dec%2020.pdf){:target="_blank"}(PDF file - 125KB)
 
