@@ -13,9 +13,9 @@ Forms
 
 [Form 18 - Renunciation & Indemnity Form](/files/RenunciationandIndemnity(Form18)Feb2020.pdf){:target="_blank"}(238KB)
 
-[Form 12 - Declaration Form (CPF monies) for funeral expenses](/Declarationform(CPFMonies)forfuneralexpenses(Form12).pdf){:target="_blank"}(220KB)
+[Form 12 - Declaration Form (CPF monies) for funeral expenses](/files/Declarationform(CPFMonies)forfuneralexpenses(Form12).pdf){:target="_blank"}(220KB)
 
-[Form 13 - Declaration Form (Estate monies) for funeral expenses](/Declarationform(EstateMonies)forfuneralexpenses(Form13).pdf){:target="_blank"}(218KB)
+[Form 13 - Declaration Form (Estate monies) for funeral expenses](/files/Declarationform(EstateMonies)forfuneralexpenses(Form13).pdf){:target="_blank"}(218KB)
 
 [Form 19 - Letter of Declaration for funeral receipts](/files/Form%2019_Letter%20of%20Declaration%20for%20Funeral%20Receipts.pdf){:target="_blank"}(122 KB)
 
