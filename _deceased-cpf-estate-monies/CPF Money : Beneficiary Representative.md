@@ -127,4 +127,5 @@ Yes, the BR claim will apply for cases in which the un-nominated CPF monies were
 		<td>0.300%</tr>
 	</tr>
 	</table>
+
 <br>These fees, which will be deducted from the CPF money, include GST and cannot be waived. You will have to pay a minimum fee of $15.
