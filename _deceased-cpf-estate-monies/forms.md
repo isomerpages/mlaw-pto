@@ -2,16 +2,13 @@
 title: Forms
 permalink: /deceased-cpf-estate-monies/forms/
 breadcrumb: Forms
-
 ---
-
-
 Forms
 ---
 
 **Forms For Public Trustee**<br>
 
-[Form 18 - Renunciation & Indemnity Form](/files/RenunciationandIndemnity(Form18)Feb2020.pdf){:target="_blank"}(238KB)
+[Form 18 - Renunciation &amp; Indemnity Form](/files/Form18.pdf){:target="_blank"}(139KB)
 
 [Form 12 - Declaration Form (CPF monies) for funeral expenses](/files/Declarationform(CPFMonies)forfuneralexpenses(Form12).pdf){:target="_blank"}(220KB)
 
@@ -25,7 +22,6 @@ Forms
 
 [Form 10 - Application for CPF Monies Less Than or Equal to $100](/files/Form 10.pdf){:target="_blank"}(223KB)
 
-[Form 15 - Letter of Authorisation & Indemnity for payment to Third party Bank Account](/files/Form%2015.pdf){:target="_blank"}(259 KB)
+[Form 15 - Letter of Authorisation &amp; Indemnity for payment to Third party Bank Account](/files/Form%2015.pdf){:target="_blank"}(259 KB)
 
 *[Forms 15A and 15B/C are replaced by Form 15. With effect from 17 October 2020, Form 15 is only required for payments made to third-party's bank account.]*
-
