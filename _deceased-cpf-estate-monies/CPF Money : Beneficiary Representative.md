@@ -11,12 +11,12 @@ The onus is on the BR to distribute the monies to all the other beneficiaries in
 
 **2.	Who can act as a BR?**<br>
 A BR must be a beneficiary according to the Intestate Succession Act 1967, the Administration of Muslim Law Act 1966, of the intestacy law of the country that the deceased CPF member was domiciled in. Depending on the rules of distribution, or the Certificate of Inheritance, a beneficiary must be one of the following next-of-kin of the deceased CPF member in the following order:
-<br>(a) Spouse;
-<br>(b) Child (or Grandchild, if the Child had passed away);
-<br>(c) Parent;
-<br>(d) Sibling (or Niece and/or Nephew, if the Sibling had passed away);
-<br>(e) Grandparent; or
-<br>(f) Uncle or Aunt. <br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a. Spouse;
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b. Child (or Grandchild, if the Child had passed away);
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; c. Parent;
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; d. Sibling (or Niece and/or Nephew, if the Sibling had passed away);
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; e. Grandparent; or
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; f. Uncle or Aunt. <br>
 
 **3.	Who cannot act as a BR?**<br>
 The following beneficiaries cannot act as a BR:
