@@ -28,7 +28,7 @@ The following beneficiaries cannot act as a BR:
 If your child is below 21 years old, you will not be able to submit a BR claim. Instead, you may submit a standard claim for your child, along with supporting documents to prove the relationship between your child and your ex-spouse. Your child’s share of the CPF monies will be held in trust by the Public Trustee (“PT”) until your child is 21 years old.<br>
 
 **5.	Does the BR have to obtain consent from the other beneficiaries before submitting an application for a BR claim?**
-<ol style="list-style-type: lower-alpha; padding-bottom: 0;"><font size="3">
+<ol style="list-style-type: lower-alpha; padding-bottom: 0;">
 <li style="margin-left:2em"> Yes, the BR is required to obtain the consent from all the other  beneficiaries (if any) before applying to the Public Trustee’s Office (“PTO”) under MinLaw for a BR claim.</li>
 <li style="margin-left:2em; padding-bottom: 0;">The BR needs to declare during the application that (i) he/she is the sole Beneficiary; or (ii) the other beneficiaries have given their consent for him/her to represent them to receive their share of the un-nominated CPF monies on their behalf.</li>
 <li style="margin-left:2em; padding-bottom: 0;">After the application has been submitted, the beneficiaries will all receive an email from PTO seeking confirmation that they have provided consent to the BR.</li>
