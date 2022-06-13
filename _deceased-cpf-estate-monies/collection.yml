@@ -2,7 +2,6 @@ collections:
   deceased-cpf-estate-monies:
     output: true
     order:
-      - eServices Guides.md
       - "CPF Money: Standard Claim.md"
       - "CPF Money : Beneficiary Representative.md"
       - baby-bonus-edusave-psea-cda.md
@@ -11,6 +10,7 @@ collections:
       - claims-against-bona-vacantia-estate.md
       - information.md
       - forms.md
+      - eServices Guides.md
       - guide-for-payment-to-pt.md
       - unclaimed-monies.md
       - statistics.md
