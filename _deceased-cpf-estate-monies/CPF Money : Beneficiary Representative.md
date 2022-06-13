@@ -96,3 +96,35 @@ An email will be sent to each beneficiary via the email address provided by the 
 <li style="margin-left:2em"> No, the PTO will reject the BR claim where disputes have been observed or made known to our office.
 <li style="margin-left:2em"> All beneficiaries must give their consent. If the BR is unable to obtain all beneficiaries’ consent, he/she has to disclose it at point of application and will be redirected to submit a standard claim instead. </ol>
 	
+**14.	I received a letter before the commencement of the BR approach (18 June 2022) informing me of the deceased’s un-nominated CPF monies and to make an application. Can I choose to submit a BR claim application?**<br> 
+Yes, the BR claim will apply for cases in which the un-nominated CPF monies were received by the PT before 18 June 2022, provided that the amount does not exceed $10,000. <br>
+
+**15.	Will the PT administration fees apply for the BR claim approach?**<br> 
+	Yes, the same set of PT administration fees will apply. They are as shown below:
+<table>
+	<tr>
+		<th>AMOUNT OF CPF MONEY</th>
+		<th>CHARGE</th>
+	</tr>
+	<tr>
+		<td>FOR THE FIRST $1,000</td>
+		<td>2.400%</td>
+	</tr>
+	<tr>
+		<td>FOR THE NEXT $9,000</td>
+		<td>1.500%</td>
+	</tr>
+	<tr>
+		<td>FOR THE NEXT $240,000</td>
+		<td>0.750%</td>
+	</tr>
+	<tr>
+		<td>FOR THE NEXT $250,000</td>
+		<td>0.450%</td>
+	</tr>
+	<tr>
+		<td>FOR AMOUNTS IN EXCESS OF $500,000</td>
+		<td>0.300%</tr>
+	</tr>
+	</table>
+<br>These fees, which will be deducted from the CPF money, include GST and cannot be waived. You will have to pay a minimum fee of $15.
