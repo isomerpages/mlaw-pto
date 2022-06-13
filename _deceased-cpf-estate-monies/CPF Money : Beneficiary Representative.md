@@ -20,9 +20,9 @@ A BR must be a beneficiary according to the Intestate Succession Act 1967, the A
 
 **3.	Who cannot act as a BR?**<br>
 The following beneficiaries cannot act as a BR:
-(a) Undischarged bankrupts;
-(b) Minors under the age of 21;
-(c) Mentally incapacitated persons; and<br>
+<br>(a) Undischarged bankrupts;
+<br>(b) Minors under the age of 21;
+<br>(c) Mentally incapacitated persons; and<br>
 
 **4.	My ex-spouse passed away. Can I submit the BR claim for my child?**<br>
 If your child is below 21 years old, you will not be able to submit a BR claim. Instead, you may submit a standard claim for your child, along with supporting documents to prove the relationship between your child and your ex-spouse. Your child’s share of the CPF monies will be held in trust by the Public Trustee (“PT”) until your child is 21 years old.<br>
