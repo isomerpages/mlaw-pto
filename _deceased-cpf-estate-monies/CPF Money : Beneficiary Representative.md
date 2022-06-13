@@ -78,16 +78,16 @@ An email will be sent to each beneficiary via the email address provided by the 
 <br>ii. Beneficiaries who are uncontactable, whose entitlements will be held by the PT until they submit a claim.
 <br>iii. Prison inmates. They may approach the PTO to receive their entitlements upon their release from prison.
 <br>iv. Undischarged bankrupts who must have their entitlement paid to the Official Assignee or Private Trustee in Bankruptcy.
-<br>v. Beneficiaries who are mentally incapacitated and have appointed deputy(s). Their entitlements will be paid to the deputy(s) unless consent is given by the deputy for the BR to receive the monies on his/her behalf.
-<li style="margin-left:2em">All other beneficiaries not specified above will have their shares paid to the BR if they have provided their consent.</ol>
+<br>v. Beneficiaries who are mentally incapacitated and have appointed deputy(s). Their entitlements will be paid to the deputy(s) unless consent is given by the deputy for the BR to receive the monies on his/her behalf.</li>
+<li style="margin-left:2em">All other beneficiaries not specified above will have their shares paid to the BR if they have provided their consent.</li></ol>
 	
 **11.	What if the BR failed to disclose a beneficiary to PT and obtain that beneficiary’s consent?**<br>
-<ol style="list-style-type: lower-alpha; padding-bottom: 0;"><font size = "3">
-<li style="margin-left:2em">The PTO will take steps to verify the beneficiaries stated in the application based on available information and records. The PTO will seek clarification from the BR should there be a discrepancy between the information submitted and our records.
-<li style="margin-left:2em">The onus is on the BR to fully disclose the information of all the beneficiaries for the PTO to ascertain their consent. In circumstances where the BR failed to disclose a beneficiary (and no records of the beneficiary are observed in the PT’s records) and the latter comes forth to claim his/her entitlement of the CPF monies that has been paid to the BR, the beneficiary will be directed to the BR to resolve the matter in private. Actions may also be taken against the BR for making a false declaration.</ol>
+<ol style="list-style-type: lower-alpha; padding-bottom: 0;">
+<li style="margin-left:2em">The PTO will take steps to verify the beneficiaries stated in the application based on available information and records. The PTO will seek clarification from the BR should there be a discrepancy between the information submitted and our records.</li>
+<li style="margin-left:2em">The onus is on the BR to fully disclose the information of all the beneficiaries for the PTO to ascertain their consent. In circumstances where the BR failed to disclose a beneficiary (and no records of the beneficiary are observed in the PT’s records) and the latter comes forth to claim his/her entitlement of the CPF monies that has been paid to the BR, the beneficiary will be directed to the BR to resolve the matter in private. Actions may also be taken against the BR for making a false declaration.</li></ol>
 	
 **12.	Can the BR still apply to make a claim if he/she knows the existence of other beneficiaries but is not aware of their name, ID number and other information having lost contact?**<br>
-<ol style="list-style-type: lower-alpha; padding-bottom: 0;"><font size = "3">
+<ol style="list-style-type: lower-alpha; padding-bottom: 0;">
 <li style="margin-left:2em"> No. The BR will be unable to proceed with the BR application as the BR is unable to obtain the consent of all beneficiaries.
 <li style="margin-left:2em"> The BR will then be redirected to submit a standard claim application instead. </ol>
 	
