@@ -124,7 +124,7 @@ Yes, the BR claim will apply for cases in which the un-nominated CPF monies were
 	</tr>
 	<tr>
 		<td>FOR AMOUNTS IN EXCESS OF $500,000</td>
-		<td>0.300%</tr>
+		<td>0.300%</td>
 	</tr>
 	</table>
 
