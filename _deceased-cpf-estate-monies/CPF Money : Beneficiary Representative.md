@@ -75,11 +75,12 @@ An email will be sent to each beneficiary via the email address provided by the 
 **10.	In what circumstances will the beneficiaries’ share of the CPF monies be held by the PT?**<br>
 <ol style="list-style-type: lower-alpha; padding-bottom: 0;">
 <li style="margin-left:2em">There are circumstances where beneficiaries’ share of the deceased’s un-nominated CPF monies will be held by the PT. This applies to beneficiaries who are:
-<br>i. Minors below 21 years old, whose entitlements will be held until they attain the age of 21.
-<br>ii. Beneficiaries who are uncontactable, whose entitlements will be held by the PT until they submit a claim.
-<br>iii. Prison inmates. They may approach the PTO to receive their entitlements upon their release from prison.
-<br>iv. Undischarged bankrupts who must have their entitlement paid to the Official Assignee or Private Trustee in Bankruptcy.
-<br>v. Beneficiaries who are mentally incapacitated and have appointed deputy(s). Their entitlements will be paid to the deputy(s) unless consent is given by the deputy for the BR to receive the monies on his/her behalf.</li>
+<ul>
+<li style="list-style-type: lower-roman">Minors below 21 years old, whose entitlements will be held until they attain the age of 21.</li>
+<li style="list-style-type: lower-roman"> Beneficiaries who are uncontactable, whose entitlements will be held by the PT until they submit a claim.</li>
+<li style="list-style-type: lower-roman"> Prison inmates. They may approach the PTO to receive their entitlements upon their release from prison.</li>
+<li style="list-style-type: lower-roman"> Undischarged bankrupts who must have their entitlement paid to the Official Assignee or Private Trustee in Bankruptcy.</li>
+<li style="list-style-type: lower-roman"> Beneficiaries who are mentally incapacitated and have appointed deputy(s). Their entitlements will be paid to the deputy(s) unless consent is given by the deputy for the BR to receive the monies on his/her behalf.</li></ul>
 <li style="margin-left:2em">All other beneficiaries not specified above will have their shares paid to the BR if they have provided their consent.</li></ol>
 	
 **11.	What if the BR failed to disclose a beneficiary to PT and obtain that beneficiary’s consent?**<br>
