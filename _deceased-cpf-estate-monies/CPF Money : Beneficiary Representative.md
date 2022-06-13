@@ -74,7 +74,7 @@ An email will be sent to each beneficiary via the email address provided by the 
 	
 **10.	In what circumstances will the beneficiaries’ share of the CPF monies be held by the PT?**<br>
 <ol style="list-style-type: lower-alpha; padding-bottom: 0;">
-<li style="margin-left:2em">There are circumstances where beneficiaries’ share of the deceased’s un-nominated CPF monies will be held by the PT. This applies to beneficiaries who are:
+<li style="margin-left:2em">There are circumstances where beneficiaries’ share of the deceased’s un-nominated CPF monies will be held by the PT. This applies to beneficiaries who are:</li>
 <ul>
 <li style="list-style-type: lower-roman">Minors below 21 years old, whose entitlements will be held until they attain the age of 21.</li>
 <li style="list-style-type: lower-roman"> Beneficiaries who are uncontactable, whose entitlements will be held by the PT until they submit a claim.</li>
