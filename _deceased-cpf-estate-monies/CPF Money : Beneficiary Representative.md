@@ -88,13 +88,13 @@ An email will be sent to each beneficiary via the email address provided by the 
 	
 **12.	Can the BR still apply to make a claim if he/she knows the existence of other beneficiaries but is not aware of their name, ID number and other information having lost contact?**<br>
 <ol style="list-style-type: lower-alpha; padding-bottom: 0;">
-<li style="margin-left:2em"> No. The BR will be unable to proceed with the BR application as the BR is unable to obtain the consent of all beneficiaries.
-<li style="margin-left:2em"> The BR will then be redirected to submit a standard claim application instead. </ol>
+<li style="margin-left:2em"> No. The BR will be unable to proceed with the BR application as the BR is unable to obtain the consent of all beneficiaries.</li>
+<li style="margin-left:2em"> The BR will then be redirected to submit a standard claim application instead. </li></ol>
 	
 **13.	If a beneficiary objects to the BR representing him/her, can the BR still submit a claim?**<br>
-<ol style="list-style-type: lower-alpha; padding-bottom: 0;"><font size = "3">
-<li style="margin-left:2em"> No, the PTO will reject the BR claim where disputes have been observed or made known to our office.
-<li style="margin-left:2em"> All beneficiaries must give their consent. If the BR is unable to obtain all beneficiaries’ consent, he/she has to disclose it at point of application and will be redirected to submit a standard claim instead. </ol>
+<ol style="list-style-type: lower-alpha; padding-bottom: 0;">
+<li style="margin-left:2em"> No, the PTO will reject the BR claim where disputes have been observed or made known to our office.</li>
+<li style="margin-left:2em"> All beneficiaries must give their consent. If the BR is unable to obtain all beneficiaries’ consent, he/she has to disclose it at point of application and will be redirected to submit a standard claim instead. </li></ol>
 	
 **14.	I received a letter before the commencement of the BR approach (18 June 2022) informing me of the deceased’s un-nominated CPF monies and to make an application. Can I choose to submit a BR claim application?**<br> 
 Yes, the BR claim will apply for cases in which the un-nominated CPF monies were received by the PT before 18 June 2022, provided that the amount does not exceed $10,000. <br>
