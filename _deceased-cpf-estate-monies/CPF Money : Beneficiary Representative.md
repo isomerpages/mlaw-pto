@@ -39,7 +39,7 @@ The PTO will require the BR to submit documents to prove the familial relationsh
 	
 **7.	What information and documents are required from the BR if the deceased CPF member is a non-Muslim?**<br>
 <ol style="list-style-type: lower-alpha; padding-bottom: 0;">
-<li style="margin-left:2em">The BR will be required to provide personal details and produce supporting documents to prove his/her relationship to the deceased CPF member when submitting the application for a BR claim.
+<li style="margin-left:2em">The BR will be required to provide personal details and produce supporting documents to prove his/her relationship to the deceased CPF member when submitting the applic</li>ation for a BR claim.</li>
 <li style="margin-left:2em">The BR will also need to provide the other beneficiaries’ details that include the beneficiaries’:
 <br>i. name;
 <br>ii. ID number;
