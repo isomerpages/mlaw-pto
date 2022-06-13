@@ -2,6 +2,7 @@ collections:
   deceased-cpf-estate-monies:
     output: true
     order:
+      - eServices Guides.md
       - "CPF Money: Standard Claim.md"
       - "CPF Money : Beneficiary Representative.md"
       - baby-bonus-edusave-psea-cda.md
