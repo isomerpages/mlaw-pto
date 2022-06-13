@@ -32,8 +32,9 @@ If your child is below 21 years old, you will not be able to submit a BR claim. 
 <li style="margin-left:2em"> Yes, the BR is required to obtain the consent from all the other  beneficiaries (if any) before applying to the Public Trustee’s Office (“PTO”) under MinLaw for a BR claim.
 </li><li style="margin-left:2em; padding-bottom: 0;">The BR needs to declare during the application that (i) he/she is the sole Beneficiary; or (ii) the other beneficiaries have given their consent for him/her to represent them to receive their share of the un-nominated CPF monies on their behalf.
 </li><li style="margin-left:2em; padding-bottom: 0;">After the application has been submitted, the beneficiaries will all receive an email from PTO seeking confirmation that they have provided consent to the BR.
-</li><li style="margin-left:2em; padding-bottom: 0;">Should any of the beneficiaries be below the age of 21, the PT will hold their share on trust for them until they attain the age of majority (i.e. 21 years old). This is because, as minors, they cannot give consent to how their share of the un-nominated CPF monies is to be applied.</li>
+</li><li style="margin-left:2em; padding-bottom: 0;">Should any of the beneficiaries be below the age of 21, the PT will hold their share on trust for them until they attain the age of majority (i.e. 21 years old). This is because, as minors, they cannot give consent to how their share of the un-nominated CPF monies is to be applied.</ol>
 
-**6.	My ex-spouse passed away. Can I submit the BR claim for my child?**<br>
-If your child is below 21 years old, you will not be able to submit a BR claim. Instead, you may submit a standard claim for your child, along with supporting documents to prove the relationship between your child and your ex-spouse. Your child’s share of the CPF monies will be held in trust by the Public Trustee (“PT”) until your child is 21 years old.<br>
-</font></ol>
+**6.	What happens if one of the beneficiaries is a minor under the age of 21 and is unable to provide consent?**<br>
+The PTO will require the BR to submit documents to prove the familial relationship of the minor and the deceased CPF member. Thereafter, the minor’s share will be held in trust by the PT until the minor attains the age of 21 years old. The BR will be able to represent the other beneficiaries after obtaining their consent to receive the monies on their behalf.<br>
+	
+	
