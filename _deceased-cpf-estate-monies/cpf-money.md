@@ -1,12 +1,9 @@
 ---
-title: 'CPF Money'
+title: CPF Money
 permalink: /deceased-cpf-estate-monies/information-for-next-of-kin-cpf-monies/
-breadcrumb: 'CPF Money'
-
+breadcrumb: CPF Money
 ---
-
-
-CPF Money
+CPF Money: Standard Claim
 ---
 
 **1.	How do I know if my loved one has any CPF money and if they had made a valid nomination?**<br> 
