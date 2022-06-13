@@ -38,7 +38,7 @@ If your child is below 21 years old, you will not be able to submit a BR claim. 
 The PTO will require the BR to submit documents to prove the familial relationship of the minor and the deceased CPF member. Thereafter, the minor’s share will be held in trust by the PT until the minor attains the age of 21 years old. The BR will be able to represent the other beneficiaries after obtaining their consent to receive the monies on their behalf.<br>
 	
 **7.	What information and documents are required from the BR if the deceased CPF member is a non-Muslim?**<br>
-<ol style="list-style-type: lower-alpha; padding-bottom: 0;"><font size = "3">
+<ol style="list-style-type: lower-alpha; padding-bottom: 0;">
 <li style="margin-left:2em">The BR will be required to provide personal details and produce supporting documents to prove his/her relationship to the deceased CPF member when submitting the application for a BR claim.
 <li style="margin-left:2em">The BR will also need to provide the other beneficiaries’ details that include the beneficiaries’:
 <br>i. name;
@@ -46,14 +46,14 @@ The PTO will require the BR to submit documents to prove the familial relationsh
 <br>iii. relationship with the deceased;
 <br>iv. mobile number;
 <br>v. email address; and
-<br>vi. residential address (if email address is unavailable).<br>
-<li style="margin-left:2em">All the beneficiaries’ contact details are required as they will receive an email seeking their confirmation that they had provided consent for the BR to represent them in their claim.
-<li style="margin-left:2em">For beneficiaries who are minors, the surviving parent may provide his/her mobile number and email address. As persons under the age of 21 cannot give consent to have their share received by the BR, no email will be sent to the email address provided. The mobile number and email address collected will be used as a form of communication should the PTO need to contact them when they are approaching the age of majority.
-<li style="margin-left:2em">The BR need not submit the other beneficiaries’ documents to prove their familial relationship with the deceased if the deceased member, BR or other beneficiaries are Singapore Citizens.
-<li style="margin-left:2em">The BR will however, need to submit documents to prove the other beneficiaries’ familial relationship with the deceased if the deceased member, BR or other beneficiaries are non-Singapore Citizens.</ol></font>
+	<br>vi. residential address (if email address is unavailable).</li>
+<li style="margin-left:2em">All the beneficiaries’ contact details are required as they will receive an email seeking their confirmation that they had provided consent for the BR to represent them in their claim.</li>
+<li style="margin-left:2em">For beneficiaries who are minors, the surviving parent may provide his/her mobile number and email address. As persons under the age of 21 cannot give consent to have their share received by the BR, no email will be sent to the email address provided. The mobile number and email address collected will be used as a form of communication should the PTO need to contact them when they are approaching the age of majority.</li>
+<li style="margin-left:2em">The BR need not submit the other beneficiaries’ documents to prove their familial relationship with the deceased if the deceased member, BR or other beneficiaries are Singapore Citizens.</li>
+<li style="margin-left:2em">The BR will however, need to submit documents to prove the other beneficiaries’ familial relationship with the deceased if the deceased member, BR or other beneficiaries are non-Singapore Citizens.</li></ol>
 	
 **8.	What information and documents are required from the BR if the deceased member is a Muslim?**<br>
-<ol style="list-style-type: lower-alpha; padding-bottom: 0;"><font size = "3">
+<ol style="list-style-type: lower-alpha; padding-bottom: 0;">
 <li style="margin-left:2em">The BR will be required to produce supporting information and documents to prove his/her relationship to the deceased CPF member when submitting the application for a BR claim.
 <li style="margin-left:2em">The BR will also need to provide the other beneficiaries’ details that include the beneficiaries’:
 <br>i. name;
