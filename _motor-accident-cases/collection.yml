@@ -1,0 +1,9 @@
+collections:
+  motor-accident-cases:
+    output: true
+    order:
+      - information-for-motor-accident-victims.md
+      - forms-guides.md
+      - practice-circulars.md
+      - statistics.md
+      - glossary.md
