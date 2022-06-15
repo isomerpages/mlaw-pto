@@ -40,18 +40,18 @@ The PTO will require the BR to submit documents to prove the familial relationsh
 	
 **7.	What information and documents are required from the BR if the deceased CPF member is a non-Muslim?**<br>
 <ol style="list-style-type: lower-alpha; padding-bottom: 0;">
-<li style="margin-left:2em">The BR will be required to provide personal details and produce supporting documents to prove his/her relationship to the deceased CPF member when submitting the application for a BR claim.</li>
-<li style="margin-left:2em">The BR will also need to provide the other beneficiaries’ details that include the beneficiaries’:
-<br>i. name;
-<br>ii. ID number;
-<br>iii. relationship with the deceased;
-<br>iv. mobile number;
-<br>v. email address; and
-<br>vi. residential address (if email address is unavailable).</li>
-<li style="margin-left:2em">All the beneficiaries’ contact details are required as they will receive an email seeking their confirmation that they had provided consent for the BR to represent them in their claim.</li>
-<li style="margin-left:2em">For beneficiaries who are minors, the surviving parent may provide his/her mobile number and email address. As persons under the age of 21 cannot give consent to have their share received by the BR, no email will be sent to the email address provided. The mobile number and email address collected will be used as a form of communication should the PTO need to contact them when they are approaching the age of majority.</li>
-<li style="margin-left:2em">The BR need not submit the other beneficiaries’ documents to prove their familial relationship with the deceased if the deceased member, BR or other beneficiaries are Singapore Citizens.</li>
-<li style="margin-left:2em">The BR will however, need to submit documents to prove the other beneficiaries’ familial relationship with the deceased if the deceased member, BR or other beneficiaries are non-Singapore Citizens.</li></ol>
+<li>The BR will be required to provide personal details and produce supporting documents to prove his/her relationship to the deceased CPF member when submitting the application for a BR claim.</li>
+<li>The BR will also need to provide the other beneficiaries’ details that include the beneficiaries’:
+<br>&nbsp;i. name;
+<br>&nbsp;ii. ID number;
+<br>&nbsp;iii. relationship with the deceased;
+<br>&nbsp;iv. mobile number;
+<br>&nbsp;v. email address; and
+<br>&nbsp;vi. residential address (if email address is unavailable).</li>
+<li>All the beneficiaries’ contact details are required as they will receive an email seeking their confirmation that they had provided consent for the BR to represent them in their claim.</li>
+<li>For beneficiaries who are minors, the surviving parent may provide his/her mobile number and email address. As persons under the age of 21 cannot give consent to have their share received by the BR, no email will be sent to the email address provided. The mobile number and email address collected will be used as a form of communication should the PTO need to contact them when they are approaching the age of majority.</li>
+<li>The BR need not submit the other beneficiaries’ documents to prove their familial relationship with the deceased if the deceased member, BR or other beneficiaries are Singapore Citizens.</li>
+<li>The BR will however, need to submit documents to prove the other beneficiaries’ familial relationship with the deceased if the deceased member, BR or other beneficiaries are non-Singapore Citizens.</li></ol>
 	
 **8.	What information and documents are required from the BR if the deceased member is a Muslim?**<br>
 <ol style="list-style-type: lower-alpha; padding-bottom: 0;">
