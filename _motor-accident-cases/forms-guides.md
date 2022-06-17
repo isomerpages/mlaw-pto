@@ -1,11 +1,8 @@
 ---
-title: 'Forms / Guides'
+title: Forms / Guides
 permalink: /motor-accident-cases/forms-guides/
-breadcrumb: 'Forms / Guides'
-
+breadcrumb: Forms / Guides
 ---
-
-
 Forms / Guides 
 ---
 
@@ -22,4 +19,4 @@ Forms / Guides
 
 [Application for Motor Accident Compensation Settlement](/files/PTO_E-Service_User_Guide-MA.pdf){:target="_blank"}(4.89 MB)
 
-[Approval of Solicitor and client Costs](/files/PTO_E-Service_User_Guide-S&C.pdf){:target="_blank"}(1.59 MB)
+[Approval of Solicitor and client Costs](/files/PTOE-SvcUserGuide-SnC_16-6-22.pdf){:target="_blank"}(2.47 MB)
