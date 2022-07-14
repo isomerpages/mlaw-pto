@@ -1,11 +1,8 @@
 ---
-title: 'Unclaimed Monies'
+title: Unclaimed Monies
 permalink: /deceased-cpf-estate-monies/unclaimed-monies/
-breadcrumb: 'Unclaimed Monies'
-
+breadcrumb: Unclaimed Monies
 ---
-
-
 Unclaimed Monies
 ---
 
@@ -48,6 +45,6 @@ Unclaimed Monies
 </table>
 **Unclaimed Monies Held By:** <br>
 Public Trustee<br>
-[Deceased Estates(Unclaimed Monies)](/files/PT_Sep2021.pdf){:target="_blank"}(2.42MB)<br>
-[Deceased Estates (Bona Vacantia)](/files/PTBona_Sep2021.pdf){:target="_blank"}(403KB)<br> 
-[Motor Accident Compensations](/files/AC_Sep2021.pdf){:target="_blank"}(220KB)
+[Deceased Estates(Unclaimed Monies)](/files/UnclaimedPT.pdf){:target="_blank"}(2.29MB)<br>
+[Deceased Estates (Bona Vacantia)](/files/UnclaimedPT_Bona.pdf){:target="_blank"}(357KB)<br> 
+[Motor Accident Compensations](/files/UnclaimedAC.pdf){:target="_blank"}(219KB)
