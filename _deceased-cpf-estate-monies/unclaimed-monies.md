@@ -45,6 +45,6 @@ Unclaimed Monies
 </table>
 **Unclaimed Monies Held By:** <br>
 Public Trustee<br>
-[Deceased Estates(Unclaimed Monies)](/files/UnclaimedPT.pdf){:target="_blank"}(2.29MB)<br>
-[Deceased Estates (Bona Vacantia)](/files/UnclaimedPT_Bona.pdf){:target="_blank"}(357KB)<br> 
-[Motor Accident Compensations](/files/UnclaimedAC.pdf){:target="_blank"}(219KB)
+[Deceased Estates(Unclaimed Monies)](/files/PT23112022.pdf){:target="_blank"}(2.29MB)<br>
+[Deceased Estates (Bona Vacantia)](/files/PT%Bona23112022.pdf){:target="_blank"}(357KB)<br> 
+[Motor Accident Compensations](/files/AC23112022.pdf){:target="_blank"}(219KB)
