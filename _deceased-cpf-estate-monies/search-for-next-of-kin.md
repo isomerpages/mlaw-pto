@@ -1,6 +1,6 @@
 ---
 title: 'Search for Next-of-Kin'
-permalink: /deceased-cpf-estate-monies/searchNOK/
+permalink: /deceased-cpf-estate-monies/searchnok/
 breadcrumb: 'Search for Next-of-Kin'
 
 ---

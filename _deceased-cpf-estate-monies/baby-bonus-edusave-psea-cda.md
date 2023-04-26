@@ -1,6 +1,6 @@
 ---
 title: 'Baby Bonus/ Edusave / PSEA / CDA'
-permalink: /deceased-cpf-estate-monies/Edusave-PSEA-CDA/
+permalink: /deceased-cpf-estate-monies/edusave-psea-cda/
 breadcrumb: 'Baby Bonus / Edusave / PSEA / CDA'
 collection_name: deceased-cpf-estate-monies
 ---
