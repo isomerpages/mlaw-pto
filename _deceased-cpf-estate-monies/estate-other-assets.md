@@ -270,7 +270,7 @@ On a case-by-case basis, the Public Trustee does administer a deceased’s share
 
 Please refer to our Q2 on the situations where the Public Trustee would not be able to administer an estate.<br>
 
-**14. I need someone to assist me to submit the online application but I do not want to engage the e-Helper’s service.**<br>
+**14. I need someone to assist me to submit the online application.**<br>
 You may wish to get a family member or a trusted friend to assist you in completing our online application form.<br>
 
 **With effect from 5 Mar 2018, all payments will be made electronically.**
