@@ -1,6 +1,6 @@
 ---
 title: "CPF Money : Beneficiary Representative"
-permalink: /deceased-cpf-estate-monies/BR
+permalink: /deceased-cpf-estate-monies/br/
 description: ""
 ---
 # CPF Money: Beneficiary Representative Approach
