@@ -29,3 +29,7 @@ Notices
 9)  See Lay Choon (NRIC No. Sxxxx297H) - Please click on the [link](/files/29March2023Adv.pdf){:target="_blank"}(63.5KB) for more information.
 
 10) Tan Chor Khoon (NRIC No. Sxxxx426J) - Please click on the [link](/files/29March2023Adv.pdf){:target="_blank"}(63.5KB) for more information.
+
+11) Lim Chye Thiam (NRIC No. SXXXX334F) - Please click on the [link](/files/T6942022Adv.pdf){:target="_blank"}(63.5KB) for more information.
+
+12) Mr Ong Piah Tin (NRIC No. SXXXX353A)- Please click on the [link](/files/T92102021adv.pdf){:target="_blank"}(63.5KB) for more information.
