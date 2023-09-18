@@ -307,7 +307,7 @@ The money held in trust for the minor is invested by the Public Trustee accordin
 Online Submission of Application
 ---
 
-**1. I need someone to assist me to submit the online application but I do not want to engage the e-Helper’s service**<br>
+**1. I need someone to assist me to submit the online application.**<br>
 You may wish to get a family member or a trusted friend to assist you in completing our online application form.
 
 **2. We have notified CPF Board of the Deceased’s death last week and were told that the Deceased’s un-nominated CPF money will be forwarded to the Public Trustee for administration. We tried to submit an online application for the Public Trustee to administer the Deceased’s un-nominated CPF money. However, your system showed that there was no un-nominated CPF money for administration. What is going on?**<br>
