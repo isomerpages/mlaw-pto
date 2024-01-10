@@ -17,11 +17,11 @@ List of Required Documents
 
 **In Malay**<br>
 
-[Muslims - List of Required Documents (In Malay)](/files/Malay_Annex A_Muslims_17Oct20.pdf){:target="_blank"}(439 KB)
+[Muslims - List of Required Documents (In Malay)](/files/Malay_AnnexA_Muslims_17Oct20.pdf){:target="_blank"}(439 KB)
 
-[Non-Muslims - List of Required Documents (In Malay)](/files/Malay_Annex B_Non-Muslims_17Oct20.pdf){:target="_blank"}(513 KB)
+[Non-Muslims - List of Required Documents (In Malay)](/files/Malay_AnnexB_Non-Muslims_17Oct20.pdf){:target="_blank"}(513 KB)
 
-[Funeral Reimbursement Claim - List of Required Documents (In Malay)](/files/Malay_Annex C_Funeral Claim_17Oct20.pdf){:target="_blank"}(419 KB)
+[Funeral Reimbursement Claim - List of Required Documents (In Malay)](/files/Malay_AnnexC_FuneralClaim_17Oct20.pdf){:target="_blank"}(419 KB)
 
 **In Chinese**<br>
 
@@ -48,15 +48,15 @@ Brochures
 
 [Dealing with the Central Provident Fund (CPF) money of someone who has died](/files/Brochure1_CPF_Oct20.pdf){:target="_blank"}(586 KB)
 
-[Dealing with the deceased’s estate (assets)](/files/Brochure 2_Estate Monies_22Feb21.pdf){:target="_blank"}(201 KB)
+[Dealing with the deceased’s estate (assets)](/files/Brochure2_EstateMonies_22Feb21.pdf){:target="_blank"}(201 KB)
 
 <!---[Dealing with money held in trust for a child](/files/Bro3_Held-in-TrustCases_Feb2020.pdf){:target="_blank"}(237 KB)--->
 
 **In Malay**<br>
 
-[Menguruskan wang Tabung Simpanan Pekerja (CPF) seseorang yang telah meninggal dunia](/files/Malay_Brochure 1_CPF_17Oct20.pdf){:target="_blank"}(477 KB)
+[Menguruskan wang Tabung Simpanan Pekerja (CPF) seseorang yang telah meninggal dunia](/files/Malay_Brochure1_CPF_17Oct20.pdf){:target="_blank"}(477 KB)
 
-[Menguruskan harta pusaka si mati (aset-aset)](/files/Malay_Brochure 2_Estate_17Oct20.pdf){:target="_blank"}(283 KB)
+[Menguruskan harta pusaka si mati (aset-aset)](/files/Malay_Brochure2_Estate_17Oct20.pdf){:target="_blank"}(283 KB)
 
 <!---[Menguruskan wang yang dipegang sebagai amanah untuk seorang kanak-kanak](/files/Malay_Brochure3_Held-in-TrustCases_Feb2020.pdf){:target="_blank"}(384 KB)--->
 
