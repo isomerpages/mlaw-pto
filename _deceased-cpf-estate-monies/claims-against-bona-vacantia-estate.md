@@ -1,11 +1,9 @@
 ---
-title: 'Claims against Bona Vacantia estate'
+title: Claims against Bona Vacantia estate
 permalink: /deceased-cpf-estate-monies/claims-against-bona-vacantia-estates/
-breadcrumb: 'Claims against Bona Vacantia estate'
-
+breadcrumb: Claims against Bona Vacantia estate
+variant: markdown
 ---
-
-
 Claims against Bona Vacantia Estate
 ---
 **1.	What is bona vacantia?**<br>
@@ -53,7 +51,7 @@ No, there is no time limit for making a claim.
 You can make a claim only after the expiry of the waiting period stated in the table below.
 
 <table>
- <tr>
+ <tbody><tr>
   <th>Type of Estate</th>
   <th><b>Waiting Period</b></th>
  </tr>
@@ -65,7 +63,7 @@ You can make a claim only after the expiry of the waiting period stated in the t
   <td>Estate involving immovable property e.g. HDB flat, landed property, condominiums</td>
   <td>Not less than 3 years from the date of death</td>
  </tr>
-</table>
+</tbody></table>
 
 **12.	Why is there a waiting period?**<br>
 The waiting period is a safeguard to ensure that the entitled next-of-kin has sufficient time to claim from the Public Trustee.
@@ -102,7 +100,7 @@ e) **Full details of the deceased’s estate** (i.e. assets and valuation with d
 
 *Due to a conflict of interests, we are unable to assist you or the other interested persons in drafting the Statutory Declarations. You may either (i) draft the Statutory Declaration on your own and our Commissioners for Oaths can assist in the swearing/affirmation of the Statutory Declarations (click here for the [form](/files/Template_StatutoryDeclaration.pdf){:target="_blank"}(56.7KBKB)); or (ii) obtain the Statutory Declaration at a law firm.
 
-**14.	How do I make an equitable or moral claim on a bona vacantia estate that is > $50,000 without immovable property?**<br>
+**14.	How do I make an equitable or moral claim on a bona vacantia estate that is &gt; $50,000 without immovable property?**<br>
 You will have to engage a lawyer to assist in your claim. You will have to adhere to the prescribed waiting period of at least 6 months and provide the same set of documents as required for claims on estates that are ≤ $50,000. In addition, your lawyer will have to take out the advertisements in a major English-language newspaper and a major vernacular newspaper for the next-of-kin of the deceased (click here for [sample advertisement](/files/SampleAdvertisement.pdf){:target="_blank"}(133KB) and to conduct probate searches. Your lawyer will have to provide a copy of the newspaper advertisement and the probate search results to the Public Trustee.
 
 **15.	How do I make an equitable or moral claim on a bona vacantia estate with immovable property?**<br>
@@ -144,15 +142,44 @@ For an estate that is ≤ $50,000, the Public Trustee will be able to administer
 **17.	What is the process like after Minister of Law has approved my equitable or moral claim?**<br>
 For cases where the Public Trustee acts as the administrator of the estate, we will put up a warrant for Minister of Law to sign once the estate administration is completed. The ministerial warrant will transfer the estate or that part of the estate which is allowed to the claimant.
 
-For an estate that is > $50,000 and/or involve immovable property or does not meet our above criteria, you will have to engage a lawyer to apply for Letters of Administration so that you can administer the estate on your own. We will provide you with a renunciation letter renouncing the Government’s right to apply for Letters of Administration. Once the estate administration is completed, you will inform the Public Trustee and we will put up a warrant for Minister to sign to transfer the estate monies to the claimant.
+For an estate that is &gt; $50,000 and/or involve immovable property or does not meet our above criteria, you will have to engage a lawyer to apply for Letters of Administration so that you can administer the estate on your own. We will provide you with a renunciation letter renouncing the Government’s right to apply for Letters of Administration. Once the estate administration is completed, you will inform the Public Trustee and we will put up a warrant for Minister to sign to transfer the estate monies to the claimant.
 
 **18.	Are there any fees for making a claim against Bona Vacantia estates?**<br>
 There is an application fee of $50.00 (inclusive of GST) on each claim filed against a bona vacantia estate.<br>
 If the Public Trustee is also the administrator of the estate, we will charge an administration fee for estate administration.
 
+
+**Fees Charged for Administration of Bona Vacantia Cases (CPF)**<br>
+<table>
+ <tbody><tr>
+  <th>Scale</th>
+  <th>Rate</th>
+ </tr>
+ <tr>
+  <td>For the first $1,000</td>
+  <td>2.400%</td>
+ </tr>
+ <tr>
+  <td>For the next $9,000</td>
+  <td>1.500%</td>
+ </tr>
+ <tr>
+  <td>For the next $240,000</td>
+  <td>0.750%</td>
+ </tr>
+ <tr>
+  <td>For the next $250,000</td>
+  <td>0.450%</td>
+ </tr>
+ <tr>
+  <td>For amounts in excess of $500,000</td>
+  <td>0.300%</td>
+ </tr>
+</tbody></table>
+
 **Fees Charged for Administration of Bona Vacantia Cases (Estate)**<br>
 <table>
- <tr>
+ <tbody><tr>
   <th>Tier</th>
   <th>Rates</th>
  </tr>
@@ -192,32 +219,6 @@ If the Public Trustee is also the administrator of the estate, we will charge an
   <td>For gross capital value in excess of $750,000</td>
   <td>0.85%</td>
  </tr>
-</table>
+</tbody></table>
 
-**Fees Charged for Administration of Bona Vacantia Cases (CPF)**<br>
-<table>
- <tr>
-  <th>Scale</th>
-  <th>Rate</th>
- </tr>
- <tr>
-  <td>For the first $1,000</td>
-  <td>2.400%</td>
- </tr>
- <tr>
-  <td>For the next $9,000</td>
-  <td>1.500%</td>
- </tr>
- <tr>
-  <td>For the next $240,000</td>
-  <td>0.750%</td>
- </tr>
- <tr>
-  <td>For the next $250,000</td>
-  <td>0.450%</td>
- </tr>
- <tr>
-  <td>For amounts in excess of $500,000</td>
-  <td>0.300%</td>
- </tr>
-</table>
+These fees includes GST and cannot be waived.
