@@ -1,0 +1,18 @@
+collections:
+  deceased-cpf-estate-monies:
+    output: true
+    order:
+      - "CPF Money: Standard Claim.md"
+      - "CPF Money : Beneficiary Representative.md"
+      - baby-bonus-edusave-psea-cda.md
+      - estate-other-assets.md
+      - monies-held-in-trust-for-minors.md
+      - claims-against-bona-vacantia-estate.md
+      - information.md
+      - forms.md
+      - eServices Guides.md
+      - guide-for-payment-to-pt.md
+      - unclaimed-monies.md
+      - statistics.md
+      - search-for-next-of-kin.md
+      - glossary.md
