@@ -3,8 +3,8 @@ title: "CPF Money: Standard Claim"
 permalink: /deceased-cpf-estate-monies/information-for-next-of-kin-cpf-monies/
 breadcrumb: CPF Money
 description: ""
+variant: markdown
 ---
-
 CPF Money: Standard Claim
 ---
 
@@ -25,11 +25,11 @@ You will need to have your Singpass ready in order to access our online applicat
 If you are ineligible to apply for a Singpass, you may apply for a login ID and password through our website: [https://eservices.mlaw.gov.sg/pto](https://eservices.mlaw.gov.sg/pto).<br>
 
 **3.	What are the documents that need to be submitted?**<br>
-<a href = "/files/AnnexA_Muslims_Oct20.pdf" target = "_blank">Annex A</a> (for Muslims) and <a href = "/files/AnnexB_NonMuslims_Oct20.pdf" target = "_blank">Annex B</a> (for non-Muslims) set out the list of documents we need. 
+<a href="/files/AnnexA_Muslims_Oct20.pdf" target="_blank">Annex A</a> (for Muslims) and <a href="/files/AnnexB_NonMuslims_Oct20.pdf" target="_blank">Annex B</a> (for non-Muslims) set out the list of documents we need. 
 
-For a reimbursement of funeral expenses, <a href = "/files/AnnexC_Funeral_Oct20.pdf" target = "_blank">Annex C</a> sets out the list of documents we need.
+For a reimbursement of funeral expenses, <a href="/files/AnnexC_Funeral_Oct20.pdf" target="_blank">Annex C</a> sets out the list of documents we need.
 
-You may pick up a copy of the Annexes from our office or view them from our website under <a href = "https://pto.mlaw.gov.sg/deceased-cpf-estate-monies/information/" target = "_blank">Deceased CPF / Estate Monies > Information</a>.
+You may pick up a copy of the Annexes from our office or view them from our website under <a href="https://pto.mlaw.gov.sg/deceased-cpf-estate-monies/information/" target="_blank">Deceased CPF / Estate Monies &gt; Information</a>.
 
 Common types of documents we need are shown below.
 <ul>
@@ -63,7 +63,7 @@ Please indicate the case reference number and NRIC of the deceased on your suppo
 The fees we charge for dealing with CPF money are shown below:
 
 <table>
-  <tr>
+  <tbody><tr>
    <th>Amount of CPF Money</th>
    <th>Charge</th>
   </tr>
@@ -87,7 +87,7 @@ The fees we charge for dealing with CPF money are shown below:
     <td>For amounts in excess of $500,000</td>
     <td>0.300%</td>
   </tr>
-</table>
+</tbody></table>
 These fees, which we will take from the CPF money, include GST and cannot be waived. You will have to pay a minimum fee of $15.<br>
 
 **6.	How would the Public Trustee distribute the CPF money of a non-Muslim?**<br>
@@ -102,7 +102,7 @@ If the person who died was domiciled in Singapore at the time of their death, we
 Kindly note that these Rules of Distribution apply only to a non-Muslim Deceased domiciled in Singapore.
 
 <table>
-  <tr>
+  <tbody><tr>
     <th colspan="2">Rules of Distribution (Non-Muslims)</th>
   </tr>
   <tr>
@@ -197,7 +197,7 @@ Kindly note that these Rules of Distribution apply only to a non-Muslim Deceased
       Whole share to be shared equally among surviving uncles and aunts.
     </td>
   </tr>
-</table>
+</tbody></table>
 
 <font size="2"><i>*<b>Spouse</b> refers to husband or wife.<br>
 *<b>Issue</b> means a child (legitimate or legally adopted) and the descendants of a deceased’s child. Illegitimate children and transferred children are NOT entitled under the Intestacy Rules.</i></font>
@@ -208,9 +208,10 @@ If the person who died was a Muslim, we will distribute the money in line with S
 The Certificate of Inheritance issued by Syariah Court will list down the beneficiaries and their share of inheritance.<br>
 
 **9.	How can I claim a reimbursement of funeral expenses out of the Deceased’s CPF money?**<br>
-You can indicate the amount of funeral expenses which you would like to claim from the Deceased’s un-nominated CPF money in the online application form. 
 
-Please note that the maximum amount of funeral reimbursement claim allowable for a Deceased is $6,000.
+You can indicate the amount of funeral expenses which you would like to claim from the Deceased’s un-nominated CPF money in the online application form. Generally, claims of up to $6,000 are allowable.
+
+Please attach your proofs of funeral expenses when you submit your application to the Public Trustee.
 
 Only a beneficiary is eligible to claim a reimbursement of funeral expenses from the Deceased’s un-nominated CPF money. 
 
@@ -227,9 +228,9 @@ c) If Claimant is:
 <li>Parent of Deceased – Birth Certificate of Deceased and Marriage Certificate of Parents</li>
 <li>Sibling of Deceased – Birth Certificate of Deceased and Birth Certificate of Sibling</li>
 </ul>
-d) <a href = "/files/Declarationform(CPFMonies)forfuneralexpenses(Form12).pdf" target = "_blank">Declaration Form (CPF monies) for funeral expenses</a>.
+d) <a href="/files/Declarationform(CPFMonies)forfuneralexpenses(Form12).pdf" target="_blank">Declaration Form (CPF monies) for funeral expenses</a>.
 
-e) Payments will be made to the Claimant via PayNow (which has to be registered with your NRIC) or Direct Credit to the bank account. For Direct Credit, you will need to submit a copy of the front page of the bank passbook or bank statement. For a payment request via Direct Credit to a third party bank account, both you and the account holder(s) must execute the indemnity form (Form 15) which is available at our <a href = "https://pto.mlaw.gov.sg/deceased-cpf-estate-monies/forms/" target = "_blank">website</a>. For the other non-electronic modes of payment, you will bear all the charges imposed by the bank(s) which will be deducted directly from the inheritance.
+e) Payments will be made to the Claimant via PayNow (which has to be registered with your NRIC) or Direct Credit to the bank account. For Direct Credit, you will need to submit a copy of the front page of the bank passbook or bank statement. For a payment request via Direct Credit to a third party bank account, both you and the account holder(s) must execute the indemnity form (Form 15) which is available at our <a href="https://pto.mlaw.gov.sg/deceased-cpf-estate-monies/forms/" target="_blank">website</a>. For the other non-electronic modes of payment, you will bear all the charges imposed by the bank(s) which will be deducted directly from the inheritance.
 
 f) Relevant receipts incurred for funeral expenses (not compulsory)
 
@@ -245,13 +246,13 @@ If CPF money was nominated in favour of a person ( “the nominee”) who has pa
 
 If the deceased nominee’s estate does not qualify for administration by the Public Trustee, you will need to apply to court for Letters of Administration or Grant of Probate to deal with the nominee’s estate, including the CPF money payable to the nominee. If you qualify for legal aid, you may apply to the Legal Aid Bureau for help in getting Letters of Administration. If you do not qualify for legal aid, you will need to hire a lawyer. Where the Public Trustee does not act for the deceased nominee’s estate, the CPF money payable to the nominee will be paid to the administrator of their estate or the executor of their will.
 
-Please refer to our online FAQ under <a href = "https://pto.mlaw.gov.sg/deceased-cpf-estate-monies/information-for-next-of-kin-estate-monies/" target = "_blank">Estate (Other Assets)</a> on the situations where the Public Trustee would be able to assist to administer an estate, and on how to make an online application to the Public Trustee for the administration of a deceased estate.<br>
+Please refer to our online FAQ under <a href="https://pto.mlaw.gov.sg/deceased-cpf-estate-monies/information-for-next-of-kin-estate-monies/" target="_blank">Estate (Other Assets)</a> on the situations where the Public Trustee would be able to assist to administer an estate, and on how to make an online application to the Public Trustee for the administration of a deceased estate.<br>
 
 **2. What fees do you charge for holding nominated CPF money in trust for a minor?**<br>
 The fees we charge for holding nominated CPF money in trust for a minor are shown below.
 
 <table>
-  <tr>
+  <tbody><tr>
    <th>Amount of CPF Money</th>
    <th>Charge</th>
   </tr>
@@ -275,14 +276,14 @@ The fees we charge for holding nominated CPF money in trust for a minor are show
     <td>For amounts over $500,000</td>
     <td>0.300%</td>
   </tr>
-</table>
+</tbody></table>
 
 These are one-time fees, which we will take from the nominated CPF money. They include GST and cannot be waived.
 
 The money held in trust for the minor is invested by the Public Trustee according to law. The investment earns interest for the minor from year to year. Whenever interest is to be paid to the minor, a fee is charged on the amount of the interest. The net interest amount (less the fee) is paid into the minor’s trust fund. The fee charged on the interest amount is as shown below.
 
 <table>
-  <tr>
+  <tbody><tr>
    <th>Amount of Interest Earned</th>
    <th>Charge</th>
   </tr>
@@ -302,7 +303,7 @@ The money held in trust for the minor is invested by the Public Trustee accordin
     <td>For amounts in excess of $3,000</td>
     <td>2.25%</td>
   </tr>
-</table>
+</tbody></table>
 
 Online Submission of Application
 ---
