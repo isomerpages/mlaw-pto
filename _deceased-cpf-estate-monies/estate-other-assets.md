@@ -1,11 +1,9 @@
 ---
-title: 'Estate (Other Assets)'
+title: Estate (Other Assets)
 permalink: /deceased-cpf-estate-monies/information-for-next-of-kin-estate-monies/
-breadcrumb: 'Estate (Other Assets)'
-
+breadcrumb: Estate (Other Assets)
+variant: markdown
 ---
-
-
 Estate (Other Assets) 
 ---
 
@@ -60,8 +58,8 @@ If the person who died was domiciled in Singapore at the time of their death, we
 Kindly note that these Rules of Distribution apply only to a non-Muslim Deceased domiciled in Singapore.
     
    <table>
-    <th colspan="2">Rules of Distribution (Non-Muslims)</th>
-    <tr>
+    <tbody><tr><th colspan="2">Rules of Distribution (Non-Muslims)</th>
+    </tr><tr>
     <td>
       <b>Deceased Die</b><br>
       <b>Intestate Leaving</b>
@@ -156,7 +154,7 @@ Kindly note that these Rules of Distribution apply only to a non-Muslim Deceased
     </td>
     <td>Whole share to be shared equally among surviving uncles and aunts.</td>
   </tr>
-</table>
+</tbody></table>
 
 <font size="2"><i>*<b> Spouse</b> refers to husband or wife.<br>
 *<b> Issue</b> means a child (legitimate or legally adopted) and the descendants of a deceased’s child. Illegitimate children and transferred children are NOT entitled under the Intestacy Rules.</i></font> 
@@ -167,11 +165,11 @@ If the person who died was a Muslim, we will distribute the estate in line with 
 The Certificate of Inheritance issued by Syariah Court will list down the beneficiaries and their share of inheritance.<br>
 
 **8. What are the documents that need to be submitted to the Public Trustee?**<br>
-<a href = "/files/AnnexA_Muslims_Oct20.pdf" target = "_blank">Annex A</a> (for Muslims) and <a href = "/files/AnnexB_NonMuslims_Oct20.pdf" target = "_blank">Annex B</a> (for non-Muslims) set out the list of documents we need. 
+<a href="/files/AnnexA_Muslims_Oct20.pdf" target="_blank">Annex A</a> (for Muslims) and <a href="/files/AnnexB_NonMuslims_Oct20.pdf" target="_blank">Annex B</a> (for non-Muslims) set out the list of documents we need. 
 
-For a reimbursement of funeral expenses, <a href = "/files/AnnexC_Funeral_Oct20.pdf" target = "_blank">Annex C</a> sets out the list of documents we need.
+For a reimbursement of funeral expenses, <a href="/files/AnnexC_Funeral_Oct20.pdf" target="_blank">Annex C</a> sets out the list of documents we need.
 
-You may pick up a copy of the Annexes from our office or view them from our website under <a href = "https://pto.mlaw.gov.sg/deceased-cpf-estate-monies/information/" target = "_blank">Deceased CPF / Estate Monies > Information</a>.
+You may pick up a copy of the Annexes from our office or view them from our website under <a href="https://pto.mlaw.gov.sg/deceased-cpf-estate-monies/information/" target="_blank">Deceased CPF / Estate Monies &gt; Information</a>.
 
 Common types of documents required are:
 <ul>
@@ -194,7 +192,7 @@ You will be assigned a case officer after you have filed your online application
 The fees we charge for administration of the estate are shown below:
 
 <table>
-  <tr>
+  <tbody><tr>
     <th>Value of Estate</th>
     <th>Charge</th>
   </tr>
@@ -218,14 +216,13 @@ The fees we charge for administration of the estate are shown below:
     <td>For the next $30,000</td>
     <td>2.25%</td>
   </tr>
-</table>These fees, which we will take from the estate money, include GST and cannot be waived. You will have to pay a minimum fee of $15.
+</tbody></table>These fees, which we will take from the estate money, include GST and cannot be waived. You will have to pay a minimum fee of $15.
 
 **10. How can I claim a reimbursement of funeral expenses out of the Deceased’s Estate monies?**<br>
-You can indicate the amount of funeral expenses which you would like to claim from the Deceased’s Estate monies in the online application form.
+You can indicate the amount of funeral expenses which you would like to claim from the Deceased’s Estate money in the online application form. Generally, claims of up to $6,000 are allowable.
 
-Please note that the maximum amount of funeral reimbursement claim allowable for a Deceased is $6,000.
+Please attach your proofs of funeral expenses when you submit your application to the Public Trustee.
 
-Both beneficiaries and non-beneficiaries are eligible to claim a reimbursement of funeral expenses from the Deceased’s estate monies. However, a non-beneficiary must produce copies of the relevant receipts showing proof of the funeral expenses incurred before his claim can be considered.
 
 You will also have to submit the following supporting documents to us:
 
@@ -240,9 +237,9 @@ c) If Claimant is:
   <li>Parent of Deceased – Birth Certificate of Deceased and Marriage Certificate of Parents</li>
   <li>Sibling of Deceased – Birth Certificate of Deceased and Birth Certificate of Sibling</li>
 </ul>
-d) <a href = "/files/Declarationform(Estate Monies)forfuneralexpenses(Form13).pdf" target = "_blank">Declaration Form (Estate monies) for funeral expenses</a>.
+d) <a href="/files/Declarationform(Estate Monies)forfuneralexpenses(Form13).pdf" target="_blank">Declaration Form (Estate monies) for funeral expenses</a>.
 
-e) Payments will be made to the Claimant via PayNow (which has to be registered with your NRIC) or Direct Credit to the bank account. For Direct Credit, you will need to submit a copy of the front page of the bank passbook or bank statement. For a payment request via Direct Credit to a third party bank account, both the account holder(s) and you must execute the indemnity form (Form 15), which is available at our <a href = "https://pto.mlaw.gov.sg/deceased-cpf-estate-monies/forms/" target = "_blank">website</a>. For the other non-electronic modes of payment, you will bear all the charges imposed by the bank(s) which will be deducted directly from the inheritance.
+e) Payments will be made to the Claimant via PayNow (which has to be registered with your NRIC) or Direct Credit to the bank account. For Direct Credit, you will need to submit a copy of the front page of the bank passbook or bank statement. For a payment request via Direct Credit to a third party bank account, both the account holder(s) and you must execute the indemnity form (Form 15), which is available at our <a href="https://pto.mlaw.gov.sg/deceased-cpf-estate-monies/forms/" target="_blank">website</a>. For the other non-electronic modes of payment, you will bear all the charges imposed by the bank(s) which will be deducted directly from the inheritance.
 
 f) Receipts incurred for Funeral Expenses (Compulsory for Non-Beneficiary Claimant)
 
@@ -261,7 +258,7 @@ As a general rule, we will distribute the money within 4 weeks from the date of 
 **12. Can I get the Public Trustee’s assistance in resealing in Singapore, Letters of Administration / Grant of Probate that was obtained overseas?**<br>
 The Public Trustee does not assist in resealing in the Singapore Courts, Letters of Administration or Grants of Probate that were obtained overseas. You will have to engage a Singapore lawyer to do this.
 
-<a href = "https://eservices.mlaw.gov.sg/lsra/search-lawyer-or-law-firm/" target = "_blank">LSRA</a> has an integrated online search function which lists all registered law practices (foreign or local), Singapore solicitors, foreign lawyers, and regulated non-practitioners. At present, you can search by name, practice area, and the type of law practice. We are working on further enhancements to the search function.
+<a href="https://eservices.mlaw.gov.sg/lsra/search-lawyer-or-law-firm/" target="_blank">LSRA</a> has an integrated online search function which lists all registered law practices (foreign or local), Singapore solicitors, foreign lawyers, and regulated non-practitioners. At present, you can search by name, practice area, and the type of law practice. We are working on further enhancements to the search function.
 
 Please note that the search results are based on information provided by law practices and lawyers. The Ministry of Law does not make any warranty or representation as to their accuracy, completeness or reliability. <br>
 
