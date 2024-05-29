@@ -117,7 +117,7 @@ Kindly note that these Rules of Distribution apply only to a non-Muslim Deceased
       No Issue
     </td>
     <td>
-      Whole share to be shaved equally among surviving parents.
+      Whole share to be shared equally among surviving parents.
     </td>
   </tr>
   <tr>
