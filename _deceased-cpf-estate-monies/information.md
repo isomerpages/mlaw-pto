@@ -21,7 +21,7 @@ List of Required Documents
 
 [Non-Muslims - List of Required Documents (In Malay)](/files/Malay_AnnexB_Non-Muslims_17Oct20.pdf){:target="_blank"}(513 KB)
 
-[Funeral Reimbursement Claim - List of Required Documents (In Malay)(/files/malay_annexC_funeralclaim_17oct20.pdf){:target="_blank"}(419 KB)
+[Funeral Reimbursement Claim - List of Required Documents (In Malay)](/files/malay_annexc_funeralclaim_17oct20.pdf){:target="_blank"}(419 KB)
 
 **In Chinese**<br>
 
