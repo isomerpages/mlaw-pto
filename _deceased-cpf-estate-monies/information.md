@@ -17,9 +17,9 @@ List of Required Documents
 
 **In Malay**<br>
 
-[Muslims - List of Required Documents (In Malay)](/files/Malay_AnnexA_Muslims_17Oct20.pdf){:target="_blank"}(439 KB)
+[Muslims - List of Required Documents (In Malay)](/files/malay_annexa_muslims_17oct20.pdf){:target="_blank"}(439 KB)
 
-[Non-Muslims - List of Required Documents (In Malay)](/files/Malay_AnnexB_Non-Muslims_17Oct20.pdf){:target="_blank"}(513 KB)
+[Non-Muslims - List of Required Documents (In Malay)](/files/malay_annexb_non-muslims_17oct20.pdf){:target="_blank"}(513 KB)
 
 [Funeral Reimbursement Claim - List of Required Documents (In Malay)](/files/malay_annexc_funeralclaim_17oct20.pdf){:target="_blank"}(419 KB)
 
@@ -48,15 +48,15 @@ Brochures
 
 [Dealing with the Central Provident Fund (CPF) money of someone who has died](/files/Brochure1_CPF_Oct20.pdf){:target="_blank"}(586 KB)
 
-[Dealing with the deceased’s estate (assets)](/files/Brochure2_EstateMonies_22Feb21.pdf){:target="_blank"}(201 KB)
+[Dealing with the deceased’s estate (assets)](/files/brochure2_estatemonies_22feb21.pdf){:target="_blank"}(201 KB)
 
 
 
 **In Malay**<br>
 
-[Menguruskan wang Tabung Simpanan Pekerja (CPF) seseorang yang telah meninggal dunia](/files/Malay_Brochure1_CPF_17Oct20.pdf){:target="_blank"}(477 KB)
+[Menguruskan wang Tabung Simpanan Pekerja (CPF) seseorang yang telah meninggal dunia](/files/malay_brochure1_cpf_17oct20.pdf){:target="_blank"}(477 KB)
 
-[Menguruskan harta pusaka si mati (aset-aset)](/files/Malay_Brochure2_Estate_17Oct20.pdf){:target="_blank"}(283 KB)
+[Menguruskan harta pusaka si mati (aset-aset)](/files/malay_brochure2_estate_17oct20.pdf){:target="_blank"}(283 KB)
 
 
 
