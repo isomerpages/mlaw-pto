@@ -21,7 +21,7 @@ List of Required Documents
 
 [Non-Muslims - List of Required Documents (In Malay)](/files/Malay_AnnexB_Non-Muslims_17Oct20.pdf){:target="_blank"}(513 KB)
 
-[Funeral Reimbursement Claim - List of Required Documents (In Malay)](/files/Malay_AnnexC_FuneralClaim_17Oct20.pdf){:target="_blank"}(419 KB)
+[Funeral Reimbursement Claim - List of Required Documents (In Malay)(/files/malay_annexC_funeralclaim_17oct20.pdf){:target="_blank"}(419 KB)
 
 **In Chinese**<br>
 
@@ -50,7 +50,7 @@ Brochures
 
 [Dealing with the deceased’s estate (assets)](/files/Brochure2_EstateMonies_22Feb21.pdf){:target="_blank"}(201 KB)
 
-<!---[Dealing with money held in trust for a child](/files/Bro3_Held-in-TrustCases_Feb2020.pdf){:target="_blank"}(237 KB)--->
+
 
 **In Malay**<br>
 
@@ -58,7 +58,7 @@ Brochures
 
 [Menguruskan harta pusaka si mati (aset-aset)](/files/Malay_Brochure2_Estate_17Oct20.pdf){:target="_blank"}(283 KB)
 
-<!---[Menguruskan wang yang dipegang sebagai amanah untuk seorang kanak-kanak](/files/Malay_Brochure3_Held-in-TrustCases_Feb2020.pdf){:target="_blank"}(384 KB)--->
+
 
 **In Chinese**<br>
 
@@ -66,7 +66,7 @@ Brochures
 
 [如何分配已故者的遗产 (资产)](/files/Chinese_Brochure2_Estate_22Feb21.pdf){:target="_blank"}(239 KB)
 
-<!---[为孩童处理受托管的款项](/files/Chinese_Brochure3_Held-in-TrustCases_Feb2020.pdf){:target="_blank"}(456 KB)--->
+
 
 **In Tamil**<br>
 
@@ -74,7 +74,7 @@ Brochures
 
 [இறந்தவரின் சொத்தைக் (சொத்துக்கள்) கையாளுதல்](/files/Tamil_Brochure2_Estate_Oct20.pdf){:target="_blank"}(1.09 MB)
 
-<!---[ஒரு குழந்தைக்காக அறக்கட்டளையில் வைக்கப்பட்டிருக்கும் பணத்தைக் கையாளுதல்](/files/Tamil_Brochure3_Held-in-TrustCases_Feb2020.pdf){:target="_blank"}(445 KB)--->
+
 
 Information Slides
 ---
