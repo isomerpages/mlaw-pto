@@ -1,5 +1,5 @@
 ---
-title: media1
+title: media
 permalink: /media/
 variant: tiptap
 description: ""
