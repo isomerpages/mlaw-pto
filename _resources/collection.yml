@@ -2,5 +2,4 @@ collections:
   resources:
     output: true
     order:
-      - media1.md
       - media.md
