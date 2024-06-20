@@ -1,6 +1,6 @@
 ---
 title: media1
-permalink: /media1/
+permalink: /media/
 variant: tiptap
 description: ""
 ---
