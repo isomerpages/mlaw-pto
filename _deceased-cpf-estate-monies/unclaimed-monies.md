@@ -2,13 +2,14 @@
 title: Unclaimed Monies
 permalink: /deceased-cpf-estate-monies/unclaimed-monies/
 breadcrumb: Unclaimed Monies
+variant: markdown
 ---
 Unclaimed Monies
 ---
 
 #### **STEPS TO RECOVER UNCLAIMED MONIES FROM PTO**
 <table>
-  <tr>
+  <tbody><tr>
     <th colspan="2">If you think you have monies held by the Public Trustee (for deceased estates):</th>
   </tr>
   <tr>
@@ -42,9 +43,9 @@ Unclaimed Monies
   <tr>
     <td colspan="2">We will check the claimant’s details against the case file to see if the claim is valid and arrange for payment to be made to the claimant once the claim is verified.</td>
   </tr>
-</table>
+</tbody></table>
 **Unclaimed Monies Held By:** <br>
 Public Trustee<br>
-[Deceased Estates(Unclaimed Monies)](/files/PT23112022.pdf){:target="_blank"}(2.29MB)<br>
-[Deceased Estates (Bona Vacantia)](/files/PTBona23112022.pdf){:target="_blank"}(357KB)<br> 
-[Motor Accident Compensations](/files/AC23112022.pdf){:target="_blank"}(219KB)
+[Deceased Estates(Unclaimed Monies)](/files/unclaimmar2024.pdf){:target="_blank"}(2.29MB)<br>
+[Deceased Estates (Bona Vacantia)](/files/bvmar2024.pdf){:target="_blank"}(357KB)<br> 
+[Motor Accident Compensations](/files/motoraccidentcompensationmar2024.pdf){:target="_blank"}(219KB)
