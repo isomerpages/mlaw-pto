@@ -32,8 +32,8 @@ If you qualify for legal aid, you may apply to the Legal Aid Bureau for assistan
 **3. What are the assets administered by the Public Trustee?**<br>
 The assets administered by the Public Trustee are:
 
-* Deceased's money in banks or other financial institutions in Singapore;
-* Deceased's shares which are listed on the Singapore Exchange;
+* Deceased's money in banks or other financial institutions in Singapore (for account(s) with balance of less than $5,000, the next-of-kin may approach the bank directly for assistance to claim the bank monies);
+* Deceased's shares which are listed on the Singapore Exchange (for shares held with The Central Depository (CDP) valued at $5,000 or below, the next-of-kin may approach CDP directly for assistance to claim the shares);
 * Deceased's fully paid-up vehicles, apart from commercial vehicles like taxis (we will only transfer the vehicles);
 * Salary the Deceased was owed but not yet paid;
 * Deceased's items in a safe-deposit box;
