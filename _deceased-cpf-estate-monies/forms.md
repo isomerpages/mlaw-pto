@@ -2,6 +2,7 @@
 title: Forms
 permalink: /deceased-cpf-estate-monies/forms/
 breadcrumb: Forms
+variant: markdown
 ---
 Forms
 ---
@@ -25,3 +26,5 @@ Forms
 [Form 15 - Letter of Authorisation &amp; Indemnity for payment to Third party Bank Account](/files/Form%2015.pdf){:target="_blank"}(259 KB)
 
 *[Forms 15A and 15B/C are replaced by Form 15. With effect from 17 October 2020, Form 15 is only required for payments made to third-party's bank account.]*
+
+[Form 20 - Consent Form for Appointment of Beneficiary Representative](/files/Form20.pdf){:target="_blank"}(139 KB)
