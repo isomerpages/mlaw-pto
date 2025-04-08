@@ -18,11 +18,11 @@ If the person who has died did not make a valid nomination, the CPF Board will s
 The CPF Board will also send us the CPF money of a person who has died if the person chosen to receive that money is under 18 years old (unless she is a widow).<br>
 
 **2.	What do I need to do for the CPF money to be distributed to me?**<br>
-You will need to make an online application "Administration of CPF / Baby Bonus / Edusave / PSEA Monies" at  [https://eservices.mlaw.gov.sg/pto](https://eservices.mlaw.gov.sg/pto) so that we can deal with the money.
+You will need to make an online application "Administration of CPF / Baby Bonus / Edusave / PSEA Monies" at  [https://pto.mlaw.gov.sg/](https://eservices.mlaw.gov.sg/pto) so that we can deal with the money.
 
 You will need to have your Singpass ready in order to access our online application form. You may apply for your Singpass at [https://www.singpass.gov.sg](https://www.singpass.gov.sg) if you do not have one.
  
-If you are ineligible to apply for a Singpass, you may apply for a login ID and password through our website: [https://eservices.mlaw.gov.sg/pto](https://eservices.mlaw.gov.sg/pto).<br>
+If you are ineligible to apply for a Singpass, you may apply for a login ID and password through our website: [https://pto.mlaw.gov.sg/](https://eservices.mlaw.gov.sg/pto).<br>
 
 **3.	What are the documents that need to be submitted?**<br>
 <a href="/files/AnnexA_Muslims_Oct20.pdf" target="_blank">Annex A</a> (for Muslims) and <a href="/files/AnnexB_NonMuslims_Oct20.pdf" target="_blank">Annex B</a> (for non-Muslims) set out the list of documents we need. 
@@ -44,7 +44,7 @@ Common types of documents we need are shown below.
   <li>Death certificate of parents (if they have died)</li>
   <li>Certificate of inheritance (for Muslims only)</li>
   </ul>
-If the person who has died was a Muslim, you will need to apply for the Certificate of inheritance at [www.syariahcourt.gov.sg](https://www.syariahcourt.gov.sg){:target="_blank"}.
+If the person who has died was a Muslim, you will need to apply for the Certificate of inheritance at [go.gov.sg/syariah-ct-guide](https://www.syariahcourt.gov.sg){:target="_blank"}.
 
 
 You will be assigned a case officer after you have filed your online application. Please inform your case officer if you do not possess some of the required documents. Your case officer will advise you on what to do after you have submitted your online application.<br>
@@ -91,14 +91,14 @@ The fees we charge for dealing with CPF money are shown below:
 These fees, which we will take from the CPF money, include GST and cannot be waived. You will have to pay a minimum fee of $15.<br>
 
 **6.	How would the Public Trustee distribute the CPF money of a non-Muslim?**<br>
-If the person who died was not a Muslim, we will distribute the CPF money in line with the Intestate Succession Act. The Act states that the movable property (for example, money in a bank account) will be distributed according to the law of the country in which the person was domiciled at the time of his death. 
+If the person who died was not a Muslim, we will distribute the CPF money in line with the Intestate Succession Act 1967. The Act states that the movable property (for example, money in a bank account) will be distributed according to the law of the country in which the person was domiciled at the time of his death. 
 
-If the person who died was domiciled in Singapore at the time of their death, we will distribute the CPF money in line with the rules of distribution in the Intestate Succession Act.
+If the person who died was domiciled in Singapore at the time of their death, we will distribute the CPF money in line with the rules of distribution in the Intestate Succession Act 1967.
 
 
 (Note: The place of domicile refers to the place where the Deceased intended his permanent home to be. It does not refer to his nationality or residence.)<br>
 
-**7.	What are the Rules of Distribution under the Intestate Succession Act (Cap. 146)?**<br>
+**7.	What are the Rules of Distribution under the Intestate Succession Act 1967 (Cap. 146)?**<br>
 Kindly note that these Rules of Distribution apply only to a non-Muslim Deceased domiciled in Singapore.
 
 <table>
@@ -203,7 +203,7 @@ Kindly note that these Rules of Distribution apply only to a non-Muslim Deceased
 *<b>Issue</b> means a child (legitimate or legally adopted) and the descendants of a deceased’s child. Illegitimate children and transferred children are NOT entitled under the Intestacy Rules.</i></font>
 
 **8.	How would the Public Trustee distribute the CPF money of a Muslim?**<br>
-If the person who died was a Muslim, we will distribute the money in line with Section 112 of the Administration of Muslim Law Act according to the school of the Muslim law they observed.
+If the person who died was a Muslim, we will distribute the money in line with Section 112 of the Administration of Muslim Law Act 1966 according to the school of the Muslim law they observed.
 
 The Certificate of Inheritance issued by Syariah Court will list down the beneficiaries and their share of inheritance.<br>
 
