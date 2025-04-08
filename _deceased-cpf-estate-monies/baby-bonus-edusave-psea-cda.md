@@ -9,7 +9,7 @@ variant: markdown
 <br><br>
 
 <font size="4"><b>1.	What do I need to do for the Baby Bonus / Edusave / PSEA / CDA money to be distributed to me?</b><br><br>
-You will need to make an online application <a href="https://eservices.mlaw.gov.sg/pto" target="_blank">"Administration of CPF / Baby Bonus / Edusave / PSEA Monies"</a> so that we can deal with the money.<br><br>
+You will need to make an online application <a href="https://go.gov.sg/pto" target="_blank">"Administration of CPF / Baby Bonus / Edusave / PSEA Monies"</a> so that we can deal with the money.<br><br>
 
 You will need to have your Singpass ready in order to access our online application form. You may apply for your Singpass at <a href="https://www.singpass.gov.sg" target="_blank">https://www.singpass.gov.sg</a> if you do not have one.<br><br>
  
