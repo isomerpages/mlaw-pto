@@ -29,7 +29,7 @@ If you are ineligible to apply for a Singpass, you may apply for a login ID and 
 
 For a reimbursement of funeral expenses, <a href="/files/AnnexC_Funeral_Oct20.pdf" target="_blank">Annex C</a> sets out the list of documents we need.
 
-You may pick up a copy of the Annexes from our office or view them from our website under <a href="https://pto.mlaw.gov.sg/deceased-cpf-estate-monies/information/" target="_blank">Deceased CPF / Estate Monies &gt; Information</a>.
+You may pick up a copy of the Annexes from our office or view them from our website under <a href="https://go.gov.sg/pto-annexes" target="_blank">Deceased CPF / Estate Monies &gt; Information</a>.
 
 Common types of documents we need are shown below.
 <ul>
