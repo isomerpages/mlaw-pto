@@ -43,7 +43,7 @@ The assets administered by the Public Trustee are:
 * Deceased's money from the Workfare Income Supplement Scheme.<br>
 
 **4. How do I apply to the Public Trustee to administer a Deceased’s Estate?**<br>
-You will need to make an online application via the eService at https://go.gov.sg/pto](https://eservices.mlaw.gov.sg/pto){:target="_blank"}  for the Public Trustee to administer the Deceased’s estate monies. Please note that you will be required to disclose information on the Deceased’s shares, bank savings account, death gratuity, insurance policies and vehicles owned (if any) in the online application.
+You will need to make an online application via the eService at [https://go.gov.sg/pto](https://eservices.mlaw.gov.sg/pto){:target="_blank"}  for the Public Trustee to administer the Deceased’s estate monies. Please note that you will be required to disclose information on the Deceased’s shares, bank savings account, death gratuity, insurance policies and vehicles owned (if any) in the online application.
 
 You will need to have your Singpass ready in order to access our online application form. You may apply for your Singpass at [https://www.singpass.gov.sg](https://www.singpass.gov.sg){:target="_blank"} if you do not have one.
 
