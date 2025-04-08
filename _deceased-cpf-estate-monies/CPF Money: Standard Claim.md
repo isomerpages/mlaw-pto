@@ -50,7 +50,7 @@ If the person who has died was a Muslim, you will need to apply for the Certific
 You will be assigned a case officer after you have filed your online application. Please inform your case officer if you do not possess some of the required documents. Your case officer will advise you on what to do after you have submitted your online application.<br>
 
 **4.	Whom do I submit the documents to?**<br>
-You may attach the required documents in your online submission, send via [e-services](https://eservices.mlaw.gov.sg/pto){:target="_blank"} or post to us at the following address:
+You may attach the required documents in your online submission, send via [e-Services](https://eservices.mlaw.gov.sg/pto){:target="_blank"} or post to us at the following address:
 
 Public Trustee’s Office<br>
 The URA Centre (East Wing)<br>
