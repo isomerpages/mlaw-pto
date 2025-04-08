@@ -141,7 +141,7 @@ You will need to have your SingPass of ready in order to access our eService. If
 If you are not eligible to apply for a Singpass and above 21 years old, you may register for a Non-SingPass login ID through our website ([https://go.gov.sg/pto](/)).<br>
 
 **3. How do I navigate this new eService?**<br>
-You may refer to the training slides on our website at [https://pto.mlaw.gov.sg/deceased-cpf-estate-monies/information/](/deceased-cpf-estate-monies/information/).<br>
+You may refer to the training slides on our website at [https://go.gov.sg/pto-annexes](/deceased-cpf-estate-monies/information/).<br>
 
 There are available <a href="https://pto.mlaw.gov.sg/deceased-cpf-estate-monies/eservices-guides/" target="_blank">eService guides</a> too.
 
@@ -169,7 +169,7 @@ If you do not receive our notification letter before your 21st birthday, please 
 
 With effect from 5 March 2018, all payments will be made electronically.
 
-Please submit your preferred payment mode via <a href="https://go.gov.sg/pto" target="_blank">https://eservices.mlaw.gov.sg/pto</a> (Submission of Bank Account / PayNow Details).<br>
+Please submit your preferred payment mode via <a href="https://go.gov.sg/pto" target="_blank">https://go.gov.sg/pto</a> (Submission of Bank Account / PayNow Details).<br>
 •	For PayNow, the account has to be registered with your NRIC)<br> 
 •	For Direct Credit, you will need to submit a clear copy of your identity card (front and back) and the front page of the bank passbook or bank statement.<br><br> For the other non-electronic modes of payment, you will bear all the charges imposed by the banks(s) which will be deducted directly from the inheritance.
 
