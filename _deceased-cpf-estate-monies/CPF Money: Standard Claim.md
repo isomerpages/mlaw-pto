@@ -98,7 +98,7 @@ If the person who died was domiciled in Singapore at the time of their death, we
 
 (Note: The place of domicile refers to the place where the Deceased intended his permanent home to be. It does not refer to his nationality or residence.)<br>
 
-**7.	What are the Rules of Distribution under the Intestate Succession Act 1967 (Cap. 146)?**<br>
+**7.	What are the Rules of Distribution under the Intestate Succession Act 1967 ?**<br>
 Kindly note that these Rules of Distribution apply only to a non-Muslim Deceased domiciled in Singapore.
 
 <table>
