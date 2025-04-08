@@ -13,7 +13,7 @@ You will need to make an online application <a href="https://eservices.mlaw.gov.
 
 You will need to have your Singpass ready in order to access our online application form. You may apply for your Singpass at <a href="https://www.singpass.gov.sg" target="_blank">https://www.singpass.gov.sg</a> if you do not have one.<br><br>
  
-If you are ineligible to apply for a Singpass, you may apply for a login ID and password through our website: <a href="https://pto.mlaw.gov.sg" target="_blank">https://eservices.mlaw.gov.sg/pto</a>.<br><br>
+If you are ineligible to apply for a Singpass, you may apply for a login ID and password through our website: <a href="https://go.gov.sg/pto" target="_blank">https://eservices.mlaw.gov.sg/pto</a>.<br><br>
 
 <b>2.	What are the documents that need to be submitted?</b><br><br>
 <a href="/files/AnnexA_Muslims_Oct20.pdf" target="_blank">Annex A</a> (for Muslims) and <a href="/files/AnnexB_NonMuslims_Oct20.pdf" target="_blank">Annex B</a> (for non-Muslims) set out the list of documents we need. You may pick up a copy of the Annexes from our office or view them from our website under <a href="https://pto.mlaw.gov.sg/deceased-cpf-estate-monies/information/" target="_blank">Deceased CPF / Estate Monies &gt; Information</a>.<br><br>
