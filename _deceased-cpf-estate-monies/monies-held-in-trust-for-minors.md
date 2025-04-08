@@ -47,7 +47,7 @@ Monies held-in-trust for Minors
 </tbody></table><br>
 
 **2. Can you release the money held-in-trust because I am now the only parent or guardian of the child and have financial difficulties supporting the child?**<br>
-Under sections 68 and 70 of the Women’s Charter, it is the duty of the parent or guardian of a child to maintain or contribute to their maintenance if they cannot look after themselves.
+Under sections 68 and 70 of the Women’s Charter 1961, it is the duty of the parent or guardian of a child to maintain or contribute to their maintenance if they cannot look after themselves.
 
 If you are the parent or legal guardian of a child and you face financial difficulties in supporting the child, you may apply to us for a maintenance allowance out of the child’s money which we are holding.
 
