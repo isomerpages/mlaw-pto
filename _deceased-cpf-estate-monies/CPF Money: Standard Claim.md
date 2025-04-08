@@ -246,7 +246,7 @@ If CPF money was nominated in favour of a person ( “the nominee”) who has pa
 
 If the deceased nominee’s estate does not qualify for administration by the Public Trustee, you will need to apply to court for Letters of Administration or Grant of Probate to deal with the nominee’s estate, including the CPF money payable to the nominee. If you qualify for legal aid, you may apply to the Legal Aid Bureau for help in getting Letters of Administration. If you do not qualify for legal aid, you will need to hire a lawyer. Where the Public Trustee does not act for the deceased nominee’s estate, the CPF money payable to the nominee will be paid to the administrator of their estate or the executor of their will.
 
-Please refer to our online FAQ under <a href="https://go.gov.sg/cpf-estate" target="_blank">Estate (Other Assets)</a> on the situations where the Public Trustee would be able to assist to administer an estate, and on how to make an online application to the Public Trustee for the administration of a deceased estate.<br>
+Please refer to our online FAQ under <a href="https://pto.mlaw.gov.sg/deceased-cpf-estate-monies/information-for-next-of-kin-estate-monies/" target="_blank">Estate (Other Assets)</a> on the situations where the Public Trustee would be able to assist to administer an estate, and on how to make an online application to the Public Trustee for the administration of a deceased estate.<br>
 
 **2. What fees do you charge for holding nominated CPF money in trust for a minor?**<br>
 The fees we charge for holding nominated CPF money in trust for a minor are shown below.
