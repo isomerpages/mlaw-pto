@@ -2,6 +2,7 @@
 title: "CPF Money : Beneficiary Representative"
 permalink: /deceased-cpf-estate-monies/br/
 description: ""
+variant: markdown
 ---
 # CPF Money: Beneficiary Representative Approach
 
@@ -70,7 +71,7 @@ The PTO will require the BR to submit documents to prove the familial relationsh
 <li>The BR will need to submit documents to prove the other beneficiaries’ familiar relationship with the deceased if the deceased member, BR or other beneficiaries are non-Singapore Citizens.</li></ol>
 
 **9.	How will the other beneficiaries be contacted to provide their confirmation of consent?**<br>
-An email will be sent to each beneficiary via the email address provided by the BR. The email will invite the beneficiaries to log in via SingPass to PTO’s e-Services portal at <a href ="https://go.gov.sg/pto-eservices" target = "_blank">https://go.gov.sg/pto-eservices</a> to indicate electronically that he/she had provided consent for the BR to receive the monies on his/her behalf. If the beneficiary is unable to provide consent electronically, he/she can make a request via MinLaw’s Contact Us form (<a href="https://eservices.mlaw.gov.sg/enquiry/" target = "_blank">https://eservices.mlaw.gov.sg/enquiry/</a>) for a hardcopy confirmation form to be mailed to his/her residential address.<br>
+An email will be sent to each beneficiary via the email address provided by the BR. The email will invite the beneficiaries to log in via SingPass to PTO’s e-Services portal at <a href="https://go.gov.sg/pto" target="_blank">https://go.gov.sg/pto-eservices</a> to indicate electronically that he/she had provided consent for the BR to receive the monies on his/her behalf. If the beneficiary is unable to provide consent electronically, he/she can make a request via MinLaw’s Contact Us form (<a href="https://go.gov.sg/contactminlaw /" target="_blank">https://eservices.mlaw.gov.sg/enquiry/</a>) for a hardcopy confirmation form to be mailed to his/her residential address.<br>
 	
 **10.	In what circumstances will the beneficiaries’ share of the CPF monies be held by the PT?**<br>
 <ol style="list-style-type: lower-alpha; padding-bottom: 0;">
@@ -104,7 +105,7 @@ Yes, the BR claim will apply for cases in which the un-nominated CPF monies were
 **15.	Will the PT administration fees apply for the BR claim approach?**<br> 
 	Yes, the same set of PT administration fees will apply. They are as shown below:
 <table>
-	<tr>
+	<tbody><tr>
 		<th>AMOUNT OF CPF MONEY</th>
 		<th>CHARGE</th>
 	</tr>
@@ -128,6 +129,6 @@ Yes, the BR claim will apply for cases in which the un-nominated CPF monies were
 		<td>FOR AMOUNTS IN EXCESS OF $500,000</td>
 		<td>0.300%</td>
 	</tr>
-	</table>
+	</tbody></table>
 
 <br>These fees, which will be deducted from the CPF money, include GST and cannot be waived. You will have to pay a minimum fee of $15.
