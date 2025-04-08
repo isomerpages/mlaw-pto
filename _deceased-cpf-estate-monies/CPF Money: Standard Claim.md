@@ -44,7 +44,7 @@ Common types of documents we need are shown below.
   <li>Death certificate of parents (if they have died)</li>
   <li>Certificate of inheritance (for Muslims only)</li>
   </ul>
-If the person who has died was a Muslim, you will need to apply for the Certificate of inheritance at [go.gov.sg/syariah-ct-guide](https://www.syariahcourt.gov.sg){:target="_blank"}.
+If the person who has died was a Muslim, you will need to apply for the Certificate of inheritance at [www.syariahcourt.gov.sg](https://www.syariahcourt.gov.sg){:target="_blank"}.
 
 
 You will be assigned a case officer after you have filed your online application. Please inform your case officer if you do not possess some of the required documents. Your case officer will advise you on what to do after you have submitted your online application.<br>
