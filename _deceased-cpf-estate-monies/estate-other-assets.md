@@ -21,7 +21,7 @@ We cannot act if:
 * the person who has died was a partner, a sole proprietor or had an interest in a firm or other business;
 * the person who died was the sole lessee (owner) of a HDB flat and a child is eligible to inherit the whole or part of the flat;
 * there are pending lawsuits which involve the person who has died;
-* there are insurance policies where one or more people have been nominated as beneficiaries [Under Section 73 of the Conveyancing and Law of Property Act (Cap. 61), Sections 49L and 49M of the Insurance Act (Cap. 142)];
+* there are insurance policies where one or more people have been nominated as beneficiaries [Under Section 73 of the Conveyancing and Law of Property Act , Sections 49L and 49M of the Insurance Act ];
 * there are trust bank accounts opened with a child; and
 * there are commercial vehicles involved such as taxis.
 
@@ -43,20 +43,20 @@ The assets administered by the Public Trustee are:
 * Deceased's money from the Workfare Income Supplement Scheme.<br>
 
 **4. How do I apply to the Public Trustee to administer a Deceased’s Estate?**<br>
-You will need to make an online application via the eService at [https://eservices.mlaw.gov.sg/pto](https://eservices.mlaw.gov.sg/pto){:target="_blank"}  for the Public Trustee to administer the Deceased’s estate monies. Please note that you will be required to disclose information on the Deceased’s shares, bank savings account, death gratuity, insurance policies and vehicles owned (if any) in the online application.
+You will need to make an online application via the <a href="https://eservices.mlaw.gov.sg/pto" target="_blank">e-Services</a>  for the Public Trustee to administer the Deceased’s estate monies. Please note that you will be required to disclose information on the Deceased’s shares, bank savings account, death gratuity, insurance policies and vehicles owned (if any) in the online application.
 
 You will need to have your Singpass ready in order to access our online application form. You may apply for your Singpass at [https://www.singpass.gov.sg](https://www.singpass.gov.sg){:target="_blank"} if you do not have one.
 
-If you are ineligible to apply for a Singpass, you may apply for a login ID and password through our website: [https://eservices.mlaw.gov.sg/pto](https://eservices.mlaw.gov.sg/pto){:target="_blank"}.
+If you are ineligible to apply for a Singpass, you may apply for a login ID and password through our website: [https://go.gov.sg/pto](https://eservices.mlaw.gov.sg/pto){:target="_blank"}.
 
 **5. How would the Public Trustee distribute the estate of a non-Muslim?**<br>
-If the person who died was not a Muslim, we will distribute the estate in line with the Intestate Succession Act, which says that the distribution of any movable property (for example, money in the bank account) will be regulated by the law of the country in which the person was domiciled at the time of their death.
+If the person who died was not a Muslim, we will distribute the estate in line with the Intestate Succession Act 1967, which says that the distribution of any movable property (for example, money in the bank account) will be regulated by the law of the country in which the person was domiciled at the time of their death.
 
-If the person who died was domiciled in Singapore at the time of their death, we will distribute their estate in line with the rules of distribution in the Intestate Succession Act.
+If the person who died was domiciled in Singapore at the time of their death, we will distribute their estate in line with the rules of distribution in the Intestate Succession Act 1967.
 
 (Note: The place of domicile refers to the place where the Deceased intended his permanent home to be. It does not refer to his nationality or residence.)<br>
 
-**6. What are the Rules of Distribution under the Intestate Succession Act (Cap. 146)?**<br>
+**6. What are the Rules of Distribution under the Intestate Succession Act 1967?**<br>
 Kindly note that these Rules of Distribution apply only to a non-Muslim Deceased domiciled in Singapore.
     
    <table>
@@ -162,7 +162,7 @@ Kindly note that these Rules of Distribution apply only to a non-Muslim Deceased
 *<b> Issue</b> means a child (legitimate or legally adopted) and the descendants of a deceased’s child. Illegitimate children and transferred children are NOT entitled under the Intestacy Rules.</i></font> 
 
 **7. How would the Public Trustee distribute the estate of a Muslim?**<br>
-If the person who died was a Muslim, we will distribute the estate in line with Section 112 of the Administration of Muslim Law Act according to the school of the Muslim law the person observed.
+If the person who died was a Muslim, we will distribute the estate in line with Section 112 of the Administration of Muslim Law Act 1966 according to the school of the Muslim law the person observed.
 
 The Certificate of Inheritance issued by Syariah Court will list down the beneficiaries and their share of inheritance.<br>
 
@@ -245,7 +245,7 @@ e) Payments will be made to the Claimant via PayNow (which has to be registered 
 
 f) Receipts incurred for Funeral Expenses (Compulsory for Non-Beneficiary Claimant)
 
-You may attach the required documents in your online submission, send via [e-services](https://eservices.mlaw.gov.sg/pto){:target="_blank"} or post to us at the following address:
+You may attach the required documents in your online submission, send via [e-Services](https://eservices.mlaw.gov.sg/pto){:target="_blank"} or post to us at the following address:
 
 Public Trustee’s Office<br>
 The URA Centre (East Wing)<br>

@@ -18,18 +18,18 @@ If the person who has died did not make a valid nomination, the CPF Board will s
 The CPF Board will also send us the CPF money of a person who has died if the person chosen to receive that money is under 18 years old (unless she is a widow).<br>
 
 **2.	What do I need to do for the CPF money to be distributed to me?**<br>
-You will need to make an online application "Administration of CPF / Baby Bonus / Edusave / PSEA Monies" at  [https://pto.mlaw.gov.sg/](https://eservices.mlaw.gov.sg/pto) so that we can deal with the money.
+You will need to make an online application "Administration of CPF / Baby Bonus / Edusave / PSEA Monies" at  [https://go.gov.sg/pto](https://eservices.mlaw.gov.sg/pto) so that we can deal with the money.
 
 You will need to have your Singpass ready in order to access our online application form. You may apply for your Singpass at [https://www.singpass.gov.sg](https://www.singpass.gov.sg) if you do not have one.
  
-If you are ineligible to apply for a Singpass, you may apply for a login ID and password through our website: [https://pto.mlaw.gov.sg/](https://eservices.mlaw.gov.sg/pto).<br>
+If you are ineligible to apply for a Singpass, you may apply for a login ID and password through our website: [https://go.gov.sg/pto](https://eservices.mlaw.gov.sg/pto).<br>
 
 **3.	What are the documents that need to be submitted?**<br>
 <a href="/files/AnnexA_Muslims_Oct20.pdf" target="_blank">Annex A</a> (for Muslims) and <a href="/files/AnnexB_NonMuslims_Oct20.pdf" target="_blank">Annex B</a> (for non-Muslims) set out the list of documents we need. 
 
 For a reimbursement of funeral expenses, <a href="/files/AnnexC_Funeral_Oct20.pdf" target="_blank">Annex C</a> sets out the list of documents we need.
 
-You may pick up a copy of the Annexes from our office or view them from our website under <a href="https://pto.mlaw.gov.sg/deceased-cpf-estate-monies/information/" target="_blank">Deceased CPF / Estate Monies &gt; Information</a>.
+You may pick up a copy of the Annexes from our office or view them from our website under <a href="https://go.gov.sg/pto-annexes" target="_blank">Deceased CPF / Estate Monies &gt; Information</a>.
 
 Common types of documents we need are shown below.
 <ul>
@@ -44,13 +44,13 @@ Common types of documents we need are shown below.
   <li>Death certificate of parents (if they have died)</li>
   <li>Certificate of inheritance (for Muslims only)</li>
   </ul>
-If the person who has died was a Muslim, you will need to apply for the Certificate of inheritance at [go.gov.sg/syariah-ct-guide](https://www.syariahcourt.gov.sg){:target="_blank"}.
+If the person who has died was a Muslim, you will need to apply for the Certificate of inheritance at [www.syariahcourt.gov.sg](https://www.syariahcourt.gov.sg){:target="_blank"}.
 
 
 You will be assigned a case officer after you have filed your online application. Please inform your case officer if you do not possess some of the required documents. Your case officer will advise you on what to do after you have submitted your online application.<br>
 
 **4.	Whom do I submit the documents to?**<br>
-You may attach the required documents in your online submission, send via [e-services](https://eservices.mlaw.gov.sg/pto){:target="_blank"} or post to us at the following address:
+You may attach the required documents in your online submission, send via [e-Services](https://eservices.mlaw.gov.sg/pto){:target="_blank"} or post to us at the following address:
 
 Public Trustee’s Office<br>
 The URA Centre (East Wing)<br>
@@ -98,7 +98,7 @@ If the person who died was domiciled in Singapore at the time of their death, we
 
 (Note: The place of domicile refers to the place where the Deceased intended his permanent home to be. It does not refer to his nationality or residence.)<br>
 
-**7.	What are the Rules of Distribution under the Intestate Succession Act 1967 (Cap. 146)?**<br>
+**7.	What are the Rules of Distribution under the Intestate Succession Act 1967 ?**<br>
 Kindly note that these Rules of Distribution apply only to a non-Muslim Deceased domiciled in Singapore.
 
 <table>
@@ -230,7 +230,7 @@ c) If Claimant is:
 </ul>
 d) <a href="/files/Declarationform(CPFMonies)forfuneralexpenses(Form12).pdf" target="_blank">Declaration Form (CPF monies) for funeral expenses</a>.
 
-e) Payments will be made to the Claimant via PayNow (which has to be registered with your NRIC) or Direct Credit to the bank account. For Direct Credit, you will need to submit a copy of the front page of the bank passbook or bank statement. For a payment request via Direct Credit to a third party bank account, both you and the account holder(s) must execute the indemnity form (Form 15) which is available at our <a href="https://pto.mlaw.gov.sg/deceased-cpf-estate-monies/forms/" target="_blank">website</a>. For the other non-electronic modes of payment, you will bear all the charges imposed by the bank(s) which will be deducted directly from the inheritance.
+e) Payments will be made to the Claimant via PayNow (which has to be registered with your NRIC) or Direct Credit to the bank account. For Direct Credit, you will need to submit a copy of the front page of the bank passbook or bank statement. For a payment request via Direct Credit to a third party bank account, both you and the account holder(s) must execute the indemnity form (Form 15) which is available at our <a href="https://go.gov.sg/ptoforms" target="_blank">website</a>. For the other non-electronic modes of payment, you will bear all the charges imposed by the bank(s) which will be deducted directly from the inheritance.
 
 f) Relevant receipts incurred for funeral expenses (not compulsory)
 
