@@ -23,7 +23,7 @@ List of Required Documents
 
 [Non-Muslims - List of Required Documents (In Malay)](/files/malay_annexb_non-muslims_17oct20.pdf){:target="_blank"}(513 KB)
 
-[Funeral Reimbursement Claim - List of Required Documents (In Malay)](/files/malay_annexc_funeralclaim_17oct20.pdf){:target="_blank"}(419 KB)
+[Funeral Reimbursement Claim - List of Required Documents (In Malay](/files/malay_annexc_funeralclaim_17oct20.pdf){:target="_blank"}(419 KB)
 
 [Dealing with money held in trust (In Malay)](/files/MalayBrochure3Held-in-TrustCases_10-06-2025.pdf){:target="_blank"}(129 KB)
 
