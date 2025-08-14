@@ -52,9 +52,9 @@ Brochures
 
 [Intestacy Brochure](/files/Information_Page/intestacybrochure.pdf){:target="_blank"}(587 KB)
 
-[Dealing with the Central Provident Fund (CPF) money of someone who has died](/files/Brochure1_CPF_Oct20.pdf){:target="_blank"}(586 KB)
+[Dealing with the Central Provident Fund (CPF) money of someone who has died](/files/Information_Page/Brochure1_CPF_Oct20.pdf){:target="_blank"}(586 KB)
 
-[Dealing with the deceased’s estate (assets)](/files/brochure2_estatemonies_22feb21.pdf){:target="_blank"}(201 KB)
+[Dealing with the deceased’s estate (assets)](/files/Information_Page/brochure2_estatemonies_22feb21.pdf){:target="_blank"}(201 KB)
 
 
 
@@ -68,9 +68,9 @@ Brochures
 
 **In Chinese**<br>
 
-[如何分配已故者的公积金存款](/files/Chinese_Brochure1_CPF_17Oct20_.pdf){:target="_blank"}(414 KB)
+[如何分配已故者的公积金存款](/files/Information_Page/Chinese_Brochure1_CPF_17Oct20_.pdf){:target="_blank"}(414 KB)
 
-[如何分配已故者的遗产 (资产)](/files/Chinese_Brochure2_Estate_22Feb21.pdf){:target="_blank"}(239 KB)
+[如何分配已故者的遗产 (资产)](/files/Information_Page/Chinese_Brochure2_Estate_22Feb21.pdf){:target="_blank"}(239 KB)
 
 
 
@@ -85,4 +85,4 @@ Brochures
 Information Slides
 ---
 
-[Viewing Statement of Accounts for Held in Trust Cases](/files/ViewingStatementofAccountsforHeldinTrustCases.pdf){:target="_blank"}(2 MB)
+[Viewing Statement of Accounts for Held in Trust Cases](/files/Information_Page/ViewingStatementofAccountsforHeldinTrustCases.pdf){:target="_blank"}(2 MB)
