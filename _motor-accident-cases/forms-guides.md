@@ -13,11 +13,11 @@ Forms / Guides
 
 [Application for Interbank GIRO](/files/MA(AC)Matters/DirectDebitApplicationFormrevJuly17.pdf){:target="_blank"}(222 KB)
 
-[Form 15 (For Motor Accident Cases)](/files/Form15(AC)_Oct20.pdf){:target="_blank"}(466 KB)
+[Form 15 (For Motor Accident Cases)](/files/MA(AC)Matters/Form15(AC)_Oct20.pdf){:target="_blank"}(466 KB)
 
 
 **Guides for eServices** <br>
 
-[Application for Motor Accident Compensation Settlement](/files/PTO_E-Service_User_Guide-MA.pdf){:target="_blank"}(4.89 MB)
+[Application for Motor Accident Compensation Settlement](/files/MA(AC)Matters/PTO_E-Service_User_Guide-MA.pdf){:target="_blank"}(4.89 MB)
 
-[Approval of Solicitor and client Costs](/files/PTOE-SvcUserGuide-SnC_16-6-22.pdf){:target="_blank"}(2.47 MB)
+[Approval of Solicitor and client Costs](/files/MA(AC)Matters/PTOE-SvcUserGuide-SnC_16-6-22.pdf){:target="_blank"}(2.47 MB)
