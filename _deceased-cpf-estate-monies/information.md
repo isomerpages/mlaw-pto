@@ -15,7 +15,7 @@ List of Required Documents
 
 [Funeral Reimbursement Claim - List of Required Documents](/files/AnnexC_Funeral_Oct20.pdf){:target="_blank"}(407KB)
 
-[Dealing with money held in trust](/files/EnglishBrochure3HeldinTrustCases10062025.pdf){:target="_blank"}(161KB)
+[Dealing with money held in trust](/files/Docs_Information_Page/EnglishBrochure3HeldinTrustCases10062025.pdf){:target="_blank"}(161KB)
 
 **In Malay**<br>
 
@@ -25,7 +25,7 @@ List of Required Documents
 
 [Funeral Reimbursement Claim - List of Required Documents (In Malay)](files/malay_annexc_funeralclaim_17oct20.pdf){:target="_blank"}(419 KB)
 
-[Dealing with money held in trust (In Malay)](/files/MalayBrochure3HeldinTrustCases10062025.pdf){:target="_blank"}(129 KB)
+[Dealing with money held in trust (In Malay)](/files/Docs_Information_Page/MalayBrochure3HeldinTrustCases10062025.pdf){:target="_blank"}(129 KB)
 
 **In Chinese**<br>
 
@@ -35,7 +35,7 @@ List of Required Documents
 
 [文件清单 (偿还殡殓费)](/files/Chinese_AnnexC_Funeral_17Oct20.pdf){:target="_blank"}(456 KB)
 
-[为孩童处理受托管的款项](/files/ChineseBrochure3HeldinTrustCases10062025.pdf){:target="_blank"}(208 KB)
+[为孩童处理受托管的款项](/files/Docs_Information_Page/ChineseBrochure3HeldinTrustCases10062025.pdf){:target="_blank"}(208 KB)
 
 **In Tamil**<br>
 
