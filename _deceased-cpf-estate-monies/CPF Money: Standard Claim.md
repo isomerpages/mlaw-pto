@@ -25,9 +25,9 @@ You will need to have your Singpass ready in order to access our online applicat
 If you are ineligible to apply for a Singpass, you may apply for a login ID and password through our website: [https://go.gov.sg/pto](https://eservices.mlaw.gov.sg/pto).<br>
 
 **3.	What are the documents that need to be submitted?**<br>
-<a href="/files/AnnexA_Muslims_Oct20.pdf" target="_blank">Annex A</a> (for Muslims) and <a href="/files/AnnexB_NonMuslims_Oct20.pdf" target="_blank">Annex B</a> (for non-Muslims) set out the list of documents we need. 
+<a href="/files/Information_Page/AnnexA_Muslims_Oct20.pdf" target="_blank">Annex A</a> (for Muslims) and <a href="/files/Information_Page/AnnexB_NonMuslims_Oct20.pdf" target="_blank">Annex B</a> (for non-Muslims) set out the list of documents we need. 
 
-For a reimbursement of funeral expenses, <a href="/files/AnnexC_Funeral_Oct20.pdf" target="_blank">Annex C</a> sets out the list of documents we need.
+For a reimbursement of funeral expenses, <a href="/files/Information_Page/AnnexC_Funeral_Oct20.pdf" target="_blank">Annex C</a> sets out the list of documents we need.
 
 You may pick up a copy of the Annexes from our office or view them from our website under <a href="https://go.gov.sg/pto-annexes" target="_blank">Deceased CPF / Estate Monies &gt; Information</a>.
 
@@ -228,7 +228,7 @@ c) If Claimant is:
 <li>Parent of Deceased – Birth Certificate of Deceased and Marriage Certificate of Parents</li>
 <li>Sibling of Deceased – Birth Certificate of Deceased and Birth Certificate of Sibling</li>
 </ul>
-d) <a href="/files/Declarationform(CPFMonies)forfuneralexpenses(Form12).pdf" target="_blank">Declaration Form (CPF monies) for funeral expenses</a>.
+d) <a href="/files/Forms_Page/Declarationform(CPFMonies)forfuneralexpenses(Form12).pdf" target="_blank">Declaration Form (CPF monies) for funeral expenses</a>.
 
 e) Payments will be made to the Claimant via PayNow (which has to be registered with your NRIC) or Direct Credit to the bank account. For Direct Credit, you will need to submit a copy of the front page of the bank passbook or bank statement. For a payment request via Direct Credit to a third party bank account, both you and the account holder(s) must execute the indemnity form (Form 15) which is available at our <a href="https://go.gov.sg/ptoforms" target="_blank">website</a>. For the other non-electronic modes of payment, you will bear all the charges imposed by the bank(s) which will be deducted directly from the inheritance.
 
