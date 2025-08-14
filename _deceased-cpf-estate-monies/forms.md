@@ -11,13 +11,13 @@ Forms
 
 [Form 7 - Discrepancies in Documents](/files/Forms_Page/DiscrepanciesinDocuments(Form7).pdf){:target="_blank"}(78 KB)
 
-[Form 10 - Application for CPF Monies Less Than or Equal to $100](/files/Forms_Page/Form10.pdf){:target="_blank"}(223KB)
+[Form 10 - Application for CPF Monies Less Than or Equal to $100](/files/Forms_Page/form10.pdf){:target="_blank"}(223KB)
 
 [Form 12 - Declaration Form (CPF monies) for funeral expenses](/files/Forms_Page/Declarationform(CPFMonies)forfuneralexpenses(Form12).pdf){:target="_blank"}(220KB)
 
 [Form 13 - Declaration Form (Estate monies) for funeral expenses](/files/Forms_Page/Declarationform(EstateMonies)forfuneralexpenses(Form13).pdf){:target="_blank"}(218KB)
 
-[Form 15 - Letter of Authorisation &amp; Indemnity for payment to Third party Bank Account](/files/Forms_Page/Form15.pdf){:target="_blank"}(259 KB)
+[Form 15 - Letter of Authorisation &amp; Indemnity for payment to Third party Bank Account](/files/Forms_Page/form15.pdf){:target="_blank"}(259 KB)
 
 *[Forms 15A and 15B/C are replaced by Form 15. With effect from 17 October 2020, Form 15 is only required for payments made to third-party's bank account.]*
 
