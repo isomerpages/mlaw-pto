@@ -60,9 +60,9 @@ Brochures
 
 **In Malay**<br>
 
-[Menguruskan wang Tabung Simpanan Pekerja (CPF) seseorang yang telah meninggal dunia](/files/malay_brochure1_cpf_17oct20.pdf){:target="_blank"}(477 KB)
+[Menguruskan wang Tabung Simpanan Pekerja (CPF) seseorang yang telah meninggal dunia](/files/Information_Page/malay_brochure1_cpf_17oct20.pdf){:target="_blank"}(477 KB)
 
-[Menguruskan harta pusaka si mati (aset-aset)](/files/malay_brochure2_estate_17oct20.pdf){:target="_blank"}(283 KB)
+[Menguruskan harta pusaka si mati (aset-aset)](/files/Information_Page/malay_brochure2_estate_17oct20.pdf){:target="_blank"}(283 KB)
 
 
 
