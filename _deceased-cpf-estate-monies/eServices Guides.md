@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h3>Guides for eServices</h3>
 <p>
-<br><strong><a href="/files/PTO_E-Service_User_Guide-Access.pdf" rel="noopener noreferrer nofollow" target="\blank">Accessing PTO's eServices</a> (611KB)<br><br><a href="/files/PTOE-SvcUserGuide-CPF_16-6-22.pdf" rel="noopener noreferrer nofollow" target="\blank">Application for distribution of deceased's CPF/ Baby Bonus/ Edusave/ PSEA Monies - Standard Claim</a> (4.04MB)</strong>
+<br><strong><a href="/files/Guides_for_eServices_Page/PTO_E-Service_User_Guide-Access.pdf" rel="noopener noreferrer nofollow" target="\blank">Accessing PTO's eServices</a> (611KB)<br><br><a href="/files/Guides_for_eServices_Page/PTOE-SvcUserGuide-CPF_16-6-22.pdf" rel="noopener noreferrer nofollow" target="\blank">Application for distribution of deceased's CPF/ Baby Bonus/ Edusave/ PSEA Monies - Standard Claim</a> (4.04MB)</strong>
 </p>
 <p><strong><a href="/files/PTOESvcUserGuideBR160524.pdf" rel="noopener noreferrer nofollow" target="_blank">Application for distribution of deceased's CPF/ Baby Bonus/ Edusave/ PSEA Monies - Beneficiary Representative</a> (2.96MB)</strong>
 </p>
