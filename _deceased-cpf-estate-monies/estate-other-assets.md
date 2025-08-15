@@ -167,9 +167,9 @@ If the person who died was a Muslim, we will distribute the estate in line with 
 The Certificate of Inheritance issued by Syariah Court will list down the beneficiaries and their share of inheritance.<br>
 
 **8. What are the documents that need to be submitted to the Public Trustee?**<br>
-<a href="/files/AnnexA_Muslims_Oct20.pdf" target="_blank">Annex A</a> (for Muslims) and <a href="/files/AnnexB_NonMuslims_Oct20.pdf" target="_blank">Annex B</a> (for non-Muslims) set out the list of documents we need. 
+<a href="/files/Information_page/AnnexA_Muslims_Oct20.pdf" target="_blank">Annex A</a> (for Muslims) and <a href="/files/Information_page/AnnexB_NonMuslims_Oct20.pdf" target="_blank">Annex B</a> (for non-Muslims) set out the list of documents we need. 
 
-For a reimbursement of funeral expenses, <a href="/files/AnnexC_Funeral_Oct20.pdf" target="_blank">Annex C</a> sets out the list of documents we need.
+For a reimbursement of funeral expenses, <a href="/files/Information_page/AnnexC_Funeral_Oct20.pdf" target="_blank">Annex C</a> sets out the list of documents we need.
 
 You may pick up a copy of the Annexes from our office or view them from our website under <a href="https://pto.mlaw.gov.sg/deceased-cpf-estate-monies/information/" target="_blank">Deceased CPF / Estate Monies &gt; Information</a>.
 
@@ -239,7 +239,7 @@ c) If Claimant is:
   <li>Parent of Deceased – Birth Certificate of Deceased and Marriage Certificate of Parents</li>
   <li>Sibling of Deceased – Birth Certificate of Deceased and Birth Certificate of Sibling</li>
 </ul>
-d) <a href="/files/Declarationform(Estate Monies)forfuneralexpenses(Form13).pdf" target="_blank">Declaration Form (Estate monies) for funeral expenses</a>.
+d) <a href="/files/Forms_page/Declarationform(Estate Monies)forfuneralexpenses(Form13).pdf" target="_blank">Declaration Form (Estate monies) for funeral expenses</a>.
 
 e) Payments will be made to the Claimant via PayNow (which has to be registered with your NRIC) or Direct Credit to the bank account. For Direct Credit, you will need to submit a copy of the front page of the bank passbook or bank statement. For a payment request via Direct Credit to a third party bank account, both the account holder(s) and you must execute the indemnity form (Form 15), which is available at our <a href="https://pto.mlaw.gov.sg/deceased-cpf-estate-monies/forms/" target="_blank">website</a>. For the other non-electronic modes of payment, you will bear all the charges imposed by the bank(s) which will be deducted directly from the inheritance.
 
