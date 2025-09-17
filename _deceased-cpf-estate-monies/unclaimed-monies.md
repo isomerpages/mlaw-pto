@@ -48,4 +48,3 @@ Unclaimed Monies
 Public Trustee<br>
 	[Deceased Estates(Unclaimed Monies)](/files/Unclaimed_Monies_page/unclaimmar2025.pdf){:target="_blank"}(2.29MB)<br>
 [Deceased Estates (Bona Vacantia)](/files/Unclaimed_Monies_page/bvmar2025.pdf){:target="_blank"}(357KB)<br> 
-[Motor Accident Compensations](/files/Unclaimed_Monies_page/motoraccidentcompensationdec2024.pdf){:target="_blank"}(219KB)
