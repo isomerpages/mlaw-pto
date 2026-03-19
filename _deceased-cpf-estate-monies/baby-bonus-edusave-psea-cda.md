@@ -18,7 +18,6 @@ If you are ineligible to apply for a Singpass, you may apply for a login ID and 
 <b>2.	What are the documents that need to be submitted?</b><br><br>
 <a href="/files/Information_Page/AnnexA_Muslims_Oct20.pdf" target="_blank">Annex A</a> (for Muslims) and <a href="/files/Information_Page/AnnexB_NonMuslims_Oct20.pdf" target="_blank">Annex B</a> (for non-Muslims) set out the list of documents we need. 
 
-
 Common types of documents we need are shown below:<br><br>
 
   &nbsp;&nbsp;&nbsp;1) Death certificate of the person who has died (the deceased)<br>
