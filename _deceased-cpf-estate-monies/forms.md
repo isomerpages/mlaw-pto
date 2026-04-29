@@ -9,9 +9,6 @@ Forms
 
 **Forms For Public Trustee**<br>
 
-[Form 7 - Discrepancies in Documents](/files/Forms_Page/DiscrepanciesinDocuments(Form7).pdf){:target="_blank"}(78 KB)
-
-[Form 10 - Application for CPF Monies Less Than or Equal to $100](/files/Forms_Page/form10.pdf){:target="_blank"}(223KB)
 
 [Form 12 - Declaration Form (CPF monies) for funeral expenses](/files/Forms_Page/Declarationform(CPFMonies)forfuneralexpenses(Form12).pdf){:target="_blank"}(220KB)
 
@@ -28,7 +25,5 @@ Forms
 [Form 18 - Renunciation &amp; Indemnity Form](/files/Forms_Page/Form18.pdf){:target="_blank"}(139KB)
 
 [Form 19 - Letter of Declaration for funeral receipts](/files/Forms_Page/Form%2019_Letter%20of%20Declaration%20for%20Funeral%20Receipts.pdf){:target="_blank"}(122 KB)
-
-[Form 20 - Consent Form for Appointment of Beneficiary Representative](/files/Forms_Page/Form20.pdf){:target="_blank"}(139 KB)
 
 [Form 21 - Application For Distribution of a Deceased Person’s Un-Nominated CPF Monies through a Beneficiary Represenatative](/files/Forms_Page/Form21_BRApplicationForm.pdf){:target="_blank"}(260 KB)
