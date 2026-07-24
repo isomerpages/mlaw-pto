@@ -11,7 +11,7 @@ Estate (Other Assets)
 You will need to ensure that the estate does not fall under one of the situations stated below where the Public Trustee cannot act.<br>
 
 **2. What are the situations where the Public Trustee cannot act?**<br>
-We cannot act if:
+We do not act if:
 
 * the estate is worth more than $50,000 (excluding Dependants' Protection Scheme (DPS));
 * a court application for Letters of Administration or Grant of Probate has been filed;
