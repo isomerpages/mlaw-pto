@@ -8,10 +8,10 @@ Estate (Other Assets)
 ---
 
 **1. What do I need to ensure before applying to the Public Trustee?**<br>
-You will need to ensure that the estate does not fall under one of the situations stated below where the Public Trustee cannot act.<br>
+You will need to ensure that the estate does not fall under one of the situations stated below where the Public Trustee do not.<br>
 
-**2. What are the situations where the Public Trustee cannot act?**<br>
-We cannot act if:
+**2. What are the situations where the Public Trustee do not act?**<br>
+We do not act if:
 
 * the estate is worth more than $50,000 (excluding Dependants' Protection Scheme (DPS));
 * a court application for Letters of Administration or Grant of Probate has been filed;
