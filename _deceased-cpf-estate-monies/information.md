@@ -13,7 +13,6 @@ List of Required Documents
 
 [Non-Muslims - List of Required Documents](/files/Information_Page/AnnexB_NonMuslims_Oct20.pdf){:target="_blank"}(440KB)
 
-[Funeral Reimbursement Claim - List of Required Documents](/files/Information_Page/AnnexC_Funeral_Oct20.pdf){:target="_blank"}(407KB)
 
 [Dealing with money held in trust](/files/Information_Page/EnglishBrochure3HeldinTrustCases10062025.pdf){:target="_blank"}(161KB)
 
@@ -23,8 +22,6 @@ List of Required Documents
 
 [Non-Muslims - List of Required Documents (In Malay)](/files/Information_Page/malay_annexb_non-muslims_17oct20.pdf){:target="_blank"}(513 KB)
 
-[Funeral Reimbursement Claim - List of Required Documents (In Malay)](/files/Information_Page/malay_annexc_funeralclaim_17oct20.pdf){:target="_blank"}(419 KB)
-
 [Dealing with money held in trust (In Malay)](/files/Information_Page/MalayBrochure3HeldinTrustCases10062025.pdf){:target="_blank"}(129 KB)
 
 **In Chinese**<br>
@@ -32,8 +29,6 @@ List of Required Documents
 [文件清单 (适用于已故回教徒)](/files/Information_Page/Chinese_AnnexA_Muslims_17Oct20.pdf){:target="_blank"}(486 KB)
 
 [文件清单 (适用于非回教已故者)](/files/Information_Page/Chinese_AnnexB_NonMuslims_17Oct20_.pdf){:target="_blank"}(488 KB)
-
-[文件清单 (偿还殡殓费)](/files/Information_Page/Chinese_AnnexC_Funeral_17Oct20.pdf){:target="_blank"}(456 KB)
 
 [为孩童处理受托管的款项](/files/Information_Page/ChineseBrochure3HeldinTrustCases10062025.pdf){:target="_blank"}(208 KB)
 
@@ -43,7 +38,6 @@ List of Required Documents
 
 [Non-Muslims - List of Required Documents (In Tamil)](/files/Information_Page/Tamil_AnnexB_Non-Muslim_Oct20.pdf){:target="_blank"}(1.19 MB)
 
-[Funeral Reimbursement Claim - List of Required Documents (In Tamil)](/files/Information_Page/Tamil_AnnexC_Funeral_Oct20.pdf){:target="_blank"}(1.1 MB)
 
 Brochures
 ---
