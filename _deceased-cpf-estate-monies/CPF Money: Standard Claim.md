@@ -27,8 +27,6 @@ If you are ineligible to apply for a Singpass, you may apply for a login ID and 
 **3.	What are the documents that need to be submitted?**<br>
 <a href="/files/Information_Page/AnnexA_Muslims_Oct20.pdf" target="_blank">Annex A</a> (for Muslims) and <a href="/files/Information_Page/AnnexB_NonMuslims_Oct20.pdf" target="_blank">Annex B</a> (for non-Muslims) set out the list of documents we need. 
 
-For a reimbursement of funeral expenses, <a href="/files/Information_Page/AnnexC_Funeral_Oct20.pdf" target="_blank">Annex C</a> sets out the list of documents we need.
-
 You may pick up a copy of the Annexes from our office or view them from our website under <a href="https://go.gov.sg/pto-annexes" target="_blank">Deceased CPF / Estate Monies &gt; Information</a>.
 
 Common types of documents we need are shown below.
