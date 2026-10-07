@@ -8,8 +8,8 @@ notification: Government officials will <b>NEVER</b> ask you to transfer money
   href="https://www.scamshield.gov.sg">www.scamshield.gov.sg</a>. <br><br>We are
   refreshing the Ministry of Law websites. Information from this website will be
   moved to <a target="_blank"
-  href="https://www.mlaw.gov.sg">https://www.mlaw.gov.sg/</a> for a more
-  seamless experience. Watch this space for updates.
+  href="www.mlaw.gov.sg">https://www.mlaw.gov.sg/</a> for a more seamless
+  experience. Watch this space for updates.
 permalink: /
 sections:
   - hero:
