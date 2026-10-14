@@ -13,4 +13,5 @@ Public Trustee
 
 [Cases Administered](/files/Trust_Cases_Administered.pdf){:target="_blank"}(PDF File - 143KB)
 
-[Amount of Unclaimed Monies Held by IPTO (as of 31 Dec 2024)](/files/Statistics_Page/AmountofUnclaimedMoniesHeldbyIPTOasat31Dec2024actual){:target="_blank"}(PDF file - 373KB)
+
+[[Amount of Unclaimed Monies Held by IPTO (as of 31 Dec 2024)]](/files/Statistics_Page/AmountofUnclaimedMoniesHeldbyIPTOasat31Dec2024actual.pdf)
