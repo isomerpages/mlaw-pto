@@ -47,5 +47,9 @@ Unclaimed Monies
 **Unclaimed Monies Held By:** <br>
 Public Trustee<br>
 
-[Deceased Estates(Unclaimed Monies)](/files/Unclaimed_Monies_page/DECEASEDESTATESUNCLAIMEDMONIES31MAR2026.pdf){:target="_blank"}(2.29MB)<br>
-[Deceased Estates (Bona Vacantia)](/files/Unclaimed_Monies_page/DECEASEDESTATESBONAVACANTIA31MAR2026.pdf){:target="_blank"}(357KB)<br>
+
+
+[Deceased Estates(Unclaimed Monies)](/files/Unclaimed_Monies_page/DeceasedEstatesUnclaimedMoniesOct2026.pdf)
+
+
+[Deceased Estates (Bona Vacantia)](/files/Unclaimed_Monies_page/DeceasedEstatesBonaVacantiaOct2026.pdf)
