@@ -5,8 +5,8 @@ notification: Government officials will NEVER ask you to transfer money or
   disclose bank log-in details over a phone call. Call the 24/7 ScamShield
   Helpline at 1799 if you are unsure whether something is a scam. For more
   information, visit www.scamshield.gov.sg.  Expect a better experience when our
-  new website goes live on 30 November 2026. Find out more
-  https://www.mlaw.gov.sg/upcoming-changes-to-the-minlaw-website/
+  new website goes live on 30 November 2026. Information on this website will be
+  moved to www.mlaw.gov.sg. Find out more here
 permalink: /
 sections:
   - hero:
