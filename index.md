@@ -1,15 +1,12 @@
 ---
 layout: homepage
 title: Ministry of Law - Public Trustee's Office
-notification: Government officials will <b>NEVER</b> ask you to transfer money
-  or disclose bank log-in details over a phone call. Call the 24/7 ScamShield
-  Helpline at 1799 if you are unsure if something is a scam. For more
-  information, visit <a target="_blank"
-  href="https://www.scamshield.gov.sg">www.scamshield.gov.sg</a>. <br><br>We are
-  refreshing the Ministry of Law websites. Information from this website will be
-  moved to <a target="_blank"
-  href="https://www.mlaw.gov.sg">http://www.mlaw.gov.sg/</a> for a more seamless
-  experience. Watch this space for updates.
+notification: Government officials will NEVER ask you to transfer money or
+  disclose bank log-in details over a phone call. Call the 24/7 ScamShield
+  Helpline at 1799 if you are unsure whether something is a scam. For more
+  information, visit www.scamshield.gov.sg.  Expect a better experience when our
+  new website goes live on 30 November 2026. Find out more
+  https://www.mlaw.gov.sg/upcoming-changes-to-the-minlaw-website/
 permalink: /
 sections:
   - hero:
